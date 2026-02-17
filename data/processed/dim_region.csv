@@ -1,0 +1,3820 @@
+"region_id","country_id","regulatory_region","state","city","tax_proxy_rate","regulation_intensity"
+1,64,"West","California","Los Angeles",NA,NA
+2,64,"West","California","San Francisco",NA,NA
+3,64,"West","California","San Diego",NA,NA
+4,64,"West","California","Roseville",NA,NA
+5,64,"West","California","Huntington Beach",NA,NA
+6,64,"West","California","Burbank",NA,NA
+7,64,"West","California","Pomona",NA,NA
+8,64,"West","California","Vallejo",NA,NA
+9,64,"West","California","Lodi",NA,NA
+10,64,"West","California","San Gabriel",NA,NA
+11,64,"West","California","San Jose",NA,NA
+12,64,"West","California","Riverside",NA,NA
+13,64,"West","California","Vacaville",NA,NA
+14,64,"West","California","Escondido",NA,NA
+15,64,"West","California","Santa Clara",NA,NA
+16,64,"West","California","Chula Vista",NA,NA
+17,64,"West","California","Long Beach",NA,NA
+18,64,"West","California","Manteca",NA,NA
+19,64,"West","California","Pasadena",NA,NA
+20,64,"West","California","Redondo Beach",NA,NA
+21,64,"West","California","Brentwood",NA,NA
+22,64,"West","California","Fresno",NA,NA
+23,64,"West","California","Oakland",NA,NA
+24,64,"West","California","Moreno Valley",NA,NA
+25,64,"West","California","Anaheim",NA,NA
+26,64,"West","California","Lancaster",NA,NA
+27,64,"West","California","San Bernardino",NA,NA
+28,64,"West","California","Santa Maria",NA,NA
+29,64,"West","California","Oxnard",NA,NA
+30,64,"West","California","Yucaipa",NA,NA
+31,64,"West","California","Murrieta",NA,NA
+32,64,"West","California","Redlands",NA,NA
+33,64,"West","California","Santa Barbara",NA,NA
+34,64,"West","California","Rancho Cucamonga",NA,NA
+35,64,"West","California","Salinas",NA,NA
+36,64,"West","California","Santa Ana",NA,NA
+37,64,"West","California","Lakewood",NA,NA
+38,64,"West","California","Chico",NA,NA
+39,64,"West","California","San Clemente",NA,NA
+40,64,"West","California","Mission Viejo",NA,NA
+41,64,"West","California","Visalia",NA,NA
+42,64,"West","California","Lake Forest",NA,NA
+43,64,"West","California","San Luis Obispo",NA,NA
+44,64,"West","California","Morgan Hill",NA,NA
+45,64,"West","California","Sacramento",NA,NA
+46,64,"West","California","Torrance",NA,NA
+47,64,"West","California","Fairfield",NA,NA
+48,64,"West","California","Westminster",NA,NA
+49,64,"West","California","Thousand Oaks",NA,NA
+50,64,"West","California","San Mateo",NA,NA
+51,64,"West","California","Apple Valley",NA,NA
+52,64,"West","California","Concord",NA,NA
+53,64,"West","California","Inglewood",NA,NA
+54,64,"West","California","Bakersfield",NA,NA
+55,64,"West","California","Camarillo",NA,NA
+56,64,"West","California","Woodland",NA,NA
+57,64,"West","California","Danville",NA,NA
+58,64,"West","California","Coachella",NA,NA
+59,64,"West","California","Sunnyvale",NA,NA
+60,64,"West","California","Costa Mesa",NA,NA
+61,64,"West","California","Davis",NA,NA
+62,64,"West","California","Laguna Niguel",NA,NA
+63,64,"West","California","Stockton",NA,NA
+64,64,"West","California","Oceanside",NA,NA
+65,64,"West","California","Antioch",NA,NA
+66,64,"East","New York","Troy",NA,NA
+67,64,"East","New York","Watertown",NA,NA
+68,64,"East","New York","Long Beach",NA,NA
+69,64,"East","New York","New Rochelle",NA,NA
+70,64,"East","New York","Rochester",NA,NA
+71,64,"East","New York","Lindenhurst",NA,NA
+72,64,"East","New York","Oceanside",NA,NA
+73,64,"East","New York","Niagara Falls",NA,NA
+74,64,"East","New York","Mount Vernon",NA,NA
+75,64,"East","New York","Auburn",NA,NA
+76,64,"East","New York","Rome",NA,NA
+77,64,"East","New York","Hempstead",NA,NA
+78,64,"East","New York","Yonkers",NA,NA
+79,64,"East","New York","Utica",NA,NA
+80,64,"East","New York","Freeport",NA,NA
+81,64,"East","New York","Buffalo",NA,NA
+82,64,"East","New York","New York City",NA,NA
+83,64,"West","Washington","Seattle",NA,NA
+84,64,"West","Washington","Kent",NA,NA
+85,64,"West","Washington","Bellevue",NA,NA
+86,64,"West","Washington","Pasco",NA,NA
+87,64,"West","Washington","Edmonds",NA,NA
+88,64,"West","Washington","Olympia",NA,NA
+89,64,"West","Washington","Spokane",NA,NA
+90,64,"West","Washington","Des Moines",NA,NA
+91,64,"West","Washington","Redmond",NA,NA
+92,64,"West","Washington","Covington",NA,NA
+93,64,"West","Washington","Marysville",NA,NA
+94,64,"West","Washington","Vancouver",NA,NA
+95,64,"West","Washington","Longview",NA,NA
+96,64,"West","Washington","Renton",NA,NA
+97,64,"West","Nevada","Las Vegas",NA,NA
+98,64,"West","Utah","Logan",NA,NA
+99,64,"West","Montana","Great Falls",NA,NA
+100,64,"West","Utah","West Jordan",NA,NA
+101,64,"West","Utah","Murray",NA,NA
+102,64,"West","Nevada","North Las Vegas",NA,NA
+103,64,"West","Utah","Pleasant Grove",NA,NA
+104,64,"West","Nevada","Reno",NA,NA
+105,64,"West","New Mexico","Albuquerque",NA,NA
+106,64,"West","Utah","Provo",NA,NA
+107,64,"West","Utah","Salt Lake City",NA,NA
+108,64,"West","Idaho","Caldwell",NA,NA
+109,64,"West","Montana","Bozeman",NA,NA
+110,64,"West","New Mexico","Las Cruces",NA,NA
+111,64,"West","New Mexico","Farmington",NA,NA
+112,64,"West","Utah","Orem",NA,NA
+113,64,"West","Utah","Layton",NA,NA
+114,64,"West","New Mexico","Santa Fe",NA,NA
+115,64,"West","Nevada","Sparks",NA,NA
+116,64,"West","Idaho","Pocatello",NA,NA
+117,64,"West","New Mexico","Carlsbad",NA,NA
+118,64,"West","Montana","Helena",NA,NA
+119,64,"West","Idaho","Meridian",NA,NA
+120,64,"East","Maryland","Baltimore",NA,NA
+121,64,"East","New Hampshire","Dover",NA,NA
+122,64,"East","Connecticut","Meriden",NA,NA
+123,64,"East","Delaware","Newark",NA,NA
+124,64,"East","Connecticut","Bristol",NA,NA
+125,64,"East","Maine","Bangor",NA,NA
+126,64,"East","Connecticut","Fairfield",NA,NA
+127,64,"East","Delaware","Dover",NA,NA
+128,64,"East","New Hampshire","Concord",NA,NA
+129,64,"East","Rhode Island","Cranston",NA,NA
+130,64,"East","Delaware","Wilmington",NA,NA
+131,64,"East","Maryland","Clinton",NA,NA
+132,64,"East","Rhode Island","Providence",NA,NA
+133,64,"East","Maryland","Columbia",NA,NA
+134,64,"East","Connecticut","Norwich",NA,NA
+135,64,"East","District of Columbia","Washington",NA,NA
+136,64,"East","Rhode Island","Woonsocket",NA,NA
+137,64,"East","Connecticut","Manchester",NA,NA
+138,64,"East","Maine","Lewiston",NA,NA
+139,64,"East","Maryland","Rockville",NA,NA
+140,64,"East","Connecticut","Middletown",NA,NA
+141,64,"East","Vermont","Burlington",NA,NA
+142,64,"East","Connecticut","Milford",NA,NA
+143,64,"East","Connecticut","Waterbury",NA,NA
+144,64,"East","Rhode Island","Warwick",NA,NA
+145,64,"East","Connecticut","Shelton",NA,NA
+146,64,"East","Maryland","Laurel",NA,NA
+147,64,"East","West Virginia","Wheeling",NA,NA
+148,64,"East","New Hampshire","Nashua",NA,NA
+149,64,"East","Maryland","Hagerstown",NA,NA
+150,64,"East","Massachusetts","Revere",NA,NA
+151,64,"East","Massachusetts","Lawrence",NA,NA
+152,64,"East","Massachusetts","Lowell",NA,NA
+153,64,"East","Massachusetts","Everett",NA,NA
+154,64,"East","Massachusetts","Beverly",NA,NA
+155,64,"East","Massachusetts","Leominster",NA,NA
+156,64,"East","Massachusetts","Franklin",NA,NA
+157,64,"East","Massachusetts","New Bedford",NA,NA
+158,64,"East","Massachusetts","Cambridge",NA,NA
+159,64,"East","Massachusetts","Quincy",NA,NA
+160,64,"East","Massachusetts","Andover",NA,NA
+161,64,"East","Massachusetts","Malden",NA,NA
+162,64,"East","New Jersey","Lakewood",NA,NA
+163,64,"East","New Jersey","Plainfield",NA,NA
+164,64,"East","New Jersey","Hackensack",NA,NA
+165,64,"East","New Jersey","Clifton",NA,NA
+166,64,"East","New Jersey","Orange",NA,NA
+167,64,"East","New Jersey","Perth Amboy",NA,NA
+168,64,"East","New Jersey","Paterson",NA,NA
+169,64,"East","New Jersey","Vineland",NA,NA
+170,64,"East","New Jersey","Bayonne",NA,NA
+171,64,"East","New Jersey","Morristown",NA,NA
+172,64,"East","New Jersey","Westfield",NA,NA
+173,64,"East","New Jersey","Atlantic City",NA,NA
+174,64,"East","New Jersey","Passaic",NA,NA
+175,64,"East","New Jersey","Belleville",NA,NA
+176,64,"East","New Jersey","Bridgeton",NA,NA
+177,64,"East","New Jersey","East Orange",NA,NA
+178,64,"East","New Jersey","New Brunswick",NA,NA
+179,64,"South","Georgia","Athens",NA,NA
+180,64,"South","Georgia","Marietta",NA,NA
+181,64,"South","Georgia","Roswell",NA,NA
+182,64,"South","Georgia","Atlanta",NA,NA
+183,64,"South","Georgia","Woodstock",NA,NA
+184,64,"South","Georgia","Columbus",NA,NA
+185,64,"South","Georgia","Macon",NA,NA
+186,64,"South","Georgia","Sandy Springs",NA,NA
+187,64,"South","Georgia","East Point",NA,NA
+188,64,"South","Georgia","Smyrna",NA,NA
+189,64,"South","Georgia","Warner Robins",NA,NA
+190,64,"South","Kentucky","Henderson",NA,NA
+191,64,"South","Kentucky","Richmond",NA,NA
+192,64,"South","Kentucky","Louisville",NA,NA
+193,64,"South","Kentucky","Owensboro",NA,NA
+194,64,"South","Kentucky","Florence",NA,NA
+195,64,"South","Kentucky","Georgetown",NA,NA
+196,64,"South","Kentucky","Murray",NA,NA
+197,64,"South","Louisiana","Bossier City",NA,NA
+198,64,"South","Arkansas","Jonesboro",NA,NA
+199,64,"South","South Carolina","Columbia",NA,NA
+200,64,"South","Mississippi","Jackson",NA,NA
+201,64,"South","Louisiana","Lafayette",NA,NA
+202,64,"South","Louisiana","Lake Charles",NA,NA
+203,64,"South","Mississippi","Southaven",NA,NA
+204,64,"South","Arkansas","Little Rock",NA,NA
+205,64,"South","Arkansas","Fayetteville",NA,NA
+206,64,"South","Alabama","Montgomery",NA,NA
+207,64,"South","South Carolina","Rock Hill",NA,NA
+208,64,"South","Alabama","Florence",NA,NA
+209,64,"South","Alabama","Decatur",NA,NA
+210,64,"South","Alabama","Auburn",NA,NA
+211,64,"South","Alabama","Huntsville",NA,NA
+212,64,"South","South Carolina","Florence",NA,NA
+213,64,"South","Louisiana","Monroe",NA,NA
+214,64,"South","South Carolina","North Charleston",NA,NA
+215,64,"South","Mississippi","Gulfport",NA,NA
+216,64,"South","Arkansas","Hot Springs",NA,NA
+217,64,"South","Mississippi","Hattiesburg",NA,NA
+218,64,"South","Louisiana","Kenner",NA,NA
+219,64,"South","Alabama","Mobile",NA,NA
+220,64,"South","Alabama","Tuscaloosa",NA,NA
+221,64,"South","Alabama","Hoover",NA,NA
+222,64,"South","Arkansas","Rogers",NA,NA
+223,64,"South","Arkansas","Pine Bluff",NA,NA
+224,64,"South","Arkansas","Springdale",NA,NA
+225,64,"South","South Carolina","Summerville",NA,NA
+226,64,"South","Virginia","Chesapeake",NA,NA
+227,64,"South","Virginia","Alexandria",NA,NA
+228,64,"South","Virginia","Arlington",NA,NA
+229,64,"South","Virginia","Virginia Beach",NA,NA
+230,64,"South","Virginia","Waynesboro",NA,NA
+231,64,"South","Virginia","Richmond",NA,NA
+232,64,"South","Virginia","Harrisonburg",NA,NA
+233,64,"South","Virginia","Springfield",NA,NA
+234,64,"South","Virginia","Hampton",NA,NA
+235,64,"South","Virginia","Suffolk",NA,NA
+236,64,"South","Virginia","Newport News",NA,NA
+237,64,"South","Virginia","Salem",NA,NA
+238,64,"South","Virginia","Charlottesville",NA,NA
+239,64,"Central","Indiana","Lafayette",NA,NA
+240,64,"Central","Indiana","Portage",NA,NA
+241,64,"Central","Indiana","Bloomington",NA,NA
+242,64,"Central","Indiana","Indianapolis",NA,NA
+243,64,"Central","Indiana","Columbus",NA,NA
+244,64,"Central","Indiana","Richmond",NA,NA
+245,64,"Central","Indiana","New Castle",NA,NA
+246,64,"Central","Indiana","New Albany",NA,NA
+247,64,"Central","Indiana","South Bend",NA,NA
+248,64,"Central","Indiana","Noblesville",NA,NA
+249,64,"Central","Indiana","Lawrence",NA,NA
+250,64,"Central","Indiana","Mishawaka",NA,NA
+251,64,"Central","Indiana","La Porte",NA,NA
+252,64,"Central","Indiana","Elkhart",NA,NA
+253,64,"Central","Indiana","Greenwood",NA,NA
+254,64,"Central","Minnesota","Lakeville",NA,NA
+255,64,"Central","Minnesota","Apple Valley",NA,NA
+256,64,"Central","Minnesota","Minneapolis",NA,NA
+257,64,"Central","Minnesota","Coon Rapids",NA,NA
+258,64,"Central","Minnesota","Cottage Grove",NA,NA
+259,64,"Central","Minnesota","Woodbury",NA,NA
+260,64,"Central","Minnesota","Eagan",NA,NA
+261,64,"Central","Minnesota","Rochester",NA,NA
+262,64,"Central","Minnesota","Roseville",NA,NA
+263,64,"Central","Minnesota","Saint Paul",NA,NA
+264,64,"Central","Minnesota","Maple Grove",NA,NA
+265,64,"Central","South Dakota","Rapid City",NA,NA
+266,64,"Central","Missouri","Columbia",NA,NA
+267,64,"Central","Iowa","Des Moines",NA,NA
+268,64,"Central","Wisconsin","Appleton",NA,NA
+269,64,"Central","Wisconsin","Eau Claire",NA,NA
+270,64,"Central","Oklahoma","Lawton",NA,NA
+271,64,"Central","South Dakota","Sioux Falls",NA,NA
+272,64,"Central","Missouri","Springfield",NA,NA
+273,64,"Central","Missouri","Saint Charles",NA,NA
+274,64,"Central","Oklahoma","Tulsa",NA,NA
+275,64,"Central","Kansas","Olathe",NA,NA
+276,64,"Central","Nebraska","Omaha",NA,NA
+277,64,"Central","Wisconsin","Wausau",NA,NA
+278,64,"Central","Wisconsin","Madison",NA,NA
+279,64,"Central","Missouri","Saint Louis",NA,NA
+280,64,"Central","Kansas","Garden City",NA,NA
+281,64,"Central","Wisconsin","Kenosha",NA,NA
+282,64,"Central","Wisconsin","Milwaukee",NA,NA
+283,64,"Central","Nebraska","Norfolk",NA,NA
+284,64,"Central","Kansas","Wichita",NA,NA
+285,64,"Central","Missouri","Kirkwood",NA,NA
+286,64,"Central","Iowa","Dubuque",NA,NA
+287,64,"Central","Oklahoma","Oklahoma City",NA,NA
+288,64,"Central","Wisconsin","Superior",NA,NA
+289,64,"Central","Oklahoma","Broken Arrow",NA,NA
+290,64,"Central","Wisconsin","Franklin",NA,NA
+291,64,"Central","Wisconsin","La Crosse",NA,NA
+292,64,"Central","Wisconsin","West Allis",NA,NA
+293,64,"Central","Wisconsin","Sheboygan",NA,NA
+294,64,"Central","Wisconsin","Waukesha",NA,NA
+295,64,"Central","Iowa","Iowa City",NA,NA
+296,64,"Central","Iowa","Urbandale",NA,NA
+297,64,"Central","Oklahoma","Edmond",NA,NA
+298,64,"Central","Kansas","Overland Park",NA,NA
+299,64,"Central","Iowa","Marion",NA,NA
+300,64,"Central","Nebraska","Fremont",NA,NA
+301,64,"Central","Oklahoma","Muskogee",NA,NA
+302,64,"Central","North Dakota","Fargo",NA,NA
+303,64,"Central","Iowa","Waterloo",NA,NA
+304,64,"Central","Missouri","Independence",NA,NA
+305,64,"Central","Wisconsin","Green Bay",NA,NA
+306,64,"Central","Nebraska","Grand Island",NA,NA
+307,64,"Central","South Dakota","Aberdeen",NA,NA
+308,64,"Central","Iowa","Burlington",NA,NA
+309,64,"Central","Michigan","Westland",NA,NA
+310,64,"Central","Michigan","Detroit",NA,NA
+311,64,"Central","Michigan","Royal Oak",NA,NA
+312,64,"Central","Michigan","Dearborn Heights",NA,NA
+313,64,"Central","Michigan","Jackson",NA,NA
+314,64,"Central","Michigan","Midland",NA,NA
+315,64,"Central","Michigan","Trenton",NA,NA
+316,64,"Central","Michigan","Grand Rapids",NA,NA
+317,64,"Central","Michigan","Taylor",NA,NA
+318,64,"Central","Michigan","Sterling Heights",NA,NA
+319,64,"Central","Michigan","Lansing",NA,NA
+320,64,"Central","Michigan","Holland",NA,NA
+321,64,"Central","Michigan","Lincoln Park",NA,NA
+322,64,"Central","Michigan","Ann Arbor",NA,NA
+323,64,"Central","Michigan","Dearborn",NA,NA
+324,64,"Central","Michigan","Roseville",NA,NA
+325,64,"Central","Michigan","Canton",NA,NA
+326,64,"Central","Michigan","Saginaw",NA,NA
+327,65,"Central","Rhône-Alpes","Echirolles",NA,NA
+328,65,"Central","Ile-de-France","Noisy-le-Sec",NA,NA
+329,65,"Central","Languedoc-Roussillon","Carcassonne",NA,NA
+330,65,"Central","Ile-de-France","Versailles",NA,NA
+331,65,"Central","Ile-de-France","Argenteuil",NA,NA
+332,65,"Central","Brittany","Rennes",NA,NA
+333,65,"Central","Brittany","Brest",NA,NA
+334,65,"Central","Pays de la Loire","La Baule-Escoublac",NA,NA
+335,65,"Central","Provence-Alpes-Côte d'Azur","Marseille",NA,NA
+336,65,"Central","Languedoc-Roussillon","Lunel",NA,NA
+337,65,"Central","Upper Normandy","Rouen",NA,NA
+338,65,"Central","Ile-de-France","Corbeil-Essonnes",NA,NA
+339,65,"Central","Rhône-Alpes","Annecy",NA,NA
+340,65,"Central","Pays de la Loire","Angers",NA,NA
+341,65,"Central","Ile-de-France","Massy",NA,NA
+342,65,"Central","Aquitaine","Mont-de-Marsan",NA,NA
+343,65,"Central","Centre","Montargis",NA,NA
+344,65,"Central","Lower Normandy","Caen",NA,NA
+345,65,"Central","Ile-de-France","Boulogne-Billancourt",NA,NA
+346,65,"Central","Auvergne","Cournon-d'Auvergne",NA,NA
+347,65,"Central","Burgundy","Auxerre",NA,NA
+348,65,"Central","Lorraine","Nancy",NA,NA
+349,65,"Central","Nord-Pas-de-Calais","Faches-Thumesnil",NA,NA
+350,65,"Central","Provence-Alpes-Côte d'Azur","Sanary-sur-Mer",NA,NA
+351,65,"Central","Ile-de-France","Pontoise",NA,NA
+352,65,"Central","Aquitaine","Bergerac",NA,NA
+353,65,"Central","Ile-de-France","Alfortville",NA,NA
+354,65,"Central","Midi-Pyrénées","Tournefeuille",NA,NA
+355,65,"Central","Rhône-Alpes","Albertville",NA,NA
+356,65,"Central","Rhône-Alpes","Lyon",NA,NA
+357,65,"Central","Ile-de-France","Champigny-sur-Marne",NA,NA
+358,65,"Central","Provence-Alpes-Côte d'Azur","Aix-en-Provence",NA,NA
+359,65,"Central","Brittany","Lanester",NA,NA
+360,65,"Central","Aquitaine","Bayonne",NA,NA
+361,65,"Central","Ile-de-France","Palaiseau",NA,NA
+362,65,"Central","Ile-de-France","Paris",NA,NA
+363,65,"Central","Brittany","Lorient",NA,NA
+364,65,"Central","Ile-de-France","Moissy-Cramayel",NA,NA
+365,65,"Central","Auvergne","Vichy",NA,NA
+366,65,"Central","Auvergne","Clermont-Ferrand",NA,NA
+367,65,"Central","Pays de la Loire","Cholet",NA,NA
+368,65,"Central","Ile-de-France","Antony",NA,NA
+369,65,"Central","Rhône-Alpes","Saint-Chamond",NA,NA
+370,65,"Central","Ile-de-France","Les Lilas",NA,NA
+371,65,"Central","Aquitaine","Bordeaux",NA,NA
+372,65,"Central","Pays de la Loire","Nantes",NA,NA
+373,65,"Central","Aquitaine","Villeneuve-sur-Lot",NA,NA
+374,65,"Central","Ile-de-France","Cormeilles-en-Parisis",NA,NA
+375,65,"Central","Ile-de-France","Bagnolet",NA,NA
+376,65,"Central","Ile-de-France","Sartrouville",NA,NA
+377,65,"Central","Provence-Alpes-Côte d'Azur","Marignane",NA,NA
+378,65,"Central","Aquitaine","Pessac",NA,NA
+379,66,"Central","North Rhine-Westphalia","Bochum",NA,NA
+380,67,"Central","San Salvador","Soyapango",NA,NA
+381,66,"Central","North Rhine-Westphalia","Leverkusen",NA,NA
+382,67,"Central","San Salvador","San Salvador",NA,NA
+383,66,"Central","North Rhine-Westphalia","Arnsberg",NA,NA
+384,66,"Central","North Rhine-Westphalia","Wuppertal",NA,NA
+385,67,"Central","San Salvador","Delgado",NA,NA
+386,68,"Central","Huehuetenango","Huehuetenango",NA,NA
+387,69,"Central","Vienna","Vienna",NA,NA
+388,70,"Central","Managua","Managua",NA,NA
+389,66,"Central","Bavaria","Munich",NA,NA
+390,68,"Central","Guatemala","Villa Nueva",NA,NA
+391,68,"Central","Guatemala","Guatemala City",NA,NA
+392,66,"Central","Mecklenburg-Vorpommern","Rostock",NA,NA
+393,66,"Central","Baden-Württemberg","Freiburg",NA,NA
+394,66,"Central","Hamburg","Hamburg",NA,NA
+395,68,"Central","Guatemala","Mixco",NA,NA
+396,66,"Central","North Rhine-Westphalia","Halle",NA,NA
+397,66,"Central","North Rhine-Westphalia","Gronau",NA,NA
+398,70,"Central","Masaya","Masaya",NA,NA
+399,66,"Central","Bremen","Bremen",NA,NA
+400,66,"Central","Baden-Württemberg","Offenburg",NA,NA
+401,66,"Central","North Rhine-Westphalia","Dorsten",NA,NA
+402,66,"Central","Brandenburg","Potsdam",NA,NA
+403,66,"Central","North Rhine-Westphalia","Duisburg",NA,NA
+404,66,"Central","North Rhine-Westphalia","Grevenbroich",NA,NA
+405,66,"Central","North Rhine-Westphalia","Solingen",NA,NA
+406,66,"Central","Bavaria","Aschaffenburg",NA,NA
+407,66,"Central","Lower Saxony","Munster",NA,NA
+408,70,"Central","Granada","Granada",NA,NA
+409,66,"Central","Thuringia","Erfurt",NA,NA
+410,66,"Central","North Rhine-Westphalia","Remscheid",NA,NA
+411,67,"Central","La Libertad","Antiguo Cuscatlán",NA,NA
+412,67,"Central","San Salvador","Mejicanos",NA,NA
+413,66,"Central","North Rhine-Westphalia","Dortmund",NA,NA
+414,67,"Central","San Salvador","Apopa",NA,NA
+415,68,"Central","Guatemala","Villa Canales",NA,NA
+416,67,"Central","Santa Ana","Santa Ana",NA,NA
+417,71,"Central","East Flanders","Ghent",NA,NA
+418,67,"Central","San Salvador","Ilopango",NA,NA
+419,68,"Central","Guatemala","Petapa",NA,NA
+420,71,"Central","Limburg","Genk",NA,NA
+421,67,"Central","Sonsonate","Sonsonate",NA,NA
+422,72,"Central","Bern","Berne",NA,NA
+423,66,"Central","Rhineland-Palatinate","Mainz",NA,NA
+424,68,"Central","Guatemala","Chinautla",NA,NA
+425,70,"Central","Matagalpa","Matagalpa",NA,NA
+426,66,"Central","Hesse","Offenbach",NA,NA
+427,66,"Central","North Rhine-Westphalia","Cologne",NA,NA
+428,68,"Central","Escuintla","Escuintla",NA,NA
+429,70,"Central","León","León",NA,NA
+430,73,"South","Sicily","Trapani",NA,NA
+431,74,"Africa","Free State","Bloemfontein",NA,NA
+432,75,"Central Asia","Telangana","Hyderabad",NA,NA
+433,76,"North Asia","Hong Kong","Kowloon",NA,NA
+434,74,"Africa","Gauteng","Johannesburg",NA,NA
+435,77,"Africa","Orientale","Kisangani",NA,NA
+436,78,"Caribbean","Santiago de Cuba","Palma Soriano",NA,NA
+437,79,"North","England","Wigan",NA,NA
+438,80,"South","Catalonia","Barcelona",NA,NA
+439,80,"South","Castile and León","Ponferrada",NA,NA
+440,81,"EMEA","Bashkortostan","Ufa",NA,NA
+441,82,"North Asia","Guangdong","Jieyang",NA,NA
+442,83,"Africa","Niamey","Niamey",NA,NA
+443,84,"EMEA","Ad Dawhah","Doha",NA,NA
+444,85,"Oceania","Marlborough","Blenheim",NA,NA
+445,86,"North","Puebla","Puebla",NA,NA
+446,82,"North Asia","Jiangsu","Taizhou",NA,NA
+447,86,"North","Distrito Federal","Cuajimalpa",NA,NA
+448,75,"Central Asia","Tamil Nadu","Madurai",NA,NA
+449,87,"Southeast Asia","Perak","Ipoh",NA,NA
+450,82,"North Asia","Liaoning","Shenyang",NA,NA
+451,79,"North","England","Hastings",NA,NA
+452,75,"Central Asia","Madhya Pradesh","Jabalpur",NA,NA
+453,88,"EMEA","Lublin","Lublin",NA,NA
+454,75,"Central Asia","Uttar Pradesh","Hapur",NA,NA
+455,75,"Central Asia","Andhra Pradesh","Guntur",NA,NA
+456,86,"North","Quintana Roo","Cancún",NA,NA
+457,89,"Africa","Haute-Matsiatra","Fianarantsoa",NA,NA
+458,90,"EMEA","Ninawa","Mosul",NA,NA
+459,91,"South","São Paulo","Cotia",NA,NA
+460,78,"Caribbean","Granma","Manzanillo",NA,NA
+461,86,"North","Sonora","Obregón",NA,NA
+462,92,"South","Bogota","Bogotá",NA,NA
+463,86,"North","Jalisco","Guadalajara",NA,NA
+464,80,"South","Valenciana","Valencia",NA,NA
+465,80,"South","Madrid","Madrid",NA,NA
+466,78,"Caribbean","Guantánamo","Guantánamo",NA,NA
+467,75,"Central Asia","Odisha","Brahmapur",NA,NA
+468,93,"EMEA","Makkah","Jeddah",NA,NA
+469,94,"Africa","Bur Sa'id","Port Said",NA,NA
+470,91,"South","Rio Grande do Sul","Santa Rosa",NA,NA
+471,79,"North","England","Bebington",NA,NA
+472,95,"EMEA","Markazi","Saveh",NA,NA
+473,75,"Central Asia","Chhattisgarh","Bhilai",NA,NA
+474,96,"EMEA","Ivano-Frankivsk","Ivano-Frankivs'k",NA,NA
+475,73,"South","Piedmont","Turin",NA,NA
+476,79,"North","England","Cheltenham",NA,NA
+477,97,"North Asia","Oita","Matsubara",NA,NA
+478,94,"Africa","Al Qahirah","Cairo",NA,NA
+479,82,"North Asia","Shanxi","Taiyuan",NA,NA
+480,75,"Central Asia","Maharashtra","Pune",NA,NA
+481,86,"North","Tabasco","Villahermosa",NA,NA
+482,82,"North Asia","Jiangxi","Yichun",NA,NA
+483,75,"Central Asia","Maharashtra","Aurangabad",NA,NA
+484,86,"North","Veracruz","San Andrés Tuxtla",NA,NA
+485,75,"Central Asia","Rajasthan","Jaipur",NA,NA
+486,98,"Africa","Marrakech-Tensift-El Haouz","Marrakech",NA,NA
+487,85,"Oceania","Taranaki","New Plymouth",NA,NA
+488,75,"Central Asia","Uttar Pradesh","Mathura",NA,NA
+489,79,"North","England","Nottingham",NA,NA
+490,87,"Southeast Asia","Pahang","Kuantan",NA,NA
+491,82,"North Asia","Hunan","Hengyang",NA,NA
+492,82,"North Asia","Jiangxi","Pingxiang",NA,NA
+493,99,"Africa","Centre","Yaounde",NA,NA
+494,82,"North Asia","Shandong","Tengzhou",NA,NA
+495,86,"North","Distrito Federal","Mexico City",NA,NA
+496,82,"North Asia","Tianjin","Tianjin",NA,NA
+497,100,"South","O'Higgins","Rancagua",NA,NA
+498,78,"Caribbean","Pinar del Río","Pinar del Río",NA,NA
+499,79,"North","England","Leeds",NA,NA
+500,78,"Caribbean","Mayabeque","San José de las Lajas",NA,NA
+501,73,"South","Veneto","Venice",NA,NA
+502,101,"Africa","Ashanti","Kumasi",NA,NA
+503,79,"North","England","Aylesbury",NA,NA
+504,82,"North Asia","Jilin","Jiutai",NA,NA
+505,102,"Caribbean","San Fernando","San Fernando",NA,NA
+506,86,"North","Nuevo León","Apodaca",NA,NA
+507,92,"South","Tolima","Ibagué",NA,NA
+508,75,"Central Asia","Maharashtra","Jalna",NA,NA
+509,98,"Africa","Doukkala-Abda","Safi",NA,NA
+510,86,"North","San Luis Potosí","San Luis Potosí",NA,NA
+511,86,"North","Guanajuato","Salamanca",NA,NA
+512,80,"South","Valenciana","Elx",NA,NA
+513,82,"North Asia","Hunan","Changsha",NA,NA
+514,82,"North Asia","Chongqing","Chongqing",NA,NA
+515,91,"South","Parana","Toledo",NA,NA
+516,91,"South","Ceará","Fortaleza",NA,NA
+517,79,"North","England","Northwich",NA,NA
+518,91,"South","Minas Gerais","Montes Claros",NA,NA
+519,86,"North","Michoacán","Morelia",NA,NA
+520,78,"Caribbean","Santiago de Cuba","Santiago de Cuba",NA,NA
+521,103,"Canada","Ontario","Ottawa",NA,NA
+522,86,"North","Nayarit","Tepic",NA,NA
+523,73,"South","Sicily","Palermo",NA,NA
+524,86,"North","Sonora","Guaymas",NA,NA
+525,104,"Africa","Mandoul","Koumra",NA,NA
+526,105,"Africa","Central","Thika",NA,NA
+527,79,"North","England","Maidenhead",NA,NA
+528,79,"North","Scotland","Edinburgh",NA,NA
+529,79,"North","England","Bury",NA,NA
+530,82,"North Asia","Fujian","Jinjiang",NA,NA
+531,106,"Central Asia","Dhaka","Dhaka",NA,NA
+532,107,"EMEA","Plovdiv","Plovdiv",NA,NA
+533,91,"South","São Paulo","Guarulhos",NA,NA
+534,85,"Oceania","Hawke's Bay","Napier",NA,NA
+535,82,"North Asia","Zhejiang","Ningbo",NA,NA
+536,103,"Canada","Ontario","Mississauga",NA,NA
+537,108,"Africa","Djibouti","Djibouti",NA,NA
+538,90,"EMEA","Baghdad","Baghdad",NA,NA
+539,109,"South","Montevideo","Montevideo",NA,NA
+540,86,"North","Baja California","Mexicali",NA,NA
+541,75,"Central Asia","Maharashtra","Kalyan",NA,NA
+542,110,"Southeast Asia","Singapore","Singapore",NA,NA
+543,80,"South","Andalusía","Seville",NA,NA
+544,79,"North","England","Kettering",NA,NA
+545,73,"South","Apulia","Trani",NA,NA
+546,91,"South","São Paulo","Jundiaí",NA,NA
+547,98,"Africa","Grand Casablanca","Casablanca",NA,NA
+548,86,"North","México","Toluca",NA,NA
+549,79,"North","England","Kingswood",NA,NA
+550,86,"North","Nuevo León","Garza García",NA,NA
+551,73,"South","Campania","Marano di Napoli",NA,NA
+552,75,"Central Asia","Karnataka","Mangalore",NA,NA
+553,79,"North","England","Burnley",NA,NA
+554,82,"North Asia","Jiangsu","Huaiyin",NA,NA
+555,103,"Canada","Ontario","Kingston",NA,NA
+556,79,"North","England","Lincoln",NA,NA
+557,73,"South","Lombardy","Bergamo",NA,NA
+558,82,"North Asia","Shanghai","Shanghai",NA,NA
+559,111,"EMEA","Prague","Prague",NA,NA
+560,112,"Africa","Copperbelt","Ndola",NA,NA
+561,79,"North","England","Solihull",NA,NA
+562,91,"South","Santa Catarina","Navegantes",NA,NA
+563,91,"South","Bahia","Feira de Santana",NA,NA
+564,100,"South","Los Lagos","Puerto Montt",NA,NA
+565,79,"North","Scotland","Glasgow",NA,NA
+566,113,"South","Santa Cruz","Santa Cruz de la Sierra",NA,NA
+567,73,"South","Lazio","Rome",NA,NA
+568,114,"Africa","Luanda","Luanda",NA,NA
+569,75,"Central Asia","Uttar Pradesh","Lucknow",NA,NA
+570,91,"South","Rio de Janeiro","Petrópolis",NA,NA
+571,75,"Central Asia","Tamil Nadu","Tirunelveli",NA,NA
+572,115,"Oceania","Northern Territory","Alice Springs",NA,NA
+573,80,"South","Castile-La Mancha","Puertollano",NA,NA
+574,73,"South","Lombardy","Milan",NA,NA
+575,91,"South","São Paulo","São Paulo",NA,NA
+576,106,"Central Asia","Chittagong","Chittagong",NA,NA
+577,86,"North","Colima","Colima",NA,NA
+578,85,"Oceania","Waikato","Taupo",NA,NA
+579,79,"North","England","Blackpool",NA,NA
+580,86,"North","Durango","Durango",NA,NA
+581,92,"South","Caldas","Manizales",NA,NA
+582,86,"North","Guanajuato","Irapuato",NA,NA
+583,78,"Caribbean","Granma","Bayamo",NA,NA
+584,79,"North","England","Northampton",NA,NA
+585,79,"North","Wales","Rhondda",NA,NA
+586,97,"North Asia","Osaka","Hirakata",NA,NA
+587,81,"EMEA","Chelyabinsk","Chelyabinsk",NA,NA
+588,116,"Africa","Dar Es Salaam","Dar es Salaam",NA,NA
+589,86,"North","Jalisco","Tlaquepaque",NA,NA
+590,91,"South","Bahia","Jequié",NA,NA
+591,86,"North","Tamaulipas","Madero",NA,NA
+592,78,"Caribbean","Santiago de Cuba","Contramaestre",NA,NA
+593,82,"North Asia","Fujian","Zhangzhou",NA,NA
+594,81,"EMEA","Yaroslavl'","Rybinsk",NA,NA
+595,82,"North Asia","Gansu","Suzhou",NA,NA
+596,86,"North","Chiapas","San Cristóbal de Las Casas",NA,NA
+597,80,"South","Basque Country","Bilbao",NA,NA
+598,79,"North","England","Bristol",NA,NA
+599,77,"Africa","Kinshasa","Kinshasa",NA,NA
+600,75,"Central Asia","Maharashtra","Parbhani",NA,NA
+601,87,"Southeast Asia","Sabah","Kota Kinabalu",NA,NA
+602,91,"South","Sergipe","Aracaju",NA,NA
+603,75,"Central Asia","Assam","Guwahati",NA,NA
+604,73,"South","Sicily","Agrigento",NA,NA
+605,75,"Central Asia","West Bengal","Kulti",NA,NA
+606,78,"Caribbean","Pinar del Río","Consolación del Sur",NA,NA
+607,91,"South","São Paulo","Taboão da Serra",NA,NA
+608,82,"North Asia","Guangdong","Chaozhou",NA,NA
+609,115,"Oceania","Australian Capital Territory","Canberra",NA,NA
+610,117,"North","Oslo","Oslo",NA,NA
+611,86,"North","México","Nicolás Romero",NA,NA
+612,75,"Central Asia","Kerala","Kozhikode",NA,NA
+613,80,"South","Murcia","Murcia",NA,NA
+614,92,"South","Valle del Cauca","Palmira",NA,NA
+615,82,"North Asia","Hunan","Liuyang",NA,NA
+616,78,"Caribbean","Las Tunas","Las Tunas",NA,NA
+617,82,"North Asia","Jilin","Changchun",NA,NA
+618,79,"North","England","Stoke-on-Trent",NA,NA
+619,75,"Central Asia","Uttar Pradesh","Aligarh",NA,NA
+620,95,"EMEA","Fars","Shiraz",NA,NA
+621,101,"Africa","Greater Accra","Accra",NA,NA
+622,82,"North Asia","Henan","Nanyang",NA,NA
+623,73,"South","Veneto","Rovigo",NA,NA
+624,82,"North Asia","Heilongjiang","Jixi",NA,NA
+625,118,"Africa","Southern","Bo",NA,NA
+626,103,"Canada","Quebec","Montréal",NA,NA
+627,86,"North","Guanajuato","Acámbaro",NA,NA
+628,82,"North Asia","Jiangsu","Xinghua",NA,NA
+629,79,"North","England","Brighton",NA,NA
+630,74,"Africa","Kwazulu-natal","Pietermaritzburg",NA,NA
+631,82,"North Asia","Hunan","Yiyang",NA,NA
+632,86,"North","Sonora","Hermosillo",NA,NA
+633,79,"North","England","Preston",NA,NA
+634,79,"North","Wales","Briton Ferry",NA,NA
+635,73,"South","Trentino-Alto Adige","Trento",NA,NA
+636,79,"North","England","West Bromwich",NA,NA
+637,82,"North Asia","Sichuan","Mianyang",NA,NA
+638,92,"South","Santander","Bucaramanga",NA,NA
+639,86,"North","Nuevo León","Santa Catarina",NA,NA
+640,85,"Oceania","Canterbury","Christchurch",NA,NA
+641,82,"North Asia","Liaoning","Kaiyuan",NA,NA
+642,75,"Central Asia","Andhra Pradesh","Anantapur",NA,NA
+643,91,"South","São Paulo","Araçatuba",NA,NA
+644,75,"Central Asia","Chandigarh","Chandigarh",NA,NA
+645,75,"Central Asia","Karnataka","Hubli",NA,NA
+646,119,"EMEA","Bekes","Gyula",NA,NA
+647,75,"Central Asia","Uttar Pradesh","Mirzapur",NA,NA
+648,91,"South","São Paulo","Franca",NA,NA
+649,82,"North Asia","Sichuan","Leshan",NA,NA
+650,96,"EMEA","Kharkiv","Kharkiv",NA,NA
+651,95,"EMEA","Khuzestan","Ahvaz",NA,NA
+652,86,"North","México","Coacalco",NA,NA
+653,86,"North","Durango","Gómez Palacio",NA,NA
+654,117,"North","Rogaland","Sandnes",NA,NA
+655,86,"North","Distrito Federal","Coyoacán",NA,NA
+656,74,"Africa","Western Cape","Cape Town",NA,NA
+657,93,"EMEA","Ar Riyad","Riyadh",NA,NA
+658,75,"Central Asia","West Bengal","Panihati",NA,NA
+659,80,"South","Catalonia","Girona",NA,NA
+660,85,"Oceania","Wellington","Wellington",NA,NA
+661,120,"South","Pichincha","Quito",NA,NA
+662,74,"Africa","Gauteng","Pretoria",NA,NA
+663,102,"Caribbean","Chaguanas","Chaguanas",NA,NA
+664,73,"South","Sicily","Gela",NA,NA
+665,103,"Canada","Ontario","Toronto",NA,NA
+666,103,"Canada","Quebec","Laval",NA,NA
+667,91,"South","Rio Grande do Sul","Bagé",NA,NA
+668,65,"Central","Pays de la Loire","Laval",NA,NA
+669,85,"Oceania","Northland","Whangarei",NA,NA
+670,73,"South","Veneto","Vicenza",NA,NA
+671,82,"North Asia","Gansu","Lanzhou",NA,NA
+672,80,"South","Catalonia","Granollers",NA,NA
+673,103,"Canada","British Columbia","Vancouver",NA,NA
+674,121,"North","Uusimaa","Helsinki",NA,NA
+675,66,"Central","North Rhine-Westphalia","Hagen",NA,NA
+676,82,"North Asia","Guangdong","Shenzhen",NA,NA
+677,66,"Central","Baden-Württemberg","Stuttgart",NA,NA
+678,103,"Canada","British Columbia","Saanich",NA,NA
+679,97,"North Asia","Hokkaido","Asahikawa",NA,NA
+680,122,"Central Asia","Kabul","Kabul",NA,NA
+681,86,"North","Yucatán","Mérida",NA,NA
+682,75,"Central Asia","Rajasthan","Jodhpur",NA,NA
+683,66,"Central","Rhineland-Palatinate","Trier",NA,NA
+684,65,"Central","Ile-de-France","Evry",NA,NA
+685,103,"Canada","Ontario","North York",NA,NA
+686,65,"Central","Aquitaine","Biarritz",NA,NA
+687,65,"Central","Pays de la Loire","Les Herbiers",NA,NA
+688,79,"North","England","Poole",NA,NA
+689,82,"North Asia","Hubei","Jingmen",NA,NA
+690,100,"South","Santiago","Santiago",NA,NA
+691,66,"Central","North Rhine-Westphalia","Moers",NA,NA
+692,91,"South","Minas Gerais","Vespasiano",NA,NA
+693,91,"South","São Paulo","Tupã",NA,NA
+694,86,"North","Veracruz","Orizaba",NA,NA
+695,86,"North","Baja California","Tijuana",NA,NA
+696,65,"Central","Rhône-Alpes","Villefontaine",NA,NA
+697,91,"South","Amazonas","Manaus",NA,NA
+698,95,"EMEA","Bushehr","Borazjan",NA,NA
+699,81,"EMEA","Irkutsk","Irkutsk",NA,NA
+700,95,"EMEA","Gilan","Rasht",NA,NA
+701,123,"EMEA","Namangan","Namangan",NA,NA
+702,124,"EMEA","Mehedinti","Drobeta-Turnu Severin",NA,NA
+703,125,"EMEA","Osh","Osh",NA,NA
+704,96,"EMEA","Rivne","Rivne",NA,NA
+705,81,"EMEA","Belgorod","Belgorod",NA,NA
+706,88,"EMEA","Silesia","Zabrze",NA,NA
+707,81,"EMEA","Dagestan","Makhachkala",NA,NA
+708,81,"EMEA","Dagestan","Kaspiysk",NA,NA
+709,119,"EMEA","Budapest","Budapest",NA,NA
+710,88,"EMEA","Silesia","Katowice",NA,NA
+711,95,"EMEA","Tehran","Varamin",NA,NA
+712,124,"EMEA","Brasov","Brasov",NA,NA
+713,69,"EMEA","Vienna","Vienna",NA,NA
+714,90,"EMEA","Maysan","Al Amarah",NA,NA
+715,126,"EMEA","Brest","Brest",NA,NA
+716,90,"EMEA","Arbil","Arbil",NA,NA
+717,95,"EMEA","Razavi Khorasan","Quchan",NA,NA
+718,95,"EMEA","Esfahan","Kashan",NA,NA
+719,88,"EMEA","Masovia","Warsaw",NA,NA
+720,81,"EMEA","Voronezh","Voronezh",NA,NA
+721,127,"EMEA","Ulaanbaatar","Ulan Bator",NA,NA
+722,81,"EMEA","Ivanovo","Ivanovo",NA,NA
+723,128,"EMEA","Imereti","K'ut'aisi",NA,NA
+724,90,"EMEA","Al Basrah","Basra",NA,NA
+725,129,"EMEA","Dayr Az Zawr","Dayr az Zawr",NA,NA
+726,81,"EMEA","Amur","Blagoveshchensk",NA,NA
+727,95,"EMEA","Lorestan","Borujerd",NA,NA
+728,126,"EMEA","Hrodna","Hrodna",NA,NA
+729,130,"EMEA","Grad Zagreb","Zagreb",NA,NA
+730,96,"EMEA","Dnipropetrovs'k","Kryvyy Rih",NA,NA
+731,131,"EMEA","Central","Rehovot",NA,NA
+732,126,"EMEA","Homyel'","Homyel'",NA,NA
+733,81,"EMEA","Astrakhan'","Astrakhan'",NA,NA
+734,95,"EMEA","Zanjan","Zanjan",NA,NA
+735,131,"EMEA","Haifa","Haifa",NA,NA
+736,96,"EMEA","Volyn","Luts'k",NA,NA
+737,99,"Africa","Extreme-Nord","Maroua",NA,NA
+738,132,"Africa","Montserrado","Monrovia",NA,NA
+739,98,"Africa","Souss-Massa-Draâ","Agadir",NA,NA
+740,133,"Africa","Bissau","Bissau",NA,NA
+741,112,"Africa","Central","Kabwe",NA,NA
+742,94,"Africa","Al Gharbiyah","Tanta",NA,NA
+743,134,"Africa","Banaadir","Mogadishu",NA,NA
+744,112,"Africa","Copperbelt","Chililabombwe",NA,NA
+745,89,"Africa","Analamanga","Antananarivo",NA,NA
+746,135,"Africa","Dakar","Dakar",NA,NA
+747,94,"Africa","Al Iskandariyah","Alexandria",NA,NA
+748,112,"Africa","Copperbelt","Chingola",NA,NA
+749,136,"Africa","Tunis","Tunis",NA,NA
+750,77,"Africa","Kasai-Occidental","Kananga",NA,NA
+751,98,"Africa","Taza-Al Hoceima-Taounate","Taza",NA,NA
+752,98,"Africa","Rabat-Salé-Zemmour-Zaer","Sale",NA,NA
+753,137,"Africa","Bamako","Bamako",NA,NA
+754,138,"Africa","Annaba","Annaba",NA,NA
+755,74,"Africa","Gauteng","Roodepoort",NA,NA
+756,77,"Africa","Katanga","Lubumbashi",NA,NA
+757,105,"Africa","Nyanza","Kisumu",NA,NA
+758,99,"Africa","Est","Bertoua",NA,NA
+759,116,"Africa","Arusha","Arusha",NA,NA
+760,98,"Africa","Meknès-Tafilalet","Meknes",NA,NA
+761,74,"Africa","Eastern Cape","Port Elizabeth",NA,NA
+762,74,"Africa","Kwazulu-natal","Mpumalanga",NA,NA
+763,139,"Africa","Littoral","Cotonou",NA,NA
+764,105,"Africa","Nairobi","Nairobi",NA,NA
+765,138,"Africa","Constantine","Constantine",NA,NA
+766,140,"Africa","Dire Dawa","Dire Dawa",NA,NA
+767,141,"Africa","Banghazi","Benghazi",NA,NA
+768,138,"Africa","Sidi Bel Abbes","Sidi Bel Abbes",NA,NA
+769,142,"Africa","Tete","Tete",NA,NA
+770,138,"Africa","Alger","Algiers",NA,NA
+771,96,"EMEA","Kherson","Kherson",NA,NA
+772,79,"North","England","Manchester",NA,NA
+773,66,"Central","Hesse","Darmstadt",NA,NA
+774,75,"Central Asia","Madhya Pradesh","Ujjain",NA,NA
+775,82,"North Asia","Heilongjiang","Shuangyashan",NA,NA
+776,86,"North","Jalisco","Zapopan",NA,NA
+777,143,"Caribbean","Guadeloupe","Les Abymes",NA,NA
+778,75,"Central Asia","Maharashtra","Nagpur",NA,NA
+779,77,"Africa","Katanga","Likasi",NA,NA
+780,126,"EMEA","Vitsyebsk","Orsha",NA,NA
+781,65,"Central","Provence-Alpes-Côte d'Azur","Vallauris",NA,NA
+782,144,"EMEA","'Amman","Wadi as Sir",NA,NA
+783,66,"Central","North Rhine-Westphalia","Witten",NA,NA
+784,86,"North","Sinaloa","Culiacán",NA,NA
+785,78,"Caribbean","Camagüey","Camagüey",NA,NA
+786,75,"Central Asia","Karnataka","Bangalore",NA,NA
+787,82,"North Asia","Inner Mongolia","Chifeng",NA,NA
+788,80,"South","Catalonia","Tarragona",NA,NA
+789,91,"South","São Paulo","Taubaté",NA,NA
+790,79,"North","England","High Wycombe",NA,NA
+791,103,"Canada","Ontario","Whitby",NA,NA
+792,73,"South","Apulia","Bitonto",NA,NA
+793,124,"EMEA","Constanta","Constanta",NA,NA
+794,73,"South","Piedmont","Cuneo",NA,NA
+795,86,"North","Chiapas","Tuxtla Gutiérrez",NA,NA
+796,73,"South","Apulia","Bari",NA,NA
+797,86,"North","Nuevo León","Monterrey",NA,NA
+798,73,"South","Marche","Ancona",NA,NA
+799,73,"South","Lombardy","Monza",NA,NA
+800,71,"Central","Antwerp","Antwerp",NA,NA
+801,145,"Africa","Maritime","Lome",NA,NA
+802,86,"North","Coahuila","Piedras Negras",NA,NA
+803,73,"South","Tuscany","Prato",NA,NA
+804,131,"EMEA","Tel Aviv","Holon",NA,NA
+805,91,"South","Goiás","Águas Lindas de Goiás",NA,NA
+806,88,"EMEA","Silesia","Gliwice",NA,NA
+807,112,"Africa","Copperbelt","Kitwe",NA,NA
+808,95,"EMEA","Markazi","Arak",NA,NA
+809,95,"EMEA","Razavi Khorasan","Mashhad",NA,NA
+810,96,"EMEA","Mykolayiv","Mykolayiv",NA,NA
+811,82,"North Asia","Henan","Shangqiu",NA,NA
+812,95,"EMEA","Mazandaran","Babol",NA,NA
+813,65,"Central","Provence-Alpes-Côte d'Azur","Vence",NA,NA
+814,95,"EMEA","South Khorasan","Birjand",NA,NA
+815,65,"Central","Provence-Alpes-Côte d'Azur","Cannes",NA,NA
+816,95,"EMEA","Ardabil","Ardabil",NA,NA
+817,66,"Central","Rhineland-Palatinate","Worms",NA,NA
+818,93,"EMEA","Al Madinah","Medina",NA,NA
+819,138,"Africa","Bechar","Bechar",NA,NA
+820,91,"South","São Paulo","Diadema",NA,NA
+821,80,"South","Murcia","Molina de Segura",NA,NA
+822,94,"Africa","Suhaj","Girga",NA,NA
+823,142,"Africa","Cidade De Maputo","Maputo",NA,NA
+824,82,"North Asia","Henan","Zhoukou",NA,NA
+825,65,"Central","Lorraine","Saint-Avold",NA,NA
+826,97,"North Asia","Tokyo","Tokyo",NA,NA
+827,82,"North Asia","Shanxi","Yuncheng",NA,NA
+828,72,"Central","Zürich","Zurich",NA,NA
+829,92,"South","Bolívar","Cartagena",NA,NA
+830,97,"North Asia","Aichi","Kasugai",NA,NA
+831,86,"North","San Luis Potosí","Valles",NA,NA
+832,124,"EMEA","Cluj","Cluj-Napoca",NA,NA
+833,121,"North","Finland Proper","Turku",NA,NA
+834,75,"Central Asia","Tamil Nadu","Salem",NA,NA
+835,88,"EMEA","Pomerania","Gdansk",NA,NA
+836,86,"North","Guanajuato","León",NA,NA
+837,101,"Africa","Northern","Tamale",NA,NA
+838,71,"Central","Hainaut","Charleroi",NA,NA
+839,86,"North","Coahuila","Saltillo",NA,NA
+840,82,"North Asia","Jiangsu","Wuxi",NA,NA
+841,99,"Africa","Nord-Ouest","Bamenda",NA,NA
+842,66,"Central","Hesse","Frankfurt",NA,NA
+843,91,"South","São Paulo","Jaboticabal",NA,NA
+844,96,"EMEA","Chernihiv","Chernihiv",NA,NA
+845,75,"Central Asia","Madhya Pradesh","Indore",NA,NA
+846,66,"Central","Saxony","Zwickau",NA,NA
+847,95,"EMEA","Qom","Qom",NA,NA
+848,66,"Central","Baden-Württemberg","Karlsruhe",NA,NA
+849,79,"North","England","Bradford",NA,NA
+850,65,"Central","Brittany","Landerneau",NA,NA
+851,66,"Central","Baden-Württemberg","Waiblingen",NA,NA
+852,80,"South","Castile-La Mancha","Talavera de la Reina",NA,NA
+853,103,"Canada","Alberta","Edmonton",NA,NA
+854,98,"Africa","Tanger-Tétouan","Tetouan",NA,NA
+855,77,"Africa","Katanga","Kolwezi",NA,NA
+856,65,"Central","Ile-de-France","Malakoff",NA,NA
+857,82,"North Asia","Jilin","Shulan",NA,NA
+858,65,"Central","Provence-Alpes-Côte d'Azur","Nice",NA,NA
+859,115,"Oceania","New South Wales","Wagga Wagga",NA,NA
+860,82,"North Asia","Inner Mongolia","Hohhot",NA,NA
+861,146,"Africa","Vallee Du Bandama","Bouake",NA,NA
+862,81,"EMEA","Stavropol'","Budënnovsk",NA,NA
+863,70,"Central","Managua","Tipitapa",NA,NA
+864,75,"Central Asia","Uttar Pradesh","Agra",NA,NA
+865,75,"Central Asia","Uttar Pradesh","Moradabad",NA,NA
+866,73,"South","Lombardy","Sesto San Giovanni",NA,NA
+867,82,"North Asia","Hubei","Yingcheng",NA,NA
+868,82,"North Asia","Henan","Yunyang",NA,NA
+869,73,"South","Apulia","Brindisi",NA,NA
+870,82,"North Asia","Jiangsu","Yancheng",NA,NA
+871,82,"North Asia","Anhui","Suzhou",NA,NA
+872,86,"North","Coahuila","Acuña",NA,NA
+873,82,"North Asia","Guangdong","Guangzhou",NA,NA
+874,82,"North Asia","Jiangsu","Jiangyan",NA,NA
+875,91,"South","Rio de Janeiro","São Gonçalo",NA,NA
+876,86,"North","Tamaulipas","Reynosa",NA,NA
+877,86,"North","Chihuahua","Chihuahua",NA,NA
+878,82,"North Asia","Hunan","Wuxi",NA,NA
+879,121,"North","Uusimaa","Vantaa",NA,NA
+880,75,"Central Asia","Bihar","Muzaffarpur",NA,NA
+881,82,"North Asia","Jiangsu","Changshu",NA,NA
+882,73,"South","Trentino-Alto Adige","Bolzano",NA,NA
+883,82,"North Asia","Guangxi","Nanning",NA,NA
+884,91,"South","Pernambuco","Cabo de Santo Agostinho",NA,NA
+885,86,"North","Distrito Federal","Azcapotzalco",NA,NA
+886,79,"North","England","Ipswich",NA,NA
+887,82,"North Asia","Sichuan","Jiangyou",NA,NA
+888,147,"North Asia","Taipei City","Taipei",NA,NA
+889,73,"South","Emilia-Romagna","Ferrara",NA,NA
+890,91,"South","Rio Grande do Sul","Porto Alegre",NA,NA
+891,91,"South","Federal District","Brasília",NA,NA
+892,91,"South","Rio Grande do Sul","Lajeado",NA,NA
+893,75,"Central Asia","Uttar Pradesh","Jhansi",NA,NA
+894,82,"North Asia","Jiangsu","Suzhou",NA,NA
+895,82,"North Asia","Sichuan","Suining",NA,NA
+896,82,"North Asia","Zhejiang","Lanxi",NA,NA
+897,80,"South","Basque Country","San Sebastian",NA,NA
+898,78,"Caribbean","Holguín","Holguín",NA,NA
+899,75,"Central Asia","Bihar","Bihar Sharif",NA,NA
+900,86,"North","Campeche","Ciudad del Carmen",NA,NA
+901,73,"South","Emilia-Romagna","Reggio nell'Emilia",NA,NA
+902,82,"North Asia","Guangxi","Guilin",NA,NA
+903,91,"South","Pará","Santarém",NA,NA
+904,79,"North","England","Watford",NA,NA
+905,82,"North Asia","Guangdong","Foshan",NA,NA
+906,82,"North Asia","Henan","Luoyang",NA,NA
+907,86,"North","Veracruz","Poza Rica de Hidalgo",NA,NA
+908,91,"South","Parana","Curitiba",NA,NA
+909,86,"North","Sinaloa","Los Mochis",NA,NA
+910,79,"North","England","Wolverhampton",NA,NA
+911,87,"Southeast Asia","Sabah","Tawau",NA,NA
+912,73,"South","Lombardy","Brescia",NA,NA
+913,82,"North Asia","Zhejiang","Jiaxing",NA,NA
+914,91,"South","Rio Grande do Sul","Rio Grande",NA,NA
+915,82,"North Asia","Anhui","Hefei",NA,NA
+916,86,"North","Yucatán","Progreso",NA,NA
+917,80,"South","Castile and León","Valladolid",NA,NA
+918,82,"North Asia","Shandong","Jinan",NA,NA
+919,78,"Caribbean","Ciego de Ávila","Ciego de Ávila",NA,NA
+920,148,"Caribbean","Saint Catherine","Spanish Town",NA,NA
+921,148,"Caribbean","Saint Catherine","Portmore",NA,NA
+922,80,"South","Madrid","Alcobendas",NA,NA
+923,79,"North","England","Tamworth",NA,NA
+924,100,"South","Santiago","Puente Alto",NA,NA
+925,82,"North Asia","Guangdong","Zhuhai",NA,NA
+926,73,"South","Abruzzi","Teramo",NA,NA
+927,91,"South","São Paulo","Osasco",NA,NA
+928,75,"Central Asia","Andhra Pradesh","Nellore",NA,NA
+929,79,"North","England","Halesowen",NA,NA
+930,86,"North","Distrito Federal","Tlalpan",NA,NA
+931,78,"Caribbean","Isla de la Juventud","Nueva Gerona",NA,NA
+932,79,"North","England","Mansfield",NA,NA
+933,82,"North Asia","Guangdong","Licheng",NA,NA
+934,79,"North","England","Farnborough",NA,NA
+935,91,"South","Rondônia","Ji-Paraná",NA,NA
+936,75,"Central Asia","Odisha","Bhubaneswar",NA,NA
+937,73,"South","Apulia","Taranto",NA,NA
+938,79,"North","England","Portsmouth",NA,NA
+939,149,"Southeast Asia","Phnom Penh","Phnom Penh",NA,NA
+940,79,"North","Wales","Cardiff",NA,NA
+941,75,"Central Asia","Kerala","Thiruvananthapuram",NA,NA
+942,75,"Central Asia","Uttar Pradesh","Meerut",NA,NA
+943,87,"Southeast Asia","Trengganu","Kuala Terengganu",NA,NA
+944,97,"North Asia","Shizuoka","Nagaoka",NA,NA
+945,73,"South","Marche","Pesaro",NA,NA
+946,91,"South","São Paulo","Itapevi",NA,NA
+947,79,"North","England","Luton",NA,NA
+948,92,"South","Atlántico","Soledad",NA,NA
+949,75,"Central Asia","Bihar","Aurangabad",NA,NA
+950,75,"Central Asia","Maharashtra","Sangli",NA,NA
+951,117,"North","Buskerud","Drammen",NA,NA
+952,79,"North","England","Stourbridge",NA,NA
+953,73,"South","Emilia-Romagna","Ravenna",NA,NA
+954,91,"South","Ceará","Caucaia",NA,NA
+955,86,"North","Distrito Federal","Miguel Hidalgo",NA,NA
+956,91,"South","São Paulo","Santo André",NA,NA
+957,79,"North","England","South Shields",NA,NA
+958,78,"Caribbean","Las Tunas","Puerto Padre",NA,NA
+959,91,"South","Parana","Maringá",NA,NA
+960,75,"Central Asia","Delhi","Delhi",NA,NA
+961,82,"North Asia","Zhejiang","Hangzhou",NA,NA
+962,79,"North","England","Bolton",NA,NA
+963,86,"North","México","Tlalnepantla",NA,NA
+964,75,"Central Asia","Andhra Pradesh","Vijayawada",NA,NA
+965,68,"Central","Guatemala","Amatitlán",NA,NA
+966,68,"Central","Chimaltenango","Chimaltenango",NA,NA
+967,70,"Central","Chinandega","Chinandega",NA,NA
+968,70,"Central","Estelí","Estelí",NA,NA
+969,65,"Central","Provence-Alpes-Côte d'Azur","La Seyne-sur-Mer",NA,NA
+970,65,"Central","Nord-Pas-de-Calais","Tourcoing",NA,NA
+971,65,"Central","Rhône-Alpes","Oyonnax",NA,NA
+972,65,"Central","Aquitaine","Lormont",NA,NA
+973,65,"Central","Ile-de-France","Taverny",NA,NA
+974,66,"Central","Baden-Württemberg","Friedrichshafen",NA,NA
+975,65,"Central","Lorraine","Verdun",NA,NA
+976,66,"Central","Baden-Württemberg","Pforzheim",NA,NA
+977,65,"Central","Rhône-Alpes","Saint-Genis-Laval",NA,NA
+978,65,"Central","Languedoc-Roussillon","Perpignan",NA,NA
+979,66,"Central","Hesse","Wiesbaden",NA,NA
+980,72,"Central","Basel-Stadt","Basel",NA,NA
+981,66,"Central","Brandenburg","Brandenburg",NA,NA
+982,65,"Central","Rhône-Alpes","Saint-Priest",NA,NA
+983,66,"Central","Baden-Württemberg","Heilbronn",NA,NA
+984,66,"Central","Thuringia","Jena",NA,NA
+985,66,"Central","Lower Saxony","Hildesheim",NA,NA
+986,65,"Central","Provence-Alpes-Côte d'Azur","Grasse",NA,NA
+987,66,"Central","Bavaria","Nuremberg",NA,NA
+988,65,"Central","Lorraine","Thionville",NA,NA
+989,65,"Central","Provence-Alpes-Côte d'Azur","Mougins",NA,NA
+990,66,"Central","Bavaria","Schweinfurt",NA,NA
+991,65,"Central","Languedoc-Roussillon","Montpellier",NA,NA
+992,66,"Central","Saxony","Leipzig",NA,NA
+993,65,"Central","Lorraine","Forbach",NA,NA
+994,65,"Central","Burgundy","Beaune",NA,NA
+995,66,"Central","Lower Saxony","Celle",NA,NA
+996,65,"Central","Ile-de-France","Le Plessis-Robinson",NA,NA
+997,65,"Central","Ile-de-France","Roissy-en-Brie",NA,NA
+998,69,"Central","Upper Austria","Linz",NA,NA
+999,65,"Central","Languedoc-Roussillon","Mauguio",NA,NA
+1000,65,"Central","Provence-Alpes-Côte d'Azur","Arles",NA,NA
+1001,65,"Central","Brittany","Lannion",NA,NA
+1002,65,"Central","Rhône-Alpes","Vaulx-en-Velin",NA,NA
+1003,65,"Central","Nord-Pas-de-Calais","Loos",NA,NA
+1004,65,"Central","Ile-de-France","Torcy",NA,NA
+1005,65,"Central","Ile-de-France","Conflans-Sainte-Honorine",NA,NA
+1006,66,"Central","North Rhine-Westphalia","Recklinghausen",NA,NA
+1007,66,"Central","North Rhine-Westphalia","Langenfeld",NA,NA
+1008,65,"Central","Ile-de-France","Neuilly-sur-Seine",NA,NA
+1009,66,"Central","Hesse","Friedberg",NA,NA
+1010,66,"Central","North Rhine-Westphalia","Essen",NA,NA
+1011,66,"Central","North Rhine-Westphalia","Hamm",NA,NA
+1012,65,"Central","Ile-de-France","Nanterre",NA,NA
+1013,66,"Central","Saxony-Anhalt","Magdeburg",NA,NA
+1014,66,"Central","North Rhine-Westphalia","Kerpen",NA,NA
+1015,86,"North","Sinaloa","Guasave",NA,NA
+1016,82,"North Asia","Shandong","Qingdao",NA,NA
+1017,98,"Africa","Fès-Boulemane","Fes",NA,NA
+1018,88,"EMEA","Silesia","Tychy",NA,NA
+1019,91,"South","Mato Grosso do Sul","Dourados",NA,NA
+1020,142,"Africa","Maputo","Matola",NA,NA
+1021,92,"South","Atlántico","Barranquilla",NA,NA
+1022,82,"North Asia","Hebei","Zhangjiakou",NA,NA
+1023,65,"Central","Ile-de-France","Courbevoie",NA,NA
+1024,95,"EMEA","Tehran","Tehran",NA,NA
+1025,95,"EMEA","Kordestan","Sanandaj",NA,NA
+1026,97,"North Asia","Hyogo","Himeji",NA,NA
+1027,135,"Africa","Thies","Thies Nones",NA,NA
+1028,115,"Oceania","South Australia","Gawler",NA,NA
+1029,86,"North","Coahuila","Torreón",NA,NA
+1030,117,"North","Vest-Agder","Kristiansand",NA,NA
+1031,124,"EMEA","Sibiu","Sibiu",NA,NA
+1032,124,"EMEA","Dolj","Craiova",NA,NA
+1033,73,"South","Apulia","Lecce",NA,NA
+1034,150,"EMEA","Baki","Baku",NA,NA
+1035,75,"Central Asia","Maharashtra","Thane",NA,NA
+1036,151,"Africa","Maseru","Maseru",NA,NA
+1037,79,"North","England","Worcester",NA,NA
+1038,82,"North Asia","Beijing","Beijing",NA,NA
+1039,82,"North Asia","Zhejiang","Linhai",NA,NA
+1040,103,"Canada","Ontario","Oshawa",NA,NA
+1041,79,"North","Scotland","Aberdeen",NA,NA
+1042,80,"South","Valenciana","Benidorm",NA,NA
+1043,82,"North Asia","Hunan","Yueyang",NA,NA
+1044,103,"Canada","Nova Scotia","Halifax",NA,NA
+1045,91,"South","Minas Gerais","Juiz de Fora",NA,NA
+1046,94,"Africa","Al Bahr Al Ahmar","Hurghada",NA,NA
+1047,65,"Central","Ile-de-France","Deuil-la-Barre",NA,NA
+1048,80,"South","Catalonia","Castelldefels",NA,NA
+1049,103,"Canada","Alberta","Calgary",NA,NA
+1050,75,"Central Asia","Punjab","Ludhiana",NA,NA
+1051,116,"Africa","Morogoro","Morogoro",NA,NA
+1052,146,"Africa","Lagunes","Abidjan",NA,NA
+1053,91,"South","São Paulo","São Bernardo do Campo",NA,NA
+1054,82,"North Asia","Hunan","Chenzhou",NA,NA
+1055,105,"Africa","Coast","Mombasa",NA,NA
+1056,97,"North Asia","Saitama","Kawagoe",NA,NA
+1057,81,"EMEA","Tambov","Uvarovo",NA,NA
+1058,86,"North","Chihuahua","Juárez",NA,NA
+1059,91,"South","Maranhão","São Luís",NA,NA
+1060,134,"Africa","Jubbada Hoose","Kismaayo",NA,NA
+1061,75,"Central Asia","Uttar Pradesh","Varanasi",NA,NA
+1062,113,"South","Oruro","Oruro",NA,NA
+1063,75,"Central Asia","Maharashtra","Bhiwandi",NA,NA
+1064,95,"EMEA","Hamadan","Hamadan",NA,NA
+1065,68,"Central","Quezaltenango","Quetzaltenango",NA,NA
+1066,77,"Africa","Katanga","Kalemie",NA,NA
+1067,95,"EMEA","Lorestan","Khorramabad",NA,NA
+1068,115,"Oceania","Tasmania","Burnie",NA,NA
+1069,85,"Oceania","Southland","Invercargill",NA,NA
+1070,115,"Oceania","New South Wales","Cessnock",NA,NA
+1071,90,"EMEA","Al Qadisiyah","Ad Diwaniyah",NA,NA
+1072,77,"Africa","South Kivu","Bukavu",NA,NA
+1073,96,"EMEA","Donetsk","Donets'k",NA,NA
+1074,65,"Central","Rhône-Alpes","Cluses",NA,NA
+1075,91,"South","Santa Catarina","Chapecó",NA,NA
+1076,75,"Central Asia","Gujarat","Surat",NA,NA
+1077,92,"South","Antioquia","Apartadó",NA,NA
+1078,91,"South","Piauí","Teresina",NA,NA
+1079,65,"Central","Rhône-Alpes","Bron",NA,NA
+1080,82,"North Asia","Zhejiang","Ninghai",NA,NA
+1081,98,"Africa","Tanger-Tétouan","Larache",NA,NA
+1082,152,"EMEA","Muharraq","Al Muharraq",NA,NA
+1083,78,"Caribbean","Cienfuegos","Cienfuegos",NA,NA
+1084,115,"Oceania","New South Wales","Port Macquarie",NA,NA
+1085,94,"Africa","Aswan","Aswan",NA,NA
+1086,66,"Central","North Rhine-Westphalia","Herne",NA,NA
+1087,65,"Central","Ile-de-France","Le Chesnay",NA,NA
+1088,116,"Africa","Mbeya","Mbeya",NA,NA
+1089,75,"Central Asia","Jharkhand","Bokaro",NA,NA
+1090,139,"Africa","Alibori","Kandi",NA,NA
+1091,82,"North Asia","Guangdong","Shantou",NA,NA
+1092,95,"EMEA","Kermanshah","Kermanshah",NA,NA
+1093,74,"Africa","Gauteng","Soweto",NA,NA
+1094,78,"Caribbean","Artemisa","Artemisa",NA,NA
+1095,153,"EMEA","Podgorica","Podgorica",NA,NA
+1096,66,"Central","Baden-Württemberg","Sindelfingen",NA,NA
+1097,71,"Central","Brussels","Brussels",NA,NA
+1098,146,"Africa","Lacs","Yamoussoukro",NA,NA
+1099,79,"North","England","Torquay",NA,NA
+1100,99,"Africa","Nord","Garoua",NA,NA
+1101,66,"Central","Lower Saxony","Langen",NA,NA
+1102,65,"Central","Poitou-Charentes","La Rochelle",NA,NA
+1103,82,"North Asia","Heilongjiang","Mudanjiang",NA,NA
+1104,66,"Central","Baden-Württemberg","Baden-Baden",NA,NA
+1105,75,"Central Asia","Chhattisgarh","Kota",NA,NA
+1106,87,"Southeast Asia","Kuala Lumpur","Kuala Lumpur",NA,NA
+1107,91,"South","Goiás","Goiânia",NA,NA
+1108,91,"South","Parana","Londrina",NA,NA
+1109,75,"Central Asia","Tamil Nadu","Chennai",NA,NA
+1110,87,"Southeast Asia","Selangor","Shah Alam",NA,NA
+1111,65,"Central","Ile-de-France","Mantes-la-Jolie",NA,NA
+1112,75,"Central Asia","Uttar Pradesh","Kanpur",NA,NA
+1113,75,"Central Asia","Maharashtra","Durgapur",NA,NA
+1114,73,"South","Sicily","Vittoria",NA,NA
+1115,73,"South","Sicily","Acireale",NA,NA
+1116,80,"South","Castile-La Mancha","Albacete",NA,NA
+1117,75,"Central Asia","Uttar Pradesh","Saharanpur",NA,NA
+1118,65,"Central","Pays de la Loire","Saint-Herblain",NA,NA
+1119,79,"North","England","Hartlepool",NA,NA
+1120,78,"Caribbean","Villa Clara","Santa Clara",NA,NA
+1121,65,"Central","Provence-Alpes-Côte d'Azur","Miramas",NA,NA
+1122,65,"Central","Midi-Pyrénées","Montauban",NA,NA
+1123,86,"North","Colima","Manzanillo",NA,NA
+1124,75,"Central Asia","Gujarat","Vadodara",NA,NA
+1125,82,"North Asia","Heilongjiang","Daqing",NA,NA
+1126,86,"North","Tamaulipas","Victoria",NA,NA
+1127,92,"South","Antioquia","Medellín",NA,NA
+1128,65,"Central","Nord-Pas-de-Calais","Douai",NA,NA
+1129,65,"Central","Picardy","Amiens",NA,NA
+1130,65,"Central","Centre","Dreux",NA,NA
+1131,73,"South","Friuli-Venezia Giulia","Trieste",NA,NA
+1132,100,"South","Valparaíso","Valparaíso",NA,NA
+1133,71,"Central","Namur","Namur",NA,NA
+1134,97,"North Asia","Hiroshima","Kure",NA,NA
+1135,82,"North Asia","Guangxi","Pingnan",NA,NA
+1136,73,"South","Umbria","Perugia",NA,NA
+1137,65,"Central","Alsace","Schiltigheim",NA,NA
+1138,86,"North","Tabasco","Frontera",NA,NA
+1139,91,"South","Pernambuco","Recife",NA,NA
+1140,65,"Central","Ile-de-France","Rambouillet",NA,NA
+1141,65,"Central","Burgundy","Dijon",NA,NA
+1142,71,"Central","Limburg","Hasselt",NA,NA
+1143,65,"Central","Ile-de-France","Ivry-sur-Seine",NA,NA
+1144,66,"Central","Saxony-Anhalt","Halle",NA,NA
+1145,65,"Central","Ile-de-France","Montesson",NA,NA
+1146,67,"Central","San Salvador","Cuscatancingo",NA,NA
+1147,65,"Central","Midi-Pyrénées","Muret",NA,NA
+1148,65,"Central","Poitou-Charentes","Cognac",NA,NA
+1149,93,"EMEA","Makkah","Mecca",NA,NA
+1150,73,"South","Tuscany","Grosseto",NA,NA
+1151,82,"North Asia","Sichuan","Chengdu",NA,NA
+1152,73,"South","Campania","Naples",NA,NA
+1153,82,"North Asia","Inner Mongolia","Baotou",NA,NA
+1154,79,"North","England","Coventry",NA,NA
+1155,80,"South","Galicia","Lugo",NA,NA
+1156,65,"Central","Ile-de-France","Drancy",NA,NA
+1157,131,"EMEA","Tel Aviv","Tel Aviv",NA,NA
+1158,74,"Africa","North-West","Potchefstroom",NA,NA
+1159,154,"EMEA","Balti","Balti",NA,NA
+1160,65,"Central","Ile-de-France","Saint-Ouen",NA,NA
+1161,73,"South","Tuscany","Florence",NA,NA
+1162,65,"Central","Languedoc-Roussillon","Castelnau-le-Lez",NA,NA
+1163,134,"Africa","Woqooyi Galbeed","Hargeysa",NA,NA
+1164,103,"Canada","Ontario","Markham",NA,NA
+1165,86,"North","Nuevo León","General Escobedo",NA,NA
+1166,97,"North Asia","Kanagawa","Kawasaki",NA,NA
+1167,80,"South","Catalonia","Reus",NA,NA
+1168,65,"Central","Ile-de-France","Chelles",NA,NA
+1169,155,"Africa","Kigali","Kigali",NA,NA
+1170,97,"North Asia","Saitama","Koshigaya",NA,NA
+1171,78,"Caribbean","Ciego de Ávila","Morón",NA,NA
+1172,74,"Africa","Western Cape","George",NA,NA
+1173,80,"South","Balearic Islands","Palma de Mallorca",NA,NA
+1174,111,"EMEA","Plzen","Plzen",NA,NA
+1175,69,"EMEA","Carinthia","Klagenfurt",NA,NA
+1176,96,"EMEA","Zhytomyr","Zhytomyr",NA,NA
+1177,79,"North","Scotland","Paisley",NA,NA
+1178,79,"North","England","Washington",NA,NA
+1179,73,"South","Campania","Pozzuoli",NA,NA
+1180,115,"Oceania","New South Wales","Albury",NA,NA
+1181,74,"Africa","Eastern Cape","East London",NA,NA
+1182,79,"North","England","Middlesbrough",NA,NA
+1183,65,"Central","Nord-Pas-de-Calais","Wasquehal",NA,NA
+1184,65,"Central","Aquitaine","Anglet",NA,NA
+1185,82,"North Asia","Shaanxi","Tongchuan",NA,NA
+1186,78,"Caribbean","Matanzas","Matanzas",NA,NA
+1187,65,"Central","Ile-de-France","Guyancourt",NA,NA
+1188,82,"North Asia","Guangdong","Jiangmen",NA,NA
+1189,82,"North Asia","Jiangxi","Nanchang",NA,NA
+1190,97,"North Asia","Aichi","Handa",NA,NA
+1191,65,"Central","Provence-Alpes-Côte d'Azur","Six-Fours-les-Plages",NA,NA
+1192,73,"South","Lazio","Latina",NA,NA
+1193,65,"Central","Poitou-Charentes","Niort",NA,NA
+1194,73,"South","Apulia","Cerignola",NA,NA
+1195,79,"North","England","Oldham",NA,NA
+1196,73,"South","Tuscany","Lucca",NA,NA
+1197,82,"North Asia","Anhui","Datong",NA,NA
+1198,91,"South","São Paulo","Americana",NA,NA
+1199,91,"South","Rio Grande do Sul","Caxias do Sul",NA,NA
+1200,80,"South","Valenciana","Elda",NA,NA
+1201,91,"South","Minas Gerais","Ibirité",NA,NA
+1202,80,"South","Valenciana","Gandia",NA,NA
+1203,88,"EMEA","Pomerania","Slupsk",NA,NA
+1204,79,"North","England","Warrington",NA,NA
+1205,65,"Central","Upper Normandy","Evreux",NA,NA
+1206,79,"North","England","Plymouth",NA,NA
+1207,80,"South","Madrid","Las Rozas de Madrid",NA,NA
+1208,86,"North","México","Ixtapaluca",NA,NA
+1209,138,"Africa","Oran","Oran",NA,NA
+1210,73,"South","Emilia-Romagna","Imola",NA,NA
+1211,65,"Central","Brittany","Saint-Brieuc",NA,NA
+1212,66,"Central","Bavaria","Erlangen",NA,NA
+1213,156,"Central Asia","Central","Kathmandu",NA,NA
+1214,124,"EMEA","Bistrita-Nasaud","Bistrita",NA,NA
+1215,91,"South","Bahia","Camaçari",NA,NA
+1216,65,"Central","Ile-de-France","Ris-Orangis",NA,NA
+1217,91,"South","São Paulo","Mococa",NA,NA
+1218,82,"North Asia","Henan","Zhengzhou",NA,NA
+1219,91,"South","Rio de Janeiro","Barra do Piraí",NA,NA
+1220,65,"Central","Provence-Alpes-Côte d'Azur","Pertuis",NA,NA
+1221,65,"Central","Alsace","Strasbourg",NA,NA
+1222,82,"North Asia","Jiangsu","Changzhou",NA,NA
+1223,79,"North","England","Southend-on-Sea",NA,NA
+1224,128,"EMEA","Tbilisi","Tbilisi",NA,NA
+1225,116,"Africa","Shinyanga","Shinyanga",NA,NA
+1226,91,"South","São Paulo","Barretos",NA,NA
+1227,98,"Africa","Rabat-Salé-Zemmour-Zaer","Rabat",NA,NA
+1228,81,"EMEA","Chelyabinsk","Magnitogorsk",NA,NA
+1229,79,"North","England","Peterborough",NA,NA
+1230,79,"North","England","Doncaster",NA,NA
+1231,85,"Oceania","Wellington","Paraparaumu",NA,NA
+1232,157,"Caribbean","Martinique","Fort-de-France",NA,NA
+1233,66,"Central","Bremen","Bremerhaven",NA,NA
+1234,103,"Canada","Manitoba","Winnipeg",NA,NA
+1235,103,"Canada","British Columbia","Burnaby",NA,NA
+1236,103,"Canada","Ontario","Vaughan",NA,NA
+1237,65,"Central","Nord-Pas-de-Calais","Calais",NA,NA
+1238,82,"North Asia","Shandong","Linyi",NA,NA
+1239,80,"South","Valenciana","Orihuela",NA,NA
+1240,75,"Central Asia","Jammu and Kashmir","Jammu",NA,NA
+1241,75,"Central Asia","Maharashtra","Nasik",NA,NA
+1242,121,"North","Uusimaa","Espoo",NA,NA
+1243,103,"Canada","Saskatchewan","Regina",NA,NA
+1244,80,"South","Catalonia","El Prat de Llobregat",NA,NA
+1245,82,"North Asia","Zhejiang","Wenzhou",NA,NA
+1246,79,"North","England","Leicester",NA,NA
+1247,75,"Central Asia","Maharashtra","Amravati",NA,NA
+1248,103,"Canada","Ontario","Hamilton",NA,NA
+1249,75,"Central Asia","West Bengal","Durgapur",NA,NA
+1250,78,"Caribbean","Sancti Spíritus","Sancti Spíritus",NA,NA
+1251,66,"Central","Bavaria","Augsburg",NA,NA
+1252,103,"Canada","Ontario","Brantford",NA,NA
+1253,65,"Central","Provence-Alpes-Côte d'Azur","Saint-Laurent-du-Var",NA,NA
+1254,79,"North","England","Harrow",NA,NA
+1255,91,"South","Minas Gerais","Patrocínio",NA,NA
+1256,103,"Canada","Ontario","Oakville",NA,NA
+1257,158,"EMEA","Harjumaa","Tallinn",NA,NA
+1258,124,"EMEA","Iasi","Iasi",NA,NA
+1259,123,"EMEA","Qashqadaryo","Qarshi",NA,NA
+1260,159,"EMEA","Vlorë","Vlore",NA,NA
+1261,81,"EMEA","Irkutsk","Usol'ye-Sibirskoye",NA,NA
+1262,160,"EMEA","Banská Bystrica","Banska Bystrica",NA,NA
+1263,93,"EMEA","Al Madinah","Yanbu al Bahr",NA,NA
+1264,124,"EMEA","Prahova","Ploiesti",NA,NA
+1265,81,"EMEA","Arkhangel'sk","Severodvinsk",NA,NA
+1266,88,"EMEA","Pomerania","Gdynia",NA,NA
+1267,154,"EMEA","Chisinau","Chisinau",NA,NA
+1268,158,"EMEA","Tartumaa","Tartu",NA,NA
+1269,95,"EMEA","Lorestan","Aligudarz",NA,NA
+1270,88,"EMEA","Silesia","Czestochowa",NA,NA
+1271,96,"EMEA","Cherkasy","Uman'",NA,NA
+1272,107,"EMEA","Sofiya-Grad","Sofia",NA,NA
+1273,95,"EMEA","Mazandaran","Chalus",NA,NA
+1274,81,"EMEA","Kaliningrad","Kaliningrad",NA,NA
+1275,131,"EMEA","Tel Aviv","Bene Beraq",NA,NA
+1276,81,"EMEA","Arkhangel'sk","Arkhangelsk",NA,NA
+1277,96,"EMEA","Dnipropetrovs'k","Dnipropetrovs'k",NA,NA
+1278,124,"EMEA","Giurgiu","Giurgiu",NA,NA
+1279,95,"EMEA","Kermanshah","Javanrud",NA,NA
+1280,124,"EMEA","Timis","Timisoara",NA,NA
+1281,130,"EMEA","Splitsko-Dalmatinska","Split",NA,NA
+1282,96,"EMEA","Zaporizhzhya","Berdyans'k",NA,NA
+1283,88,"EMEA","Silesia","Bielsko-Biala",NA,NA
+1284,129,"EMEA","Hims","Homs",NA,NA
+1285,112,"Africa","Lusaka","Lusaka",NA,NA
+1286,161,"Africa","Red Sea","Bur Sudan",NA,NA
+1287,77,"Africa","South Kivu","Uvira",NA,NA
+1288,116,"Africa","Kilimanjaro","Moshi",NA,NA
+1289,162,"Africa","Nzérékoré","Nzerekore",NA,NA
+1290,74,"Africa","Kwazulu-natal","Stanger",NA,NA
+1291,74,"Africa","Kwazulu-natal","Durban",NA,NA
+1292,139,"Africa","Donga","Djougou",NA,NA
+1293,99,"Africa","Ouest","Foumban",NA,NA
+1294,74,"Africa","Gauteng","Boksburg",NA,NA
+1295,116,"Africa","Mwanza","Mwanza",NA,NA
+1296,74,"Africa","North-West","Rustenburg",NA,NA
+1297,99,"Africa","Ouest","Bafoussam",NA,NA
+1298,142,"Africa","Sofala","Beira",NA,NA
+1299,142,"Africa","Manica","Chimoio",NA,NA
+1300,139,"Africa","Atlantique","Ouidah",NA,NA
+1301,98,"Africa","Tanger-Tétouan","Tangier",NA,NA
+1302,163,"Africa","Niari","Loubomo",NA,NA
+1303,74,"Africa","Gauteng","Springs",NA,NA
+1304,161,"Africa","White Nile","Ad Diwem",NA,NA
+1305,86,"North","Guerrero","Chilpancingo",NA,NA
+1306,80,"South","Castile and León","Salamanca",NA,NA
+1307,92,"South","Meta","Villavicencio",NA,NA
+1308,164,"Africa","Khomas","Windhoek",NA,NA
+1309,80,"South","Basque Country","Getxo",NA,NA
+1310,85,"Oceania","Bay of Plenty","Tauranga",NA,NA
+1311,82,"North Asia","Heilongjiang","Qiqihar",NA,NA
+1312,65,"Central","Nord-Pas-de-Calais","Boulogne-sur-Mer",NA,NA
+1313,86,"North","Morelos","Cuernavaca",NA,NA
+1314,82,"North Asia","Henan","Jiaozuo",NA,NA
+1315,115,"Oceania","New South Wales","Lismore",NA,NA
+1316,107,"EMEA","Varna","Varna",NA,NA
+1317,114,"Africa","Benguela","Benguela",NA,NA
+1318,91,"South","Alagoas","Maceió",NA,NA
+1319,67,"Central","Cuscatlán","San Martín",NA,NA
+1320,135,"Africa","Ziguinchor","Ziguinchor",NA,NA
+1321,74,"Africa","Mpumalanga","eMbalenhle",NA,NA
+1322,73,"South","Tuscany","Carrara",NA,NA
+1323,88,"EMEA","Masovia","Radom",NA,NA
+1324,66,"Central","North Rhine-Westphalia","Castrop-Rauxel",NA,NA
+1325,88,"EMEA","Silesia","Bytom",NA,NA
+1326,91,"South","Paraíba","Cajazeiras",NA,NA
+1327,75,"Central Asia","Gujarat","Rajkot",NA,NA
+1328,92,"South","Cundinamarca","Soacha",NA,NA
+1329,165,"Central Asia","Western","Colombo",NA,NA
+1330,97,"North Asia","Fukuoka","Kawasaki",NA,NA
+1331,124,"EMEA","Gorj","Targu Jiu",NA,NA
+1332,82,"North Asia","Heilongjiang","Harbin",NA,NA
+1333,124,"EMEA","Bihor","Oradea",NA,NA
+1334,65,"Central","Ile-de-France","Thiais",NA,NA
+1335,80,"South","Valenciana","Torrevieja",NA,NA
+1336,75,"Central Asia","Maharashtra","Ulhasnagar",NA,NA
+1337,81,"EMEA","Irkutsk","Bratsk",NA,NA
+1338,66,"Central","Lower Saxony","Langenhagen",NA,NA
+1339,66,"Central","North Rhine-Westphalia","Menden",NA,NA
+1340,90,"EMEA","Salah Ad Din","Samarra'",NA,NA
+1341,73,"South","Tuscany","Montecatini Terme",NA,NA
+1342,80,"South","Galicia","Vigo",NA,NA
+1343,96,"EMEA","Donetsk","Kramators'k",NA,NA
+1344,86,"North","Zacatecas","Fresnillo de González Echeverría",NA,NA
+1345,124,"EMEA","Braila","Braila",NA,NA
+1346,73,"South","Apulia","Andria",NA,NA
+1347,82,"North Asia","Fujian","Fuzhou",NA,NA
+1348,75,"Central Asia","Punjab","Amritsar",NA,NA
+1349,80,"South","Andalusía","Lora del Río",NA,NA
+1350,166,"Africa","Bangui","Bangui",NA,NA
+1351,65,"Central","Ile-de-France","Montigny-le-Bretonneux",NA,NA
+1352,73,"South","Sicily","Messina",NA,NA
+1353,87,"Southeast Asia","Sabah","Sandakan",NA,NA
+1354,86,"North","Baja California","Rosarito",NA,NA
+1355,73,"South","Apulia","Foggia",NA,NA
+1356,86,"North","Querétaro","Querétaro",NA,NA
+1357,73,"South","Liguria","Genoa",NA,NA
+1358,75,"Central Asia","Madhya Pradesh","Mau",NA,NA
+1359,125,"EMEA","Bishkek","Bishkek",NA,NA
+1360,81,"EMEA","Chelyabinsk","Zlatoust",NA,NA
+1361,82,"North Asia","Guangxi","Lianzhou",NA,NA
+1362,85,"Oceania","Wellington","Porirua",NA,NA
+1363,82,"North Asia","Yunnan","Kunming",NA,NA
+1364,65,"Central","Nord-Pas-de-Calais","Outreau",NA,NA
+1365,94,"Africa","Qina","Qena",NA,NA
+1366,79,"North","England","Newcastle upon Tyne",NA,NA
+1367,65,"Central","Ile-de-France","Saint-Denis",NA,NA
+1368,65,"Central","Ile-de-France","Meudon",NA,NA
+1369,88,"EMEA","Lodz","Piotrkow Trybunalski",NA,NA
+1370,82,"North Asia","Qinghai","Xining",NA,NA
+1371,167,"Africa","Anseba","Keren",NA,NA
+1372,111,"EMEA","Moravian-Silesian","Ostrava",NA,NA
+1373,73,"South","Emilia-Romagna","Modena",NA,NA
+1374,141,"Africa","Misratah","Misratah",NA,NA
+1375,138,"Africa","Tlemcen","Tlemcen",NA,NA
+1376,79,"North","England","Chesterfield",NA,NA
+1377,66,"Central","North Rhine-Westphalia","Bielefeld",NA,NA
+1378,98,"Africa","Grand Casablanca","Mohammedia",NA,NA
+1379,82,"North Asia","Henan","Puyang",NA,NA
+1380,87,"Southeast Asia","Perak","Taiping",NA,NA
+1381,80,"South","Andalusía","Estepona",NA,NA
+1382,145,"Africa","Kara","Kara",NA,NA
+1383,65,"Central","Brittany","Vannes",NA,NA
+1384,103,"Canada","British Columbia","Richmond",NA,NA
+1385,79,"North","England","Exeter",NA,NA
+1386,86,"North","Chihuahua","Delicias",NA,NA
+1387,66,"Central","North Rhine-Westphalia","Herten",NA,NA
+1388,80,"South","Basque Country","Vitoria",NA,NA
+1389,65,"Central","Provence-Alpes-Côte d'Azur","Istres",NA,NA
+1390,73,"South","Emilia-Romagna","Piacenza",NA,NA
+1391,75,"Central Asia","Gujarat","Jodhpur",NA,NA
+1392,138,"Africa","Guelma","Guelma",NA,NA
+1393,86,"North","Jalisco","Puerto Vallarta",NA,NA
+1394,91,"South","Rio Grande do Sul","Pelotas",NA,NA
+1395,91,"South","Parana","Arapongas",NA,NA
+1396,75,"Central Asia","Karnataka","Belgaum",NA,NA
+1397,79,"North","England","Colchester",NA,NA
+1398,65,"Central","Languedoc-Roussillon","Frontignan",NA,NA
+1399,86,"North","Puebla","Teziutlán",NA,NA
+1400,75,"Central Asia","Kerala","Kollam",NA,NA
+1401,65,"Central","Rhône-Alpes","Givors",NA,NA
+1402,109,"South","Canelones","Las Piedras",NA,NA
+1403,65,"Central","Ile-de-France","Tremblay-en-France",NA,NA
+1404,82,"North Asia","Heilongjiang","Jiamusi",NA,NA
+1405,91,"South","São Paulo","Itapeva",NA,NA
+1406,146,"Africa","Haut-Sassandra","Daloa",NA,NA
+1407,96,"EMEA","L'viv","L'viv",NA,NA
+1408,91,"South","Rio Grande do Sul","São Leopoldo",NA,NA
+1409,86,"North","Guanajuato","Celaya",NA,NA
+1410,82,"North Asia","Hubei","Yicheng",NA,NA
+1411,65,"Central","Ile-de-France","Villiers-le-Bel",NA,NA
+1412,65,"Central","Ile-de-France","Neuilly-Plaisance",NA,NA
+1413,168,"EMEA","Beirut","Beirut",NA,NA
+1414,91,"South","São Paulo","Mauá",NA,NA
+1415,66,"Central","Bavaria","Ingolstadt",NA,NA
+1416,79,"North","England","Reading",NA,NA
+1417,65,"Central","Nord-Pas-de-Calais","Berck",NA,NA
+1418,73,"South","Piedmont","Moncalieri",NA,NA
+1419,169,"EMEA","Federation of Bosnia and Herzegovina","Sarajevo",NA,NA
+1420,66,"Central","Saarland","Neunkirchen",NA,NA
+1421,73,"South","Lazio","Velletri",NA,NA
+1422,93,"EMEA","Al Jawf","Sakaka",NA,NA
+1423,92,"South","Nariño","Pasto",NA,NA
+1424,66,"Central","Mecklenburg-Vorpommern","Schwerin",NA,NA
+1425,103,"Canada","Ontario","Kitchener",NA,NA
+1426,65,"Central","Ile-de-France","Longjumeau",NA,NA
+1427,65,"Central","Ile-de-France","Noisy-le-Grand",NA,NA
+1428,94,"Africa","Al Minya","Al Minya",NA,NA
+1429,81,"EMEA","Vladimir","Vladimir",NA,NA
+1430,82,"North Asia","Jiangsu","Yangzhou",NA,NA
+1431,170,"Caribbean","Saint Michael","Bridgetown",NA,NA
+1432,86,"North","Morelos","Temixco",NA,NA
+1433,80,"South","Basque Country","Irun",NA,NA
+1434,65,"Central","Aquitaine","Le Bouscat",NA,NA
+1435,65,"Central","Ile-de-France","Cergy",NA,NA
+1436,80,"South","Catalonia","Sant Boi de Llobregat",NA,NA
+1437,91,"South","Minas Gerais","Betim",NA,NA
+1438,66,"Central","North Rhine-Westphalia","Aachen",NA,NA
+1439,79,"North","England","Margate",NA,NA
+1440,65,"Central","Ile-de-France","Fontainebleau",NA,NA
+1441,75,"Central Asia","Uttarakhand","Srinagar",NA,NA
+1442,97,"North Asia","Chiba","Noda",NA,NA
+1443,75,"Central Asia","Odisha","Cuttack",NA,NA
+1444,111,"EMEA","Usti nad Labem","Usti nad Labem",NA,NA
+1445,115,"Oceania","Tasmania","Hobart",NA,NA
+1446,65,"Central","Pays de la Loire","Carquefou",NA,NA
+1447,83,"Africa","Maradi","Maradi",NA,NA
+1448,65,"Central","Provence-Alpes-Côte d'Azur","Antibes",NA,NA
+1449,79,"North","England","York",NA,NA
+1450,95,"EMEA","Kerman","Kerman",NA,NA
+1451,86,"North","México","San Pablo de las Salinas",NA,NA
+1452,85,"Oceania","Wellington","Lower Hutt",NA,NA
+1453,162,"Africa","Kindia","Kindia",NA,NA
+1454,73,"South","Lazio","Aprilia",NA,NA
+1455,139,"Africa","Ouémé","Porto-Novo",NA,NA
+1456,91,"South","Bahia","Itamaraju",NA,NA
+1457,91,"South","Paraíba","Bayeux",NA,NA
+1458,88,"EMEA","Lodz","Lodz",NA,NA
+1459,91,"South","Parana","Colombo",NA,NA
+1460,82,"North Asia","Anhui","Anqing",NA,NA
+1461,96,"EMEA","Khmel'nyts'kyy","Khmel'nyts'kyy",NA,NA
+1462,73,"South","Emilia-Romagna","Bologna",NA,NA
+1463,100,"South","Valparaíso","Viña del Mar",NA,NA
+1464,75,"Central Asia","Haryana","Gorakhpur",NA,NA
+1465,82,"North Asia","Guangdong","Meizhou",NA,NA
+1466,75,"Central Asia","Madhya Pradesh","Dewas",NA,NA
+1467,124,"EMEA","Hunedoara","Deva",NA,NA
+1468,91,"South","Rio Grande do Sul","Canoas",NA,NA
+1469,103,"Canada","Saskatchewan","Saskatoon",NA,NA
+1470,95,"EMEA","Khuzestan","Masjed Soleyman",NA,NA
+1471,80,"South","Murcia","Cartagena",NA,NA
+1472,88,"EMEA","Masovia","Siedlce",NA,NA
+1473,65,"Central","Lorraine","Metz",NA,NA
+1474,91,"South","São Paulo","Santana de Parnaíba",NA,NA
+1475,75,"Central Asia","Tamil Nadu","Avadi",NA,NA
+1476,160,"EMEA","Žilina","Zilina",NA,NA
+1477,75,"Central Asia","Bihar","Patna",NA,NA
+1478,65,"Central","Centre","Bourges",NA,NA
+1479,90,"EMEA","Diyala","Baqubah",NA,NA
+1480,86,"North","Distrito Federal","Milpa Alta",NA,NA
+1481,75,"Central Asia","Uttar Pradesh","Bareilly",NA,NA
+1482,92,"South","Quindío","Armenia",NA,NA
+1483,82,"North Asia","Guangdong","Wuchuan",NA,NA
+1484,90,"EMEA","Babil","Al Hillah",NA,NA
+1485,73,"South","Lazio","Tivoli",NA,NA
+1486,116,"Africa","Tabora","Tabora",NA,NA
+1487,79,"North","England","Stockport",NA,NA
+1488,65,"Central","Provence-Alpes-Côte d'Azur","Martigues",NA,NA
+1489,73,"South","Apulia","Molfetta",NA,NA
+1490,65,"Central","Ile-de-France","Saint-Michel-sur-Orge",NA,NA
+1491,75,"Central Asia","Maharashtra","Pimpri",NA,NA
+1492,75,"Central Asia","Jharkhand","Ranchi",NA,NA
+1493,98,"Africa","Gharb-Chrarda-Béni Hssen","Kenitra",NA,NA
+1494,117,"North","Hordaland","Bergen",NA,NA
+1495,75,"Central Asia","Haryana","Sonipat",NA,NA
+1496,66,"Central","North Rhine-Westphalia","Siegen",NA,NA
+1497,106,"Central Asia","Khulna","Khulna",NA,NA
+1498,73,"South","Apulia","Altamura",NA,NA
+1499,65,"Central","Rhône-Alpes","Rillieux-la-Pape",NA,NA
+1500,79,"North","England","Chester",NA,NA
+1501,82,"North Asia","Shaanxi","Xianyang",NA,NA
+1502,65,"Central","Nord-Pas-de-Calais","Roubaix",NA,NA
+1503,82,"North Asia","Heilongjiang","Yichun",NA,NA
+1504,65,"Central","Ile-de-France","Grigny",NA,NA
+1505,82,"North Asia","Hubei","Xianning",NA,NA
+1506,65,"Central","Ile-de-France","Les Clayes-sous-Bois",NA,NA
+1507,82,"North Asia","Fujian","Xiamen",NA,NA
+1508,82,"North Asia","Guangdong","Huizhou",NA,NA
+1509,113,"South","Potosí","Potosí",NA,NA
+1510,86,"North","Sonora","San Luis Río Colorado",NA,NA
+1511,65,"Central","Midi-Pyrénées","Castres",NA,NA
+1512,144,"EMEA","'Amman","Amman",NA,NA
+1513,92,"South","Norte de Santander","Ocaña",NA,NA
+1514,91,"South","Minas Gerais","Conselheiro Lafaiete",NA,NA
+1515,75,"Central Asia","Rajasthan","Ajmer",NA,NA
+1516,88,"EMEA","Silesia","Dabrowa Gornicza",NA,NA
+1517,91,"South","Paraíba","João Pessoa",NA,NA
+1518,69,"Central","Upper Austria","Wels",NA,NA
+1519,120,"South","Guayas","Guayaquil",NA,NA
+1520,75,"Central Asia","Gujarat","Bhavnagar",NA,NA
+1521,91,"South","Bahia","Guanambi",NA,NA
+1522,91,"South","Tocantins","Araguaína",NA,NA
+1523,65,"Central","Ile-de-France","Montreuil",NA,NA
+1524,74,"Africa","Kwazulu-natal","Newcastle",NA,NA
+1525,97,"North Asia","Chiba","Funabashi",NA,NA
+1526,66,"Central","North Rhine-Westphalia","Bonn",NA,NA
+1527,73,"South","Sicily","Marsala",NA,NA
+1528,75,"Central Asia","Tamil Nadu","Coimbatore",NA,NA
+1529,86,"North","Morelos","Jiutepec",NA,NA
+1530,66,"Central","North Rhine-Westphalia","Oberhausen",NA,NA
+1531,75,"Central Asia","Telangana","Karimnagar",NA,NA
+1532,66,"Central","North Rhine-Westphalia","Bergisch Gladbach",NA,NA
+1533,66,"Central","Hesse","Wetzlar",NA,NA
+1534,96,"EMEA","Chernihiv","Nizhyn",NA,NA
+1535,115,"Oceania","New South Wales","Wollongong",NA,NA
+1536,82,"North Asia","Liaoning","Wafangdian",NA,NA
+1537,79,"North","England","Redditch",NA,NA
+1538,95,"EMEA","Razavi Khorasan","Neyshabur",NA,NA
+1539,95,"EMEA","Khuzestan","Khorramshahr",NA,NA
+1540,73,"South","Campania","Benevento",NA,NA
+1541,115,"Oceania","South Australia","Murray Bridge",NA,NA
+1542,80,"South","Andalusía","Marbella",NA,NA
+1543,115,"Oceania","New South Wales","Newcastle",NA,NA
+1544,65,"Central","Ile-de-France","Levallois-Perret",NA,NA
+1545,66,"Central","Baden-Württemberg","Reutlingen",NA,NA
+1546,88,"EMEA","Greater Poland","Kalisz",NA,NA
+1547,123,"EMEA","Andijan","Andijon",NA,NA
+1548,66,"Central","Schleswig-Holstein","Kiel",NA,NA
+1549,65,"Central","Ile-de-France","Neuilly-sur-Marne",NA,NA
+1550,66,"Central","Rhineland-Palatinate","Kaiserslautern",NA,NA
+1551,65,"Central","Ile-de-France","Fontenay-aux-Roses",NA,NA
+1552,69,"Central","Carinthia","Villach",NA,NA
+1553,86,"North","Puebla","Tehuacán",NA,NA
+1554,74,"Africa","North-West","Vryburg",NA,NA
+1555,81,"EMEA","Bryansk","Bryansk",NA,NA
+1556,75,"Central Asia","Haryana","Faridabad",NA,NA
+1557,65,"Central","Nord-Pas-de-Calais","Lille",NA,NA
+1558,82,"North Asia","Heilongjiang","Wuchang",NA,NA
+1559,65,"Central","Ile-de-France","Le Blanc-Mesnil",NA,NA
+1560,82,"North Asia","Hainan","Sanya",NA,NA
+1561,95,"EMEA","Razavi Khorasan","Sabzevar",NA,NA
+1562,66,"Central","North Rhine-Westphalia","Gummersbach",NA,NA
+1563,65,"Central","Ile-de-France","Gennevilliers",NA,NA
+1564,65,"Central","Lower Normandy","Bayeux",NA,NA
+1565,91,"South","Espírito Santo","Serra",NA,NA
+1566,96,"EMEA","Sumy","Sumy",NA,NA
+1567,82,"North Asia","Shandong","Shouguang",NA,NA
+1568,88,"EMEA","Silesia","Rybnik",NA,NA
+1569,73,"South","Lazio","Pomezia",NA,NA
+1570,82,"North Asia","Shandong","Xintai",NA,NA
+1571,73,"South","Lombardy","Vigevano",NA,NA
+1572,91,"South","São Paulo","José Bonifácio",NA,NA
+1573,91,"South","Parana","Rolândia",NA,NA
+1574,85,"Oceania","Waikato","Hamilton",NA,NA
+1575,138,"Africa","Bejaia","Bejaia",NA,NA
+1576,80,"South","Valenciana","Alicante",NA,NA
+1577,65,"Central","Ile-de-France","Lagny-sur-Marne",NA,NA
+1578,82,"North Asia","Liaoning","Anshan",NA,NA
+1579,96,"EMEA","Vinnytsya","Vinnytsya",NA,NA
+1580,79,"North","England","Loughborough",NA,NA
+1581,65,"Central","Ile-de-France","Maisons-Laffitte",NA,NA
+1582,82,"North Asia","Jiangsu","Xuzhou",NA,NA
+1583,92,"South","Risaralda","Dos Quebradas",NA,NA
+1584,82,"North Asia","Sichuan","Zigong",NA,NA
+1585,75,"Central Asia","Jharkhand","Jamshedpur",NA,NA
+1586,96,"EMEA","Kirovohrad","Oleksandriya",NA,NA
+1587,86,"North","Michoacán","Sahuayo de José María Morelos",NA,NA
+1588,65,"Central","Ile-de-France","Chaville",NA,NA
+1589,86,"North","Baja California","Ensenada",NA,NA
+1590,112,"Africa","Copperbelt","Luanshya",NA,NA
+1591,65,"Central","Provence-Alpes-Côte d'Azur","Avignon",NA,NA
+1592,91,"South","São Paulo","Bragança Paulista",NA,NA
+1593,73,"South","Basilicata","Potenza",NA,NA
+1594,65,"Central","Provence-Alpes-Côte d'Azur","Cagnes-sur-Mer",NA,NA
+1595,97,"North Asia","Chiba","Ichikawa",NA,NA
+1596,82,"North Asia","Shandong","Heze",NA,NA
+1597,73,"South","Emilia-Romagna","Cesena",NA,NA
+1598,82,"North Asia","Hunan","Xiangtan",NA,NA
+1599,82,"North Asia","Jilin","Siping",NA,NA
+1600,91,"South","Parana","Francisco Beltrão",NA,NA
+1601,75,"Central Asia","Telangana","Warangal",NA,NA
+1602,85,"Oceania","Manawatu-Wanganui","Palmerston North",NA,NA
+1603,82,"North Asia","Zhejiang","Huzhou",NA,NA
+1604,73,"South","Lombardy","Cinisello Balsamo",NA,NA
+1605,95,"EMEA","Mazandaran","Amol",NA,NA
+1606,79,"North","England","Hinckley",NA,NA
+1607,85,"Oceania","Wellington","Masterton",NA,NA
+1608,75,"Central Asia","Madhya Pradesh","Bhopal",NA,NA
+1609,91,"South","Parana","Paranaguá",NA,NA
+1610,75,"Central Asia","Andhra Pradesh","Visakhapatnam",NA,NA
+1611,69,"Central","Styria","Graz",NA,NA
+1612,122,"Central Asia","Hirat","Herat",NA,NA
+1613,115,"Oceania","New South Wales","Forster",NA,NA
+1614,91,"South","São Paulo","Ibiúna",NA,NA
+1615,82,"North Asia","Zhejiang","Shangyu",NA,NA
+1616,82,"North Asia","Jilin","Jiaohe",NA,NA
+1617,91,"South","Pernambuco","Paulista",NA,NA
+1618,100,"South","Valparaíso","San Antonio",NA,NA
+1619,91,"South","Santa Catarina","Gaspar",NA,NA
+1620,95,"EMEA","Esfahan","Najafabad",NA,NA
+1621,81,"EMEA","Bashkortostan","Salavat",NA,NA
+1622,86,"North","Guanajuato","Silao",NA,NA
+1623,75,"Central Asia","Rajasthan","Ganganagar",NA,NA
+1624,82,"North Asia","Guangdong","Luoyang",NA,NA
+1625,171,"South","Central","Fernando de la Mora",NA,NA
+1626,66,"Central","Baden-Württemberg","Heidelberg",NA,NA
+1627,92,"South","Norte de Santander","Cúcuta",NA,NA
+1628,86,"North","Veracruz","Córdoba",NA,NA
+1629,75,"Central Asia","Maharashtra","Solapur",NA,NA
+1630,88,"EMEA","Silesia","Ruda Slaska",NA,NA
+1631,80,"South","Castile and León","Burgos",NA,NA
+1632,79,"North","England","Bath",NA,NA
+1633,82,"North Asia","Anhui","Chaohu",NA,NA
+1634,82,"North Asia","Shanxi","Xinzhou",NA,NA
+1635,91,"South","Amapá","Macapá",NA,NA
+1636,65,"Central","Aquitaine","Pau",NA,NA
+1637,81,"EMEA","Yaroslavl'","Yaroslavl'",NA,NA
+1638,82,"North Asia","Jiangsu","Gaoyou",NA,NA
+1639,88,"EMEA","Greater Poland","Poznan",NA,NA
+1640,161,"Africa","Kassala","Kassala",NA,NA
+1641,66,"Central","North Rhine-Westphalia","Krefeld",NA,NA
+1642,82,"North Asia","Anhui","Huaibei",NA,NA
+1643,65,"Central","Ile-de-France","Bry-sur-Marne",NA,NA
+1644,93,"EMEA","Jizan","Jizan",NA,NA
+1645,75,"Central Asia","Jammu and Kashmir","Srinagar",NA,NA
+1646,65,"Central","Ile-de-France","Vanves",NA,NA
+1647,66,"Central","Schleswig-Holstein","Norderstedt",NA,NA
+1648,91,"South","São Paulo","Araraquara",NA,NA
+1649,77,"Africa","Kasai-Oriental","Mbuji-mayi",NA,NA
+1650,86,"North","Guanajuato","San Francisco del Rincón",NA,NA
+1651,106,"Central Asia","Sylhet","Sylhet",NA,NA
+1652,66,"Central","North Rhine-Westphalia","Lippstadt",NA,NA
+1653,80,"South","Cantabria","Santander",NA,NA
+1654,86,"North","San Luis Potosí","Matehuala",NA,NA
+1655,82,"North Asia","Ningxia","Shizuishan",NA,NA
+1656,75,"Central Asia","Karnataka","Mysore",NA,NA
+1657,91,"South","Rondônia","Ariquemes",NA,NA
+1658,66,"Central","Thuringia","Sonneberg",NA,NA
+1659,65,"Central","Alsace","Haguenau",NA,NA
+1660,82,"North Asia","Jilin","Gongzhuling",NA,NA
+1661,65,"Central","Ile-de-France","Trappes",NA,NA
+1662,91,"South","Rio Grande do Sul","Gravataí",NA,NA
+1663,137,"Africa","Kayes","Kayes",NA,NA
+1664,81,"EMEA","Belgorod","Gubkin",NA,NA
+1665,82,"North Asia","Hunan","Lianyuan",NA,NA
+1666,65,"Central","Picardy","Creil",NA,NA
+1667,114,"Africa","Huambo","Huambo",NA,NA
+1668,86,"North","Coahuila","Villa Frontera",NA,NA
+1669,95,"EMEA","Yazd","Yazd",NA,NA
+1670,82,"North Asia","Henan","Pingdingshan",NA,NA
+1671,141,"Africa","Al Marqab","Al Khums",NA,NA
+1672,82,"North Asia","Guangdong","Dongguan",NA,NA
+1673,112,"Africa","Southern","Livingstone",NA,NA
+1674,65,"Central","Nord-Pas-de-Calais","Saint-Pol-sur-Mer",NA,NA
+1675,91,"South","Tocantins","Gurupi",NA,NA
+1676,79,"North","England","Rotherham",NA,NA
+1677,96,"EMEA","Poltava","Kremenchuk",NA,NA
+1678,91,"South","Pernambuco","Garanhuns",NA,NA
+1679,79,"North","England","Bournemouth",NA,NA
+1680,79,"North","England","Rochdale",NA,NA
+1681,91,"South","São Paulo","Guarujá",NA,NA
+1682,161,"Africa","Khartoum","Khartoum",NA,NA
+1683,79,"North","England","Stockton-on-Tees",NA,NA
+1684,77,"Africa","Maniema","Kindu",NA,NA
+1685,92,"South","Valle del Cauca","Cartago",NA,NA
+1686,86,"North","Zacatecas","Zacatecas",NA,NA
+1687,94,"Africa","Al Fayyum","Al Fayyum",NA,NA
+1688,75,"Central Asia","Rajasthan","Bikaner",NA,NA
+1689,86,"North","Guanajuato","Guanajuato",NA,NA
+1690,97,"North Asia","Nagano","Ueda",NA,NA
+1691,66,"Central","Baden-Württemberg","Ludwigsburg",NA,NA
+1692,91,"South","Minas Gerais","Uberaba",NA,NA
+1693,115,"Oceania","Northern Territory","Palmerston",NA,NA
+1694,105,"Africa","Rift Valley","Nakuru",NA,NA
+1695,82,"North Asia","Jiangsu","Jiangdu",NA,NA
+1696,82,"North Asia","Shanxi","Yangquan",NA,NA
+1697,82,"North Asia","Hubei","Macheng",NA,NA
+1698,79,"North","England","Basildon",NA,NA
+1699,112,"Africa","Eastern","Chipata",NA,NA
+1700,95,"EMEA","Kerman","Rafsanjan",NA,NA
+1701,116,"Africa","Kigoma","Uvinza",NA,NA
+1702,85,"Oceania","Manawatu-Wanganui","Levin",NA,NA
+1703,86,"North","Colima","Tecomán",NA,NA
+1704,86,"North","Guerrero","Iguala",NA,NA
+1705,97,"North Asia","Osaka","Takatsuki",NA,NA
+1706,82,"North Asia","Shandong","Binzhou",NA,NA
+1707,65,"Central","Nord-Pas-de-Calais","Lens",NA,NA
+1708,75,"Central Asia","Madhya Pradesh","Satna",NA,NA
+1709,65,"Central","Ile-de-France","Vitry-sur-Seine",NA,NA
+1710,117,"North","Rogaland","Stavanger",NA,NA
+1711,95,"EMEA","Qazvin","Qazvin",NA,NA
+1712,73,"South","Campania","Portici",NA,NA
+1713,75,"Central Asia","Uttar Pradesh","Allahabad",NA,NA
+1714,91,"South","Espírito Santo","Vitória",NA,NA
+1715,79,"North","England","Eastbourne",NA,NA
+1716,86,"North","Campeche","Campeche",NA,NA
+1717,103,"Canada","Ontario","Brampton",NA,NA
+1718,65,"Central","Ile-de-France","Pantin",NA,NA
+1719,74,"Africa","Western Cape","Stellenbosch",NA,NA
+1720,65,"Central","Upper Normandy","Le Havre",NA,NA
+1721,65,"Central","Midi-Pyrénées","Pamiers",NA,NA
+1722,66,"Central","North Rhine-Westphalia","Bottrop",NA,NA
+1723,65,"Central","Provence-Alpes-Côte d'Azur","Vitrolles",NA,NA
+1724,66,"Central","Hesse","Kassel",NA,NA
+1725,95,"EMEA","Fars","Fasa",NA,NA
+1726,82,"North Asia","Heilongjiang","Suihua",NA,NA
+1727,74,"Africa","Gauteng","Vereeniging",NA,NA
+1728,86,"North","Oaxaca","Salina Cruz",NA,NA
+1729,73,"South","Veneto","Treviso",NA,NA
+1730,82,"North Asia","Shandong","Ninghai",NA,NA
+1731,80,"South","Andalusía","Huelva",NA,NA
+1732,66,"Central","North Rhine-Westphalia","Bergheim",NA,NA
+1733,138,"Africa","Tizi Ouzou","Boghni",NA,NA
+1734,65,"Central","Provence-Alpes-Côte d'Azur","Toulon",NA,NA
+1735,91,"South","Goiás","Novo Gama",NA,NA
+1736,131,"EMEA","Tel Aviv","Ramat Aviv",NA,NA
+1737,91,"South","Ceará","Tianguá",NA,NA
+1738,138,"Africa","Djelfa","Ain Oussera",NA,NA
+1739,124,"EMEA","Galati","Galati",NA,NA
+1740,79,"North","England","Great Yarmouth",NA,NA
+1741,86,"North","Puebla","Cholula",NA,NA
+1742,65,"Central","Rhône-Alpes","Roanne",NA,NA
+1743,73,"South","Abruzzi","Pescara",NA,NA
+1744,79,"North","England","Rottingdean",NA,NA
+1745,82,"North Asia","Zhejiang","Yiwu",NA,NA
+1746,65,"Central","Rhône-Alpes","Aix-les-Bains",NA,NA
+1747,86,"North","Chiapas","Tapachula",NA,NA
+1748,87,"Southeast Asia","Sarawak","Kuching",NA,NA
+1749,79,"North","England","Darlington",NA,NA
+1750,78,"Caribbean","Matanzas","Cárdenas",NA,NA
+1751,92,"South","Huila","Pitalito",NA,NA
+1752,100,"South","Valparaíso","Villa Alemana",NA,NA
+1753,82,"North Asia","Shandong","Weifang",NA,NA
+1754,79,"North","England","Fareham",NA,NA
+1755,91,"South","Santa Catarina","Balneário Camboriú",NA,NA
+1756,91,"South","Goiás","Valparaíso de Goiás",NA,NA
+1757,85,"Oceania","Canterbury","Timaru",NA,NA
+1758,103,"Canada","Ontario","St. Catharines",NA,NA
+1759,91,"South","São Paulo","Ribeirão Preto",NA,NA
+1760,103,"Canada","British Columbia","Abbotsford",NA,NA
+1761,113,"South","La Paz","La Paz",NA,NA
+1762,79,"North","England","Dartford",NA,NA
+1763,91,"South","Maranhão","Grajaú",NA,NA
+1764,79,"North","England","Bognor Regis",NA,NA
+1765,95,"EMEA","Golestan","Gorgan",NA,NA
+1766,92,"South","Norte de Santander","Los Patios",NA,NA
+1767,71,"Central","Flemish Brabant","Leuven",NA,NA
+1768,82,"North Asia","Henan","Kaifeng",NA,NA
+1769,118,"Africa","Eastern","Koidu",NA,NA
+1770,79,"North","England","Hereford",NA,NA
+1771,131,"EMEA","Jerusalem","Jerusalem",NA,NA
+1772,159,"EMEA","Shkodër","Shkoder",NA,NA
+1773,138,"Africa","Medea","Medea",NA,NA
+1774,82,"North Asia","Inner Mongolia","Wuhai",NA,NA
+1775,172,"Africa","Nouakchott","Nouakchott",NA,NA
+1776,95,"EMEA","Qazvin","Takestan",NA,NA
+1777,142,"Africa","Niassa","Lichinga",NA,NA
+1778,86,"North","Veracruz","Altotonga",NA,NA
+1779,99,"Africa","Adamaoua","Ngaoundere",NA,NA
+1780,120,"South","Pichincha","Santo Domingo de los Colorados",NA,NA
+1781,131,"EMEA","Southern","Be'er Sheva",NA,NA
+1782,82,"North Asia","Fujian","Quanzhou",NA,NA
+1783,91,"South","Bahia","Senhor do Bonfim",NA,NA
+1784,79,"North","England","Liverpool",NA,NA
+1785,82,"North Asia","Sichuan","Deyang",NA,NA
+1786,91,"South","Alagoas","Penedo",NA,NA
+1787,79,"North","England","Garforth",NA,NA
+1788,82,"North Asia","Inner Mongolia","Jining",NA,NA
+1789,69,"EMEA","Salzburg","Salzburg",NA,NA
+1790,132,"Africa","Grand Gedeh","Zwedru",NA,NA
+1791,103,"Canada","British Columbia","Surrey",NA,NA
+1792,161,"Africa","Gezira","Wad Madani",NA,NA
+1793,81,"EMEA","Bashkortostan","Sterlitamak",NA,NA
+1794,91,"South","Goiás","Catalão",NA,NA
+1795,95,"EMEA","Hormozgan","Bandar Abbas",NA,NA
+1796,77,"Africa","Bandundu","Bandundu",NA,NA
+1797,79,"North","England","Waterlooville",NA,NA
+1798,94,"Africa","Ash Sharqiyah","Bilbeis",NA,NA
+1799,81,"EMEA","Kaluga","Kaluga",NA,NA
+1800,124,"EMEA","Arges","Pitesti",NA,NA
+1801,131,"EMEA","Southern","Ashqelon",NA,NA
+1802,82,"North Asia","Liaoning","Fushun",NA,NA
+1803,86,"North","Veracruz","Acayucan",NA,NA
+1804,90,"EMEA","Karbala'","Karbala'",NA,NA
+1805,103,"Canada","Ontario","London",NA,NA
+1806,96,"EMEA","Poltava","Poltava",NA,NA
+1807,124,"EMEA","Bacau","Bacau",NA,NA
+1808,91,"South","Bahia","Vitória da Conquista",NA,NA
+1809,116,"Africa","Mbeya","Igurusi",NA,NA
+1810,82,"North Asia","Hebei","Cangzhou",NA,NA
+1811,81,"EMEA","Dagestan","Khasavyurt",NA,NA
+1812,97,"North Asia","Chiba","Matsudo",NA,NA
+1813,81,"EMEA","Kabardino-Balkariya","Nal'chik",NA,NA
+1814,91,"South","Ceará","Aracati",NA,NA
+1815,98,"Africa","Guelmim-Es Semara","Guelmim",NA,NA
+1816,113,"South","Chuquisaca","Sucre",NA,NA
+1817,124,"EMEA","Maramures","Baia Mare",NA,NA
+1818,91,"South","Minas Gerais","Passos",NA,NA
+1819,82,"North Asia","Hubei","Guangshui",NA,NA
+1820,82,"North Asia","Liaoning","Beipiao",NA,NA
+1821,145,"Africa","Plateaux","Atakpame",NA,NA
+1822,97,"North Asia","Osaka","Ibaraki",NA,NA
+1823,116,"Africa","Mtwara","Mtwara",NA,NA
+1824,82,"North Asia","Liaoning","Chaoyang",NA,NA
+1825,86,"North","Hidalgo","Tulancingo",NA,NA
+1826,82,"North Asia","Zhejiang","Yuyao",NA,NA
+1827,79,"North","England","Woking",NA,NA
+1828,66,"Central","Bavaria","Bamberg",NA,NA
+1829,66,"Central","North Rhine-Westphalia","Hattingen",NA,NA
+1830,80,"South","Catalonia","Manresa",NA,NA
+1831,69,"Central","Tyrol","Innsbruck",NA,NA
+1832,73,"South","Lombardy","Cremona",NA,NA
+1833,79,"North","England","Widnes",NA,NA
+1834,66,"Central","North Rhine-Westphalia","Paderborn",NA,NA
+1835,79,"North","England","Chelmsford",NA,NA
+1836,79,"North","England","Birkenhead",NA,NA
+1837,79,"North","England","Gateshead",NA,NA
+1838,71,"Central","West Flanders","Kortrijk",NA,NA
+1839,79,"North","England","Weston-super-Mare",NA,NA
+1840,66,"Central","Schleswig-Holstein","Flensburg",NA,NA
+1841,79,"North","England","Sale",NA,NA
+1842,79,"North","England","Bedford",NA,NA
+1843,66,"Central","North Rhine-Westphalia","Borken",NA,NA
+1844,79,"North","England","Hemel Hempstead",NA,NA
+1845,79,"North","England","Swindon",NA,NA
+1846,72,"Central","St. Gallen","St. Gallen",NA,NA
+1847,79,"North","England","Hove",NA,NA
+1848,66,"Central","Baden-Württemberg","Ulm",NA,NA
+1849,79,"North","England","Clacton-on-Sea",NA,NA
+1850,65,"Central","Lower Normandy","Lisieux",NA,NA
+1851,65,"Central","Upper Normandy","Dieppe",NA,NA
+1852,65,"Central","Corsica","Ajaccio",NA,NA
+1853,65,"Central","Ile-de-France","Poissy",NA,NA
+1854,65,"Central","Brittany","Quimper",NA,NA
+1855,65,"Central","Alsace","Colmar",NA,NA
+1856,65,"Central","Languedoc-Roussillon","Narbonne",NA,NA
+1857,65,"Central","Ile-de-France","Gonesse",NA,NA
+1858,65,"Central","Ile-de-France","Mitry-Mory",NA,NA
+1859,65,"Central","Aquitaine","Talence",NA,NA
+1860,65,"Central","Ile-de-France","Vincennes",NA,NA
+1861,65,"Central","Centre","Tours",NA,NA
+1862,65,"Central","Champagne-Ardenne","Chaumont",NA,NA
+1863,65,"Central","Brittany","Pontivy",NA,NA
+1864,65,"Central","Picardy","Abbeville",NA,NA
+1865,65,"Central","Pays de la Loire","Saint-Nazaire",NA,NA
+1866,65,"Central","Alsace","Mulhouse",NA,NA
+1867,65,"Central","Ile-de-France","Limay",NA,NA
+1868,65,"Central","Nord-Pas-de-Calais","Avion",NA,NA
+1869,65,"Central","Pays de la Loire","La Roche-sur-Yon",NA,NA
+1870,65,"Central","Provence-Alpes-Côte d'Azur","Les Pennes-Mirabeau",NA,NA
+1871,65,"Central","Ile-de-France","Les Ulis",NA,NA
+1872,65,"Central","Provence-Alpes-Côte d'Azur","Carpentras",NA,NA
+1873,66,"Central","North Rhine-Westphalia","Pulheim",NA,NA
+1874,80,"South","Madrid","Parla",NA,NA
+1875,66,"Central","Saxony","Chemnitz",NA,NA
+1876,80,"South","Andalusía","Jerez de la Frontera",NA,NA
+1877,79,"North","England","Derby",NA,NA
+1878,65,"Central","Rhône-Alpes","Bourg-en-Bresse",NA,NA
+1879,65,"Central","Provence-Alpes-Côte d'Azur","Salon-de-Provence",NA,NA
+1880,73,"South","Lazio","Viterbo",NA,NA
+1881,71,"Central","Hainaut","Tournai",NA,NA
+1882,91,"South","Rio de Janeiro","Niterói",NA,NA
+1883,97,"North Asia","Tokyo","Edogawa-ku",NA,NA
+1884,86,"North","Coahuila","Monclova",NA,NA
+1885,82,"North Asia","Jilin","Yanji",NA,NA
+1886,75,"Central Asia","Rajasthan","Fatehpur",NA,NA
+1887,97,"North Asia","Hyogo","Nishinomiya",NA,NA
+1888,75,"Central Asia","West Bengal","Barddhaman",NA,NA
+1889,91,"South","Acre","Rio Branco",NA,NA
+1890,171,"South","Asunción","Asunción",NA,NA
+1891,91,"South","Amazonas","Coari",NA,NA
+1892,173,"Africa","Manzini","Manzini",NA,NA
+1893,66,"Central","North Rhine-Westphalia","Dormagen",NA,NA
+1894,65,"Central","Ile-de-France","Gagny",NA,NA
+1895,79,"North","England","Barnsley",NA,NA
+1896,81,"EMEA","Chelyabinsk","Miass",NA,NA
+1897,113,"South","Cochabamba","Cochabamba",NA,NA
+1898,66,"Central","North Rhine-Westphalia","Willich",NA,NA
+1899,65,"Central","Brittany","Concarneau",NA,NA
+1900,93,"EMEA","Ash Sharqiyah","Al Hufuf",NA,NA
+1901,95,"EMEA","Mazandaran","Sari",NA,NA
+1902,66,"Central","North Rhine-Westphalia","Troisdorf",NA,NA
+1903,66,"Central","Bavaria","Neu-Ulm",NA,NA
+1904,79,"North","England","Norwich",NA,NA
+1905,82,"North Asia","Tianjin","Hangu",NA,NA
+1906,91,"South","Paraíba","Campina Grande",NA,NA
+1907,75,"Central Asia","Uttar Pradesh","Etawah",NA,NA
+1908,66,"Central","North Rhine-Westphalia","Gladbeck",NA,NA
+1909,79,"North","Wales","Barry",NA,NA
+1910,91,"South","Ceará","São Benedito",NA,NA
+1911,72,"Central","Geneva","Geneva",NA,NA
+1912,65,"Central","Ile-de-France","Bagneux",NA,NA
+1913,86,"North","Tamaulipas","Nuevo Laredo",NA,NA
+1914,95,"EMEA","Sistan Va Baluchestan","Zahedan",NA,NA
+1915,65,"Central","Limousin","Limoges",NA,NA
+1916,94,"Africa","Aswan","Idfu",NA,NA
+1917,107,"EMEA","Pernik","Pernik",NA,NA
+1918,82,"North Asia","Anhui","Huainan",NA,NA
+1919,98,"Africa","Doukkala-Abda","El Jadida",NA,NA
+1920,73,"South","Emilia-Romagna","Faenza",NA,NA
+1921,65,"Central","Pays de la Loire","Fontenay-le-Comte",NA,NA
+1922,95,"EMEA","Khuzestan","Behbahan",NA,NA
+1923,66,"Central","North Rhine-Westphalia","Iserlohn",NA,NA
+1924,95,"EMEA","Razavi Khorasan","Torbat-e Heydariyeh",NA,NA
+1925,75,"Central Asia","Delhi","New Delhi",NA,NA
+1926,91,"South","Acre","Cruzeiro do Sul",NA,NA
+1927,86,"North","Tamaulipas","Miramar",NA,NA
+1928,91,"South","Rio de Janeiro","Duque de Caxias",NA,NA
+1929,144,"EMEA","Irbid","Irbid",NA,NA
+1930,79,"North","England","Runcorn",NA,NA
+1931,174,"Africa","Estuaire","Libreville",NA,NA
+1932,86,"North","San Luis Potosí","Soledad Díez Gutiérrez",NA,NA
+1933,65,"Central","Ile-de-France","Sevran",NA,NA
+1934,75,"Central Asia","Chhattisgarh","Raipur",NA,NA
+1935,75,"Central Asia","West Bengal","Bhatpara",NA,NA
+1936,77,"Africa","Bas-Congo","Matadi",NA,NA
+1937,95,"EMEA","Hamadan","Malayer",NA,NA
+1938,65,"Central","Lorraine","Epinal",NA,NA
+1939,82,"North Asia","Fujian","Sanming",NA,NA
+1940,114,"Africa","Namibe","Namibe",NA,NA
+1941,65,"Central","Aquitaine","La Teste-de-Buch",NA,NA
+1942,103,"Canada","Nova Scotia","Dartmouth",NA,NA
+1943,79,"North","England","Ashford",NA,NA
+1944,80,"South","Andalusía","Dos Hermanas",NA,NA
+1945,86,"North","México","Metepec",NA,NA
+1946,87,"Southeast Asia","Negeri Sembilan","Seremban",NA,NA
+1947,86,"North","Jalisco","Guzmán",NA,NA
+1948,97,"North Asia","Aichi","Toyohashi",NA,NA
+1949,126,"EMEA","Homyel'","Mazyr",NA,NA
+1950,96,"EMEA","Dnipropetrovs'k","Dniprodzerzhyns'k",NA,NA
+1951,91,"South","Rio Grande do Sul","Santa Cruz do Sul",NA,NA
+1952,96,"EMEA","Zaporizhzhya","Zaporizhzhya",NA,NA
+1953,175,"EMEA","Lori","Vanadzor",NA,NA
+1954,88,"EMEA","Silesia","Sosnowiec",NA,NA
+1955,96,"EMEA","Cherkasy","Cherkasy",NA,NA
+1956,123,"EMEA","Jizzakh","Jizzakh",NA,NA
+1957,81,"EMEA","Dagestan","Derbent",NA,NA
+1958,82,"North Asia","Zhejiang","Wenling",NA,NA
+1959,75,"Central Asia","Manipur","Imphal",NA,NA
+1960,91,"South","São Paulo","Limeira",NA,NA
+1961,93,"EMEA","Ash Sharqiyah","Al Mubarraz",NA,NA
+1962,146,"Africa","Fromager","Gagnoa",NA,NA
+1963,112,"Africa","Copperbelt","Mufulira",NA,NA
+1964,94,"Africa","Al Gharbiyah","Al Mahallah al Kubra",NA,NA
+1965,77,"Africa","Equateur","Mbandaka",NA,NA
+1966,98,"Africa","Tadla-Azilal","Beni Mellal",NA,NA
+1967,98,"Africa","Chaouia-Ouardigha","Settat",NA,NA
+1968,74,"Africa","Kwazulu-natal","Ulundi",NA,NA
+1969,74,"Africa","Gauteng","Randfontein",NA,NA
+1970,97,"North Asia","Saga","Saga",NA,NA
+1971,79,"North","England","Sunderland",NA,NA
+1972,92,"South","Magdalena","Santa Marta",NA,NA
+1973,107,"EMEA","Sliven","Sliven",NA,NA
+1974,79,"North","Wales","Swansea",NA,NA
+1975,92,"South","Santander","Piedecuesta",NA,NA
+1976,82,"North Asia","Sichuan","Yibin",NA,NA
+1977,82,"North Asia","Sichuan","Neijiang",NA,NA
+1978,86,"North","Jalisco","Ocotlán",NA,NA
+1979,176,"EMEA","Ljubljana","Ljubljana",NA,NA
+1980,91,"South","Ceará","Crato",NA,NA
+1981,80,"South","Basque Country","Barakaldo",NA,NA
+1982,91,"South","Rio Grande do Sul","Uruguaiana",NA,NA
+1983,73,"South","Liguria","La Spezia",NA,NA
+1984,97,"North Asia","Aichi","Anjo",NA,NA
+1985,91,"South","Minas Gerais","Nova Serrana",NA,NA
+1986,81,"EMEA","Novosibirsk","Toguchin",NA,NA
+1987,75,"Central Asia","Maharashtra","Akola",NA,NA
+1988,73,"South","Liguria","Savona",NA,NA
+1989,86,"North","Querétaro","San Juan del Río",NA,NA
+1990,82,"North Asia","Hebei","Tangshan",NA,NA
+1991,73,"South","Emilia-Romagna","Rimini",NA,NA
+1992,79,"North","England","Taunton",NA,NA
+1993,73,"South","Emilia-Romagna","Vignola",NA,NA
+1994,82,"North Asia","Guangdong","Donghai",NA,NA
+1995,91,"South","São Paulo","Jacareí",NA,NA
+1996,91,"South","Amazonas","Manacapuru",NA,NA
+1997,75,"Central Asia","Haryana","Rohtak",NA,NA
+1998,91,"South","São Paulo","Presidente Prudente",NA,NA
+1999,91,"South","São Paulo","Sorocaba",NA,NA
+2000,92,"South","Nariño","Ipiales",NA,NA
+2001,91,"South","Santa Catarina","Itajaí",NA,NA
+2002,80,"South","Ceuta","Ceuta",NA,NA
+2003,82,"North Asia","Sichuan","Nanchong",NA,NA
+2004,80,"South","Castile-La Mancha","Toledo",NA,NA
+2005,79,"North","England","Cambridge",NA,NA
+2006,82,"North Asia","Hubei","Xinzhou",NA,NA
+2007,82,"North Asia","Zhejiang","Jinhua",NA,NA
+2008,79,"North","England","Stafford",NA,NA
+2009,91,"South","São Paulo","Jaú",NA,NA
+2010,97,"North Asia","Aomori","Hachinohe",NA,NA
+2011,73,"South","Piedmont","Asti",NA,NA
+2012,79,"North","Scotland","Kilwinning",NA,NA
+2013,75,"Central Asia","Madhya Pradesh","Ratlam",NA,NA
+2014,82,"North Asia","Hubei","Xiaogan",NA,NA
+2015,169,"EMEA","Federation of Bosnia and Herzegovina","Zenica",NA,NA
+2016,82,"North Asia","Heilongjiang","Qitaihe",NA,NA
+2017,82,"North Asia","Liaoning","Dalian",NA,NA
+2018,91,"South","São Paulo","Praia Grande",NA,NA
+2019,79,"North","England","Gosport",NA,NA
+2020,66,"Central","North Rhine-Westphalia","Wetter (Ruhr)",NA,NA
+2021,66,"Central","Lower Saxony","Lohne",NA,NA
+2022,66,"Central","North Rhine-Westphalia","Erftstadt",NA,NA
+2023,66,"Central","North Rhine-Westphalia","Gelsenkirchen",NA,NA
+2024,66,"Central","Lower Saxony","Emden",NA,NA
+2025,65,"Central","Upper Normandy","Vernon",NA,NA
+2026,65,"Central","Rhône-Alpes","Villeurbanne",NA,NA
+2027,65,"Central","Languedoc-Roussillon","Agde",NA,NA
+2028,65,"Central","Ile-de-France","Sarcelles",NA,NA
+2029,65,"Central","Nord-Pas-de-Calais","Lomme",NA,NA
+2030,65,"Central","Nord-Pas-de-Calais","Wattrelos",NA,NA
+2031,65,"Central","Midi-Pyrénées","Auch",NA,NA
+2032,65,"Central","Ile-de-France","Clamart",NA,NA
+2033,65,"Central","Provence-Alpes-Côte d'Azur","La Ciotat",NA,NA
+2034,65,"Central","Ile-de-France","Viroflay",NA,NA
+2035,65,"Central","Ile-de-France","Suresnes",NA,NA
+2036,65,"Central","Ile-de-France","La Celle-Saint-Cloud",NA,NA
+2037,65,"Central","Provence-Alpes-Côte d'Azur","Gardanne",NA,NA
+2038,65,"Central","Ile-de-France","Coulommiers",NA,NA
+2039,65,"Central","Rhône-Alpes","Grenoble",NA,NA
+2040,65,"Central","Ile-de-France","Clichy-sous-Bois",NA,NA
+2041,79,"North","England","Wallasey",NA,NA
+2042,65,"Central","Picardy","Beauvais",NA,NA
+2043,86,"North","México","Cuautitlán",NA,NA
+2044,82,"North Asia","Shandong","Jining",NA,NA
+2045,82,"North Asia","Shaanxi","Xi'an",NA,NA
+2046,79,"North","England","Carlisle",NA,NA
+2047,65,"Central","Franche-Comté","Lons-le-Saunier",NA,NA
+2048,82,"North Asia","Shandong","Gaomi",NA,NA
+2049,73,"South","Sicily","Catania",NA,NA
+2050,91,"South","Alagoas","Arapiraca",NA,NA
+2051,91,"South","São Paulo","Guaratinguetá",NA,NA
+2052,82,"North Asia","Shanxi","Datong",NA,NA
+2053,94,"Africa","Ash Sharqiyah","Abu Kabir",NA,NA
+2054,74,"Africa","Gauteng","Westonaria",NA,NA
+2055,100,"South","Tarapacá","Iquique",NA,NA
+2056,65,"Central","Languedoc-Roussillon","Sète",NA,NA
+2057,97,"North Asia","Oita","Yokkaichi",NA,NA
+2058,65,"Central","Ile-de-France","Villemomble",NA,NA
+2059,100,"South","Biobio","Talcahuano",NA,NA
+2060,131,"EMEA","Southern","Ashdod",NA,NA
+2061,65,"Central","Aquitaine","Gradignan",NA,NA
+2062,79,"North","England","Kidderminster",NA,NA
+2063,171,"South","Central","San Lorenzo",NA,NA
+2064,93,"EMEA","Tabuk","Tabuk",NA,NA
+2065,91,"South","Santa Catarina","Criciúma",NA,NA
+2066,111,"EMEA","Liberec","Liberec",NA,NA
+2067,75,"Central Asia","Maharashtra","Malegaon",NA,NA
+2068,65,"Central","Ile-de-France","Montfermeil",NA,NA
+2069,79,"North","England","Bracknell",NA,NA
+2070,96,"EMEA","Ternopil'","Ternopil'",NA,NA
+2071,100,"South","Santiago","San Bernardo",NA,NA
+2072,79,"North","England","Rugby",NA,NA
+2073,162,"Africa","Kankan","Kankan",NA,NA
+2074,82,"North Asia","Shandong","Yantai",NA,NA
+2075,65,"Central","Ile-de-France","Montgeron",NA,NA
+2076,82,"North Asia","Xinjiang Uygur","Shihezi",NA,NA
+2077,65,"Central","Burgundy","Le Creusot",NA,NA
+2078,65,"Central","Ile-de-France","Montmorency",NA,NA
+2079,69,"Central","Salzburg","Salzburg",NA,NA
+2080,138,"Africa","Batna","Batna",NA,NA
+2081,97,"North Asia","Shizuoka","Hamamatsu",NA,NA
+2082,65,"Central","Ile-de-France","Montereau-Fault-Yonne",NA,NA
+2083,73,"South","Umbria","Foligno",NA,NA
+2084,94,"Africa","Al Minya","Mallawi",NA,NA
+2085,120,"South","Manabi","Portoviejo",NA,NA
+2086,91,"South","Paraíba","Sousa",NA,NA
+2087,82,"North Asia","Jiangsu","Nantong",NA,NA
+2088,91,"South","Mato Grosso do Sul","Campo Grande",NA,NA
+2089,65,"Central","Burgundy","Mâcon",NA,NA
+2090,91,"South","Pará","Ananindeua",NA,NA
+2091,82,"North Asia","Guizhou","Bijie",NA,NA
+2092,71,"Central","West Flanders","Roeselare",NA,NA
+2093,79,"North","England","Gloucester",NA,NA
+2094,73,"South","Lombardy","Legnano",NA,NA
+2095,82,"North Asia","Henan","Xinxiang",NA,NA
+2096,80,"South","Asturias","Oviedo",NA,NA
+2097,79,"North","England","Nuneaton",NA,NA
+2098,82,"North Asia","Shandong","Laiyang",NA,NA
+2099,90,"EMEA","Dhi Qar","An Nasiriyah",NA,NA
+2100,65,"Central","Ile-de-France","Colombes",NA,NA
+2101,91,"South","São Paulo","Mogi das Cruzes",NA,NA
+2102,71,"Central","West Flanders","Bruges",NA,NA
+2103,91,"South","Rio Grande do Sul","Passo Fundo",NA,NA
+2104,66,"Central","North Rhine-Westphalia","Ratingen",NA,NA
+2105,65,"Central","Picardy","Saint-Quentin",NA,NA
+2106,92,"South","Cundinamarca","Facatativá",NA,NA
+2107,86,"North","Nuevo León","Cadereyta",NA,NA
+2108,97,"North Asia","Hiroshima","Fukuyama",NA,NA
+2109,92,"South","Valle del Cauca","Jamundí",NA,NA
+2110,78,"Caribbean","Holguín","Moa",NA,NA
+2111,75,"Central Asia","Madhya Pradesh","Gwalior",NA,NA
+2112,65,"Central","Picardy","Soissons",NA,NA
+2113,66,"Central","Lower Saxony","Oldenburg",NA,NA
+2114,65,"Central","Ile-de-France","Issy-les-Moulineaux",NA,NA
+2115,79,"North","England","Worthing",NA,NA
+2116,65,"Central","Brittany","Saint-Malo",NA,NA
+2117,73,"South","Emilia-Romagna","Carpi",NA,NA
+2118,66,"Central","Rhineland-Palatinate","Koblenz",NA,NA
+2119,91,"South","São Paulo","Santos",NA,NA
+2120,73,"South","Tuscany","Arezzo",NA,NA
+2121,65,"Central","Provence-Alpes-Côte d'Azur","La Crau",NA,NA
+2122,66,"Central","Mecklenburg-Vorpommern","Greifswald",NA,NA
+2123,65,"Central","Aquitaine","Agen",NA,NA
+2124,66,"Central","Lower Saxony","Wolfsburg",NA,NA
+2125,72,"Central","Vaud","Lausanne",NA,NA
+2126,65,"Central","Centre","Blois",NA,NA
+2127,82,"North Asia","Sichuan","Tongchuan",NA,NA
+2128,82,"North Asia","Zhejiang","Shaoxing",NA,NA
+2129,65,"Central","Ile-de-France","Saint-Germain-en-Laye",NA,NA
+2130,91,"South","São Paulo","Itapetininga",NA,NA
+2131,73,"South","Piedmont","Alessandria",NA,NA
+2132,71,"Central","Limburg","Peer",NA,NA
+2133,86,"North","Quintana Roo","Chetumal",NA,NA
+2134,113,"South","Beni","Riberalta",NA,NA
+2135,80,"South","Madrid","Coslada",NA,NA
+2136,66,"Central","Rhineland-Palatinate","Ludwigshafen am Rhein",NA,NA
+2137,94,"Africa","Kafr Ash Shaykh","Disuq",NA,NA
+2138,91,"South","Rio de Janeiro","Resende",NA,NA
+2139,137,"Africa","Mopti","Mopti",NA,NA
+2140,82,"North Asia","Heilongjiang","Binzhou",NA,NA
+2141,88,"EMEA","Opole","Nysa",NA,NA
+2142,91,"South","São Paulo","Barueri",NA,NA
+2143,79,"North","England","Dewsbury",NA,NA
+2144,95,"EMEA","Ilam","Ilam",NA,NA
+2145,75,"Central Asia","Puducherry","Puducherry",NA,NA
+2146,86,"North","Veracruz","Coatzacoalcos",NA,NA
+2147,65,"Central","Ile-de-France","Sannois",NA,NA
+2148,66,"Central","Brandenburg","Cottbus",NA,NA
+2149,103,"Canada","Newfoundland","St. John's",NA,NA
+2150,91,"South","Parana","Pato Branco",NA,NA
+2151,65,"Central","Nord-Pas-de-Calais","Villeneuve-d'Ascq",NA,NA
+2152,98,"Africa","Rabat-Salé-Zemmour-Zaer","Khemisset",NA,NA
+2153,131,"EMEA","Tel Aviv","Ramat Gan",NA,NA
+2154,80,"South","Murcia","Lorca",NA,NA
+2155,142,"Africa","Nampula","Nampula",NA,NA
+2156,91,"South","Mato Grosso","Cuiabá",NA,NA
+2157,82,"North Asia","Anhui","Huangshan",NA,NA
+2158,139,"Africa","Borgou","Parakou",NA,NA
+2159,66,"Central","North Rhine-Westphalia","Detmold",NA,NA
+2160,82,"North Asia","Hubei","Suizhou",NA,NA
+2161,65,"Central","Nord-Pas-de-Calais","Valenciennes",NA,NA
+2162,65,"Central","Nord-Pas-de-Calais","Mons-en-Baroeul",NA,NA
+2163,79,"North","England","Dudley",NA,NA
+2164,97,"North Asia","Nagasaki","Nagasaki",NA,NA
+2165,91,"South","Minas Gerais","Itaúna",NA,NA
+2166,81,"EMEA","Bashkortostan","Blagoveshchensk",NA,NA
+2167,119,"EMEA","Gyor","Gyor",NA,NA
+2168,82,"North Asia","Hainan","Haikou",NA,NA
+2169,65,"Central","Rhône-Alpes","Montbrison",NA,NA
+2170,107,"EMEA","Burgas","Burgas",NA,NA
+2171,65,"Central","Centre","Gien",NA,NA
+2172,91,"South","Santa Catarina","Caçador",NA,NA
+2173,82,"North Asia","Xinjiang Uygur","Aksu",NA,NA
+2174,95,"EMEA","Esfahan","Shahreza",NA,NA
+2175,138,"Africa","Saida","Saida",NA,NA
+2176,65,"Central","Corsica","Bastia",NA,NA
+2177,82,"North Asia","Hubei","Shashi",NA,NA
+2178,75,"Central Asia","Uttar Pradesh","Shahjahanpur",NA,NA
+2179,80,"South","Andalusía","Granada",NA,NA
+2180,115,"Oceania","New South Wales","Goulburn",NA,NA
+2181,80,"South","Castile and León","Segovia",NA,NA
+2182,82,"North Asia","Jilin","Huadian",NA,NA
+2183,142,"Africa","Zambezia","Quelimane",NA,NA
+2184,79,"North","England","Chatham",NA,NA
+2185,160,"EMEA","Nitra","Nitra",NA,NA
+2186,96,"EMEA","Sevastopol'","Sevastopol",NA,NA
+2187,65,"Central","Rhône-Alpes","Oullins",NA,NA
+2188,86,"North","Sinaloa","Guamúchil",NA,NA
+2189,79,"North","England","Huddersfield",NA,NA
+2190,100,"South","Biobio","Chillán",NA,NA
+2191,138,"Africa","Mostaganem","Mostaganem",NA,NA
+2192,91,"South","Espírito Santo","Linhares",NA,NA
+2193,82,"North Asia","Liaoning","Tieling",NA,NA
+2194,95,"EMEA","Esfahan","Khomeynishahr",NA,NA
+2195,71,"Central","East Flanders","Hamme",NA,NA
+2196,73,"South","Tuscany","Marina di Carrara",NA,NA
+2197,91,"South","São Paulo","Votuporanga",NA,NA
+2198,71,"Central","Liège","Seraing",NA,NA
+2199,91,"South","São Paulo","Campo Limpo Paulista",NA,NA
+2200,75,"Central Asia","Punjab","Patiala",NA,NA
+2201,73,"South","Piedmont","Novara",NA,NA
+2202,79,"North","England","Lowestoft",NA,NA
+2203,89,"Africa","Atsinanana","Toamasina",NA,NA
+2204,66,"Central","Lower Saxony","Wilhelmshaven",NA,NA
+2205,72,"Central","Zürich","Winterthur",NA,NA
+2206,97,"North Asia","Kanagawa","Sagamihara",NA,NA
+2207,82,"North Asia","Jiangsu","Zhenjiang",NA,NA
+2208,65,"Central","Rhône-Alpes","Valence",NA,NA
+2209,120,"South","Azuay","Cuenca",NA,NA
+2210,91,"South","Rio Grande do Norte","Mossoró",NA,NA
+2211,89,"Africa","Boeny","Mahajanga",NA,NA
+2212,73,"South","Tuscany","Pisa",NA,NA
+2213,103,"Canada","Ontario","Guelph",NA,NA
+2214,79,"North","England","Huyton",NA,NA
+2215,82,"North Asia","Liaoning","Benxi",NA,NA
+2216,121,"North","Kymenlaakso","Kotka",NA,NA
+2217,65,"Central","Ile-de-France","Rueil-Malmaison",NA,NA
+2218,96,"EMEA","Luhans'k","Krasnyy Luch",NA,NA
+2219,82,"North Asia","Guangxi","Wuzhou",NA,NA
+2220,82,"North Asia","Guizhou","Zunyi",NA,NA
+2221,91,"South","Pará","Castanhal",NA,NA
+2222,92,"South","Caquetá","Florencia",NA,NA
+2223,94,"Africa","Suhaj","Sohag",NA,NA
+2224,138,"Africa","Tipaza","Baraki",NA,NA
+2225,74,"Africa","Gauteng","Mabopane",NA,NA
+2226,82,"North Asia","Jiangxi","Jingdezhen",NA,NA
+2227,135,"Africa","Saint-Louis","Saint-Louis",NA,NA
+2228,79,"North","England","Crewe",NA,NA
+2229,80,"South","Andalusía","San Fernando",NA,NA
+2230,103,"Canada","Ontario","Peterborough",NA,NA
+2231,91,"South","Roraima","Boa Vista",NA,NA
+2232,101,"Africa","Central","Cape Coast",NA,NA
+2233,75,"Central Asia","Haryana","Panipat",NA,NA
+2234,96,"EMEA","Luhans'k","Luhans'k",NA,NA
+2235,73,"South","Marche","Falconara Marittima",NA,NA
+2236,82,"North Asia","Heilongjiang","Hailin",NA,NA
+2237,139,"Africa","Atakora","Natitingou",NA,NA
+2238,65,"Central","Ile-de-France","Villiers-sur-Marne",NA,NA
+2239,65,"Central","Ile-de-France","Sceaux",NA,NA
+2240,66,"Central","North Rhine-Westphalia","Dinslaken",NA,NA
+2241,91,"South","São Paulo","Carapicuíba",NA,NA
+2242,75,"Central Asia","Maharashtra","Latur",NA,NA
+2243,96,"EMEA","Dnipropetrovs'k","Nikopol'",NA,NA
+2244,82,"North Asia","Hubei","Xinshi",NA,NA
+2245,85,"Oceania","Bay of Plenty","Rotorua",NA,NA
+2246,94,"Africa","Suhaj","Akhmim",NA,NA
+2247,99,"Africa","Sud","Ebolowa",NA,NA
+2248,88,"EMEA","Masovia","Plock",NA,NA
+2249,66,"Central","Baden-Württemberg","Mannheim",NA,NA
+2250,65,"Central","Provence-Alpes-Côte d'Azur","Cavaillon",NA,NA
+2251,65,"Central","Ile-de-France","Aubervilliers",NA,NA
+2252,65,"Central","Ile-de-France","Meaux",NA,NA
+2253,65,"Central","Aquitaine","Villenave-d'Ornon",NA,NA
+2254,65,"Central","Ile-de-France","Sucy-en-Brie",NA,NA
+2255,65,"Central","Ile-de-France","Bezons",NA,NA
+2256,73,"South","Campania","Ercolano",NA,NA
+2257,65,"Central","Ile-de-France","Pontault-Combault",NA,NA
+2258,65,"Central","Provence-Alpes-Côte d'Azur","Menton",NA,NA
+2259,86,"North","Michoacán","Apatzingán de la Constitución",NA,NA
+2260,81,"EMEA","Stavropol'","Arzgir",NA,NA
+2261,91,"South","Mato Grosso do Sul","Cassilândia",NA,NA
+2262,82,"North Asia","Tianjin","Tanggu",NA,NA
+2263,82,"North Asia","Jiangsu","Qidong",NA,NA
+2264,91,"South","Rio Grande do Sul","Sapucaia do Sul",NA,NA
+2265,65,"Central","Ile-de-France","Fresnes",NA,NA
+2266,65,"Central","Lorraine","Hayange",NA,NA
+2267,111,"EMEA","Hradec Kralove","Hradec Kralove",NA,NA
+2268,82,"North Asia","Xinjiang Uygur","Korla",NA,NA
+2269,69,"Central","Carinthia","Klagenfurt",NA,NA
+2270,82,"North Asia","Guangdong","Heyuan",NA,NA
+2271,91,"South","São Paulo","Itu",NA,NA
+2272,86,"North","Guerrero","Zihuatanejo",NA,NA
+2273,79,"North","England","Wakefield",NA,NA
+2274,75,"Central Asia","Uttar Pradesh","Bilaspur",NA,NA
+2275,82,"North Asia","Shandong","Liaocheng",NA,NA
+2276,91,"South","São Paulo","Valinhos",NA,NA
+2277,75,"Central Asia","Rajasthan","Kota",NA,NA
+2278,73,"South","Marche","Fano",NA,NA
+2279,79,"North","England","Maidstone",NA,NA
+2280,85,"Oceania","Bay of Plenty","Whakatane",NA,NA
+2281,138,"Africa","Djelfa","Messaad",NA,NA
+2282,82,"North Asia","Hebei","Baoding",NA,NA
+2283,124,"EMEA","Mures","Targu Mures",NA,NA
+2284,77,"Africa","Bandundu","Kikwit",NA,NA
+2285,75,"Central Asia","Karnataka","Gulbarga",NA,NA
+2286,115,"Oceania","New South Wales","Dubbo",NA,NA
+2287,66,"Central","Mecklenburg-Vorpommern","Stralsund",NA,NA
+2288,124,"EMEA","Botosani","Botosani",NA,NA
+2289,91,"South","Rio Grande do Sul","Ijuí",NA,NA
+2290,74,"Africa","Gauteng","Centurion",NA,NA
+2291,97,"North Asia","Hyogo","Amagasaki",NA,NA
+2292,113,"South","Beni","Trinidad",NA,NA
+2293,65,"Central","Ile-de-France","Livry-Gargan",NA,NA
+2294,86,"North","Tamaulipas","Valle Hermoso",NA,NA
+2295,92,"South","Boyacá","Duitama",NA,NA
+2296,82,"North Asia","Fujian","Luoyang",NA,NA
+2297,95,"EMEA","Khuzestan","Shushtar",NA,NA
+2298,119,"EMEA","Hajdu-Bihar","Balmazujvaros",NA,NA
+2299,75,"Central Asia","Chhattisgarh","Durg",NA,NA
+2300,169,"EMEA","Federation of Bosnia and Herzegovina","Tuzla",NA,NA
+2301,73,"South","Calabria","Crotone",NA,NA
+2302,79,"North","Scotland","Cumbernauld",NA,NA
+2303,75,"Central Asia","Uttar Pradesh","Gorakhpur",NA,NA
+2304,82,"North Asia","Hubei","Laohekou",NA,NA
+2305,65,"Central","Midi-Pyrénées","Tarbes",NA,NA
+2306,79,"North","Wales","Clydach",NA,NA
+2307,79,"North","Scotland","East Kilbride",NA,NA
+2308,73,"South","Tuscany","Pistoia",NA,NA
+2309,65,"Central","Ile-de-France","Franconville",NA,NA
+2310,73,"South","Emilia-Romagna","Parma",NA,NA
+2311,82,"North Asia","Jilin","Jilin",NA,NA
+2312,82,"North Asia","Jiangsu","Taixing",NA,NA
+2313,75,"Central Asia","Tamil Nadu","Nagercoil",NA,NA
+2314,91,"South","Pernambuco","Vitória de Santo Antão",NA,NA
+2315,86,"North","Puebla","Izúcar de Matamoros",NA,NA
+2316,100,"South","Arica y Parinacota","Arica",NA,NA
+2317,92,"South","Córdoba","Montería",NA,NA
+2318,100,"South","Antofagasta","Antofagasta",NA,NA
+2319,92,"South","Cundinamarca","Mosquera",NA,NA
+2320,86,"North","Tamaulipas","Tampico",NA,NA
+2321,91,"South","Minas Gerais","Pouso Alegre",NA,NA
+2322,97,"North Asia","Fukui","Fukui",NA,NA
+2323,91,"South","Mato Grosso","Sinop",NA,NA
+2324,82,"North Asia","Hebei","Shijiazhuang",NA,NA
+2325,103,"Canada","Ontario","Windsor",NA,NA
+2326,92,"South","Atlántico","Sabanalarga",NA,NA
+2327,82,"North Asia","Hebei","Renqiu",NA,NA
+2328,91,"South","Rio de Janeiro","Teresópolis",NA,NA
+2329,74,"Africa","Mpumalanga","Volksrust",NA,NA
+2330,98,"Africa","Chaouia-Ouardigha","Khouribga",NA,NA
+2331,99,"Africa","Littoral","Nkongsamba",NA,NA
+2332,142,"Africa","Inhambane","Maxixe",NA,NA
+2333,69,"EMEA","Tyrol","Innsbruck",NA,NA
+2334,93,"EMEA","'Asir","Abha",NA,NA
+2335,96,"EMEA","Donetsk","Mariupol'",NA,NA
+2336,177,"EMEA","Bitola","Bitola",NA,NA
+2337,126,"EMEA","Brest","Pinsk",NA,NA
+2338,65,"Central","Aquitaine","Cestas",NA,NA
+2339,116,"Africa","Pwani","Chalinze",NA,NA
+2340,129,"EMEA","Ar Raqqah","Ar Raqqah",NA,NA
+2341,82,"North Asia","Hebei","Xuanhua",NA,NA
+2342,79,"North","England","Darton",NA,NA
+2343,86,"North","Veracruz","Veracruz",NA,NA
+2344,65,"Central","Ile-de-France","Saint-Gratien",NA,NA
+2345,79,"North","England","Gravesend",NA,NA
+2346,98,"Africa","Gharb-Chrarda-Béni Hssen","Sidi Qacem",NA,NA
+2347,73,"South","Campania","Torre del Greco",NA,NA
+2348,91,"South","Santa Catarina","Palhoça",NA,NA
+2349,98,"Africa","Meknès-Tafilalet","Khenifra",NA,NA
+2350,115,"Oceania","New South Wales","Queanbeyan",NA,NA
+2351,115,"Oceania","New South Wales","Katoomba",NA,NA
+2352,75,"Central Asia","Andhra Pradesh","Kakinada",NA,NA
+2353,161,"Africa","Gezira","Al Manaqil",NA,NA
+2354,74,"Africa","Limpopo","Giyani",NA,NA
+2355,91,"South","São Paulo","Sumaré",NA,NA
+2356,124,"EMEA","Caras-Severin","Resita",NA,NA
+2357,69,"EMEA","Upper Austria","Linz",NA,NA
+2358,80,"South","Andalusía","Torremolinos",NA,NA
+2359,73,"South","Sicily","Modica",NA,NA
+2360,65,"Central","Ile-de-France","Aulnay-sous-Bois",NA,NA
+2361,65,"Central","Ile-de-France","Villeneuve-la-Garenne",NA,NA
+2362,79,"North","England","Morley",NA,NA
+2363,80,"South","Galicia","Pontevedra",NA,NA
+2364,79,"North","England","Harrogate",NA,NA
+2365,85,"Oceania","Waikato","Cambridge",NA,NA
+2366,82,"North Asia","Sichuan","Xichang",NA,NA
+2367,92,"South","Cesar","Valledupar",NA,NA
+2368,79,"North","England","Ferndown",NA,NA
+2369,75,"Central Asia","Tamil Nadu","Tiruchchirappalli",NA,NA
+2370,72,"Central","Lucerne","Lucerne",NA,NA
+2371,75,"Central Asia","Bihar","Darbhanga",NA,NA
+2372,86,"North","Michoacán","Heroica Zitácuaro",NA,NA
+2373,79,"North","England","Letchworth",NA,NA
+2374,138,"Africa","Batna","Barika",NA,NA
+2375,131,"EMEA","Haifa","Hadera",NA,NA
+2376,97,"North Asia","Kanagawa","Aoba-ku",NA,NA
+2377,79,"North","England","Crawley",NA,NA
+2378,130,"EMEA","Primorsko-Goranska","Rijeka",NA,NA
+2379,75,"Central Asia","Tripura","Udaipur",NA,NA
+2380,95,"EMEA","Semnan","Semnan",NA,NA
+2381,124,"EMEA","Neamt","Roman",NA,NA
+2382,75,"Central Asia","Tamil Nadu","Ambattur",NA,NA
+2383,91,"South","São Paulo","Caraguatatuba",NA,NA
+2384,91,"South","Bahia","Barreiras",NA,NA
+2385,145,"Africa","Centrale","Sokode",NA,NA
+2386,95,"EMEA","Razavi Khorasan","Gonabad",NA,NA
+2387,97,"North Asia","Shizuoka","Fuji",NA,NA
+2388,65,"Central","Picardy","Nogent-sur-Oise",NA,NA
+2389,91,"South","Bahia","Juazeiro",NA,NA
+2390,75,"Central Asia","Uttarakhand","Raipur",NA,NA
+2391,66,"Central","Bavaria","Regensburg",NA,NA
+2392,124,"EMEA","Buzau","Buzau",NA,NA
+2393,65,"Central","Ile-de-France","Montrouge",NA,NA
+2394,82,"North Asia","Shanxi","Yuci",NA,NA
+2395,73,"South","Sardinia","Cagliari",NA,NA
+2396,96,"EMEA","Donetsk","Horlivka",NA,NA
+2397,75,"Central Asia","Chhattisgarh","Korba",NA,NA
+2398,82,"North Asia","Beijing","Tongzhou",NA,NA
+2399,95,"EMEA","Khuzestan","Abadan",NA,NA
+2400,100,"South","Biobio","Los Ángeles",NA,NA
+2401,82,"North Asia","Hunan","Zhuzhou",NA,NA
+2402,91,"South","São Paulo","São Vicente",NA,NA
+2403,79,"North","England","Oxford",NA,NA
+2404,97,"North Asia","Yamaguchi","Ube",NA,NA
+2405,73,"South","Campania","Afragola",NA,NA
+2406,92,"South","Casanare","Yopal",NA,NA
+2407,92,"South","Huila","Neiva",NA,NA
+2408,65,"Central","Ile-de-France","Fontenay-sous-Bois",NA,NA
+2409,75,"Central Asia","Haryana","Karnal",NA,NA
+2410,86,"North","México","Huixquilucan",NA,NA
+2411,65,"Central","Provence-Alpes-Côte d'Azur","Le Cannet",NA,NA
+2412,122,"Central Asia","Nangarhar","Jalalabad",NA,NA
+2413,103,"Canada","Ontario","Waterloo",NA,NA
+2414,95,"EMEA","Tehran","Shahriar",NA,NA
+2415,65,"Central","Provence-Alpes-Côte d'Azur","Draguignan",NA,NA
+2416,107,"EMEA","Pazardzhik","Pazardzhik",NA,NA
+2417,82,"North Asia","Hubei","Ezhou",NA,NA
+2418,75,"Central Asia","West Bengal","Kamarhati",NA,NA
+2419,65,"Central","Nord-Pas-de-Calais","Hazebrouck",NA,NA
+2420,114,"Africa","Malanje","Malanje",NA,NA
+2421,74,"Africa","Gauteng","Tembisa",NA,NA
+2422,82,"North Asia","Hebei","Handan",NA,NA
+2423,71,"Central","East Flanders","Aalst",NA,NA
+2424,91,"South","Minas Gerais","Boa Esperança",NA,NA
+2425,89,"Africa","Diana","Antsiranana",NA,NA
+2426,79,"North","England","Harlow",NA,NA
+2427,83,"Africa","Diffa","Nguigmi",NA,NA
+2428,65,"Central","Champagne-Ardenne","Saint-Dizier",NA,NA
+2429,65,"Central","Provence-Alpes-Côte d'Azur","Le Pontet",NA,NA
+2430,88,"EMEA","Lesser Poland","Tarnow",NA,NA
+2431,96,"EMEA","Luhans'k","Lisichansk",NA,NA
+2432,79,"North","Scotland","Livingston",NA,NA
+2433,80,"South","Castile and León","Zamora",NA,NA
+2434,99,"Africa","Littoral","Edea",NA,NA
+2435,80,"South","Andalusía","Mijas",NA,NA
+2436,80,"South","Madrid","Valdemoro",NA,NA
+2437,82,"North Asia","Hubei","Xiantao",NA,NA
+2438,97,"North Asia","Kanagawa","Fujisawa",NA,NA
+2439,99,"Africa","Sud-Ouest","Kumba",NA,NA
+2440,123,"EMEA","Surxondaryo","Termez",NA,NA
+2441,86,"North","Puebla","Atlixco",NA,NA
+2442,65,"Central","Ile-de-France","Chilly-Mazarin",NA,NA
+2443,82,"North Asia","Hubei","Zhongxiang",NA,NA
+2444,66,"Central","Mecklenburg-Vorpommern","Neubrandenburg",NA,NA
+2445,88,"EMEA","Opole","Opole",NA,NA
+2446,65,"Central","Ile-de-France","Villeneuve-le-Roi",NA,NA
+2447,66,"Central","Lower Saxony","Delmenhorst",NA,NA
+2448,65,"Central","Nord-Pas-de-Calais","Ronchin",NA,NA
+2449,91,"South","Rio Grande do Sul","Bento Gonçalves",NA,NA
+2450,91,"South","São Paulo","Franco da Rocha",NA,NA
+2451,96,"EMEA","Ivano-Frankivsk","Kalush",NA,NA
+2452,115,"Oceania","New South Wales","Nowra",NA,NA
+2453,65,"Central","Ile-de-France","Maisons-Alfort",NA,NA
+2454,65,"Central","Provence-Alpes-Côte d'Azur","Allauch",NA,NA
+2455,66,"Central","North Rhine-Westphalia","Rheine",NA,NA
+2456,91,"South","Rio Grande do Norte","Natal",NA,NA
+2457,75,"Central Asia","West Bengal","Barasat",NA,NA
+2458,66,"Central","North Rhine-Westphalia","Unna",NA,NA
+2459,91,"South","Rio de Janeiro","Cabo Frio",NA,NA
+2460,73,"South","Campania","Acerra",NA,NA
+2461,75,"Central Asia","Karnataka","Shimoga",NA,NA
+2462,82,"North Asia","Hubei","Huangshi",NA,NA
+2463,79,"North","England","Halifax",NA,NA
+2464,97,"North Asia","Osaka","Kita-ku",NA,NA
+2465,80,"South","Galicia","Santiago de Compostela",NA,NA
+2466,91,"South","Bahia","Simões Filho",NA,NA
+2467,122,"Central Asia","Kandahar","Kandahar",NA,NA
+2468,91,"South","Pernambuco","Camaragibe",NA,NA
+2469,124,"EMEA","Suceava","Suceava",NA,NA
+2470,65,"Central","Nord-Pas-de-Calais","Arras",NA,NA
+2471,65,"Central","Ile-de-France","Bondy",NA,NA
+2472,95,"EMEA","Gilan","Bandar-e Anzali",NA,NA
+2473,75,"Central Asia","Gujarat","Jamnagar",NA,NA
+2474,91,"South","Rio de Janeiro","São Pedro da Aldeia",NA,NA
+2475,82,"North Asia","Shandong","Rizhao",NA,NA
+2476,81,"EMEA","Irkutsk","Angarsk",NA,NA
+2477,66,"Central","Thuringia","Gera",NA,NA
+2478,73,"South","Tuscany","Capannori",NA,NA
+2479,82,"North Asia","Henan","Anyang",NA,NA
+2480,80,"South","Catalonia","Rubí",NA,NA
+2481,131,"EMEA","Central","Hod HaSharon",NA,NA
+2482,82,"North Asia","Henan","Luohe",NA,NA
+2483,100,"South","Los Lagos","Osorno",NA,NA
+2484,79,"North","England","Dunstable",NA,NA
+2485,91,"South","Pará","Itaituba",NA,NA
+2486,159,"EMEA","Korçë","Korce",NA,NA
+2487,74,"Africa","Eastern Cape","Umtata",NA,NA
+2488,138,"Africa","Skikda","Skikda",NA,NA
+2489,95,"EMEA","Kordestan","Saqqez",NA,NA
+2490,75,"Central Asia","Karnataka","Bellary",NA,NA
+2491,115,"Oceania","New South Wales","Tamworth",NA,NA
+2492,80,"South","Madrid","Fuenlabrada",NA,NA
+2493,79,"North","England","Littlehampton",NA,NA
+2494,73,"South","Calabria","Cosenza",NA,NA
+2495,73,"South","Campania","Avellino",NA,NA
+2496,80,"South","Madrid","Getafe",NA,NA
+2497,66,"Central","Hesse","Langen",NA,NA
+2498,65,"Central","Midi-Pyrénées","Colomiers",NA,NA
+2499,65,"Central","Ile-de-France","Bobigny",NA,NA
+2500,66,"Central","Saarland","Schiffweiler",NA,NA
+2501,65,"Central","Aquitaine","Dax",NA,NA
+2502,65,"Central","Ile-de-France","Pierrefitte-sur-Seine",NA,NA
+2503,82,"North Asia","Henan","Zhumadian",NA,NA
+2504,82,"North Asia","Liaoning","Liaoyang",NA,NA
+2505,79,"North","England","Gillingham",NA,NA
+2506,82,"North Asia","Guangdong","Yangjiang",NA,NA
+2507,79,"North","Scotland","Dundee",NA,NA
+2508,73,"South","Sicily","Ragusa",NA,NA
+2509,95,"EMEA","Sistan Va Baluchestan","Iranshahr",NA,NA
+2510,80,"South","Galicia","Ponteareas",NA,NA
+2511,126,"EMEA","Hrodna","Lida",NA,NA
+2512,94,"Africa","Kafr Ash Shaykh","Kafr ash Shaykh",NA,NA
+2513,116,"Africa","Kigoma","Kigoma",NA,NA
+2514,91,"South","São Paulo","Catanduva",NA,NA
+2515,85,"Oceania","Wellington","Upper Hutt",NA,NA
+2516,82,"North Asia","Henan","Hebi",NA,NA
+2517,118,"Africa","Northern","Makeni",NA,NA
+2518,103,"Canada","Ontario","Richmond Hill",NA,NA
+2519,91,"South","São Paulo","Indaiatuba",NA,NA
+2520,65,"Central","Champagne-Ardenne","Troyes",NA,NA
+2521,65,"Central","Ile-de-France","Marly-le-Roi",NA,NA
+2522,65,"Central","Poitou-Charentes","Bressuire",NA,NA
+2523,65,"Central","Centre","Chartres",NA,NA
+2524,65,"Central","Lorraine","Bar-le-Duc",NA,NA
+2525,91,"South","Pará","Altamira",NA,NA
+2526,65,"Central","Ile-de-France","Orsay",NA,NA
+2527,115,"Oceania","Northern Territory","Darwin",NA,NA
+2528,86,"North","Baja California Sur","La Paz",NA,NA
+2529,86,"North","Michoacán","Hidalgo",NA,NA
+2530,91,"South","Pará","Oriximiná",NA,NA
+2531,139,"Africa","Mono","Lokossa",NA,NA
+2532,65,"Central","Ile-de-France","Savigny-le-Temple",NA,NA
+2533,71,"Central","Antwerp","Mechelen",NA,NA
+2534,65,"Central","Rhône-Alpes","Fontaine",NA,NA
+2535,65,"Central","Aquitaine","Blanquefort",NA,NA
+2536,66,"Central","North Rhine-Westphalia","Euskirchen",NA,NA
+2537,97,"North Asia","Hyogo","Kita-ku",NA,NA
+2538,103,"Canada","Ontario","Pickering",NA,NA
+2539,75,"Central Asia","Tamil Nadu","Tiruppur",NA,NA
+2540,75,"Central Asia","Uttar Pradesh","Ghaziabad",NA,NA
+2541,97,"North Asia","Hokkaido","Atsugacho",NA,NA
+2542,178,"Africa","Litoral","Bata",NA,NA
+2543,75,"Central Asia","Maharashtra","Kolhapur",NA,NA
+2544,79,"North","England","Walsall",NA,NA
+2545,75,"Central Asia","Telangana","Kukatpalli",NA,NA
+2546,146,"Africa","Dix-Huit Montagnes","Man",NA,NA
+2547,97,"North Asia","Osaka","Yao",NA,NA
+2548,65,"Central","Rhône-Alpes","Voiron",NA,NA
+2549,92,"South","Arauca","Arauca",NA,NA
+2550,92,"South","Antioquia","Envigado",NA,NA
+2551,82,"North Asia","Yunnan","Kaiyuan",NA,NA
+2552,177,"EMEA","Kumanovo","Kumanovo",NA,NA
+2553,80,"South","Catalonia","Badalona",NA,NA
+2554,75,"Central Asia","Maharashtra","Dhule",NA,NA
+2555,75,"Central Asia","Karnataka","Bijapur",NA,NA
+2556,88,"EMEA","Lubusz","Gorzow Wielkopolski",NA,NA
+2557,96,"EMEA","L'viv","Drogobych",NA,NA
+2558,73,"South","Lombardy","Busto Arsizio",NA,NA
+2559,103,"Canada","Ontario","Burlington",NA,NA
+2560,73,"South","Campania","Capua",NA,NA
+2561,80,"South","Catalonia","Sabadell",NA,NA
+2562,80,"South","Melilla","Melilla",NA,NA
+2563,103,"Canada","Ontario","Barrie",NA,NA
+2564,81,"EMEA","Kaluga","Obninsk",NA,NA
+2565,94,"Africa","Matruh","Marsa Matruh",NA,NA
+2566,79,"North","England","Slough",NA,NA
+2567,73,"South","Campania","Casoria",NA,NA
+2568,91,"South","Pernambuco","Igarassu",NA,NA
+2569,91,"South","Parana","Guarapuava",NA,NA
+2570,91,"South","São Paulo","Birigui",NA,NA
+2571,91,"South","Minas Gerais","Novo Cruzeiro",NA,NA
+2572,91,"South","Parana","Apucarana",NA,NA
+2573,97,"North Asia","Tottori","Tottori",NA,NA
+2574,75,"Central Asia","Rajasthan","Bharatpur",NA,NA
+2575,82,"North Asia","Heilongjiang","Zhaoyuan",NA,NA
+2576,75,"Central Asia","Rajasthan","Raipur",NA,NA
+2577,97,"North Asia","Kanagawa","Chigasaki",NA,NA
+2578,106,"Central Asia","Chittagong","Cox’s Bāzār",NA,NA
+2579,82,"North Asia","Guangdong","Shanwei",NA,NA
+2580,85,"Oceania","Hawke's Bay","Hastings",NA,NA
+2581,97,"North Asia","Ishikawa","Takamatsu",NA,NA
+2582,82,"North Asia","Hebei","Langfang",NA,NA
+2583,65,"Central","Languedoc-Roussillon","Lattes",NA,NA
+2584,65,"Central","Upper Normandy","Le Petit-Quevilly",NA,NA
+2585,66,"Central","North Rhine-Westphalia","Viersen",NA,NA
+2586,65,"Central","Ile-de-France","Choisy-le-Roi",NA,NA
+2587,65,"Central","Ile-de-France","Osny",NA,NA
+2588,65,"Central","Brittany","Douarnenez",NA,NA
+2589,65,"Central","Ile-de-France","Villeparisis",NA,NA
+2590,65,"Central","Rhône-Alpes","Meyzieu",NA,NA
+2591,65,"Central","Pays de la Loire","La Chapelle-sur-Erdre",NA,NA
+2592,65,"Central","Ile-de-France","Clichy",NA,NA
+2593,66,"Central","North Rhine-Westphalia","Stadtlohn",NA,NA
+2594,65,"Central","Ile-de-France","Villejuif",NA,NA
+2595,65,"Central","Franche-Comté","Belfort",NA,NA
+2596,65,"Central","Ile-de-France","Avon",NA,NA
+2597,73,"South","Tuscany","Siena",NA,NA
+2598,114,"Africa","Bie","Kuito",NA,NA
+2599,124,"EMEA","Satu Mare","Satu Mare",NA,NA
+2600,80,"South","Andalusía","El Ejido",NA,NA
+2601,82,"North Asia","Jilin","Yushu",NA,NA
+2602,82,"North Asia","Guangdong","Lianzhou",NA,NA
+2603,80,"South","Andalusía","Fuengirola",NA,NA
+2604,88,"EMEA","Podlaskie","Bialystok",NA,NA
+2605,124,"EMEA","Valcea","Ramnicu Valcea",NA,NA
+2606,94,"Africa","Al Buhayrah","Kafr ad Dawwar",NA,NA
+2607,96,"EMEA","Zhytomyr","Berdychiv",NA,NA
+2608,89,"Africa","Atsimo-Andrefana","Toliara",NA,NA
+2609,91,"South","São Paulo","Cosmópolis",NA,NA
+2610,91,"South","Bahia","Eunápolis",NA,NA
+2611,91,"South","Maranhão","Itapecuru Mirim",NA,NA
+2612,91,"South","Rio Grande do Sul","Vacaria",NA,NA
+2613,91,"South","Rio de Janeiro","Barra Mansa",NA,NA
+2614,91,"South","São Paulo","Lorena",NA,NA
+2615,91,"South","São Paulo","Pindamonhangaba",NA,NA
+2616,91,"South","São Paulo","Lins",NA,NA
+2617,106,"Central Asia","Dhaka","Narsingdi",NA,NA
+2618,65,"Central","Lorraine","Sarreguemines",NA,NA
+2619,155,"Africa","Southern","Butare",NA,NA
+2620,73,"South","Sardinia","Sassari",NA,NA
+2621,74,"Africa","Gauteng","Krugersdorp",NA,NA
+2622,109,"South","Rivera","Rivera",NA,NA
+2623,65,"Central","Ile-de-France","Puteaux",NA,NA
+2624,112,"Africa","Northern","Kasama",NA,NA
+2625,65,"Central","Ile-de-France","Les Mureaux",NA,NA
+2626,106,"Central Asia","Rajshahi","Rajshahi",NA,NA
+2627,82,"North Asia","Shandong","Weihai",NA,NA
+2628,82,"North Asia","Hunan","Huaihua",NA,NA
+2629,88,"EMEA","Lubusz","Zielona Gora",NA,NA
+2630,81,"EMEA","Moscow","Kashira",NA,NA
+2631,75,"Central Asia","West Bengal","Naihati",NA,NA
+2632,82,"North Asia","Shandong","Zaozhuang",NA,NA
+2633,66,"Central","North Rhine-Westphalia","Minden",NA,NA
+2634,79,"North","England","Bideford",NA,NA
+2635,73,"South","Veneto","Verona",NA,NA
+2636,79,"North","England","Dronfield",NA,NA
+2637,73,"South","Lazio","Fiumicino",NA,NA
+2638,117,"North","Hedmark","Hamar",NA,NA
+2639,73,"South","Lazio","Guidonia Montecelio",NA,NA
+2640,91,"South","Pernambuco","Palmares",NA,NA
+2641,92,"South","Risaralda","Pereira",NA,NA
+2642,91,"South","Rio de Janeiro","Seropédica",NA,NA
+2643,91,"South","Minas Gerais","Uberlândia",NA,NA
+2644,91,"South","Goiás","Cidade Ocidental",NA,NA
+2645,82,"North Asia","Guangdong","Zhanjiang",NA,NA
+2646,80,"South","Madrid","El Escorial",NA,NA
+2647,82,"North Asia","Guangdong","Xinyi",NA,NA
+2648,75,"Central Asia","Punjab","Bhatinda",NA,NA
+2649,81,"EMEA","Chelyabinsk","Kopeysk",NA,NA
+2650,92,"South","Quindío","Montenegro",NA,NA
+2651,79,"North","England","Shrewsbury",NA,NA
+2652,111,"EMEA","Olomouc","Olomouc",NA,NA
+2653,79,"North","England","Basingstoke",NA,NA
+2654,82,"North Asia","Anhui","Bengbu",NA,NA
+2655,91,"South","Santa Catarina","Joinville",NA,NA
+2656,96,"EMEA","Kirovohrad","Kirovohrad",NA,NA
+2657,79,"North","England","Blackburn",NA,NA
+2658,95,"EMEA","Sistan Va Baluchestan","Zabol",NA,NA
+2659,91,"South","Goiás","Jataí",NA,NA
+2660,155,"Africa","Southern","Gitarama",NA,NA
+2661,107,"EMEA","Vratsa","Vratsa",NA,NA
+2662,107,"EMEA","Pleven","Pleven",NA,NA
+2663,94,"Africa","Asyut","Asyut",NA,NA
+2664,94,"Africa","Bani Suwayf","Beni Suef",NA,NA
+2665,83,"Africa","Zinder","Zinder",NA,NA
+2666,69,"EMEA","Styria","Leoben",NA,NA
+2667,91,"South","Pernambuco","Jurema",NA,NA
+2668,98,"Africa","Chaouia-Ouardigha","Berrechid",NA,NA
+2669,81,"EMEA","Bashkortostan","Oktyabr'skiy",NA,NA
+2670,94,"Africa","Suhaj","Tahta",NA,NA
+2671,103,"Canada","Quebec","Gatineau",NA,NA
+2672,138,"Africa","Djelfa","Dar Chioukh",NA,NA
+2673,126,"EMEA","Vitsyebsk","Polatsk",NA,NA
+2674,116,"Africa","Mara","Musoma",NA,NA
+2675,103,"Canada","Quebec","Longueuil",NA,NA
+2676,97,"North Asia","Kagawa","Takamatsu",NA,NA
+2677,82,"North Asia","Hunan","Yuanjiang",NA,NA
+2678,88,"EMEA","Silesia","Chorzow",NA,NA
+2679,71,"Central","Liège","Verviers",NA,NA
+2680,65,"Central","Auvergne","Riom",NA,NA
+2681,65,"Central","Upper Normandy","Mont-Saint-Aignan",NA,NA
+2682,65,"Central","Ile-de-France","Domont",NA,NA
+2683,65,"Central","Franche-Comté","Dole",NA,NA
+2684,65,"Central","Nord-Pas-de-Calais","Carvin",NA,NA
+2685,65,"Central","Midi-Pyrénées","Albi",NA,NA
+2686,65,"Central","Centre","Olivet",NA,NA
+2687,65,"Central","Poitou-Charentes","Rochefort",NA,NA
+2688,65,"Central","Ile-de-France","Les Pavillons-sous-Bois",NA,NA
+2689,65,"Central","Ile-de-France","Eragny",NA,NA
+2690,65,"Central","Nord-Pas-de-Calais","Maubeuge",NA,NA
+2691,65,"Central","Rhône-Alpes","Thonon-les-Bains",NA,NA
+2692,65,"Central","Upper Normandy","Louviers",NA,NA
+2693,65,"Central","Ile-de-France","Yerres",NA,NA
+2694,75,"Central Asia","Maharashtra","Ichalkaranji",NA,NA
+2695,91,"South","São Paulo","Tatuí",NA,NA
+2696,80,"South","Madrid","Majadahonda",NA,NA
+2697,103,"Canada","Alberta","Red Deer",NA,NA
+2698,138,"Africa","Laghouat","Laghouat",NA,NA
+2699,92,"South","Antioquia","Bello",NA,NA
+2700,97,"North Asia","Nagano","Matsumoto",NA,NA
+2701,73,"South","Tuscany","Massa",NA,NA
+2702,126,"EMEA","Homyel'","Zhlobin",NA,NA
+2703,88,"EMEA","Silesia","Jastrzebie Zdroj",NA,NA
+2704,91,"South","Mato Grosso","Sorriso",NA,NA
+2705,80,"South","Castile and León","Palencia",NA,NA
+2706,74,"Africa","Gauteng","Vanderbijlpark",NA,NA
+2707,66,"Central","North Rhine-Westphalia","Herford",NA,NA
+2708,66,"Central","Brandenburg","Forst",NA,NA
+2709,65,"Central","Picardy","Laon",NA,NA
+2710,65,"Central","Provence-Alpes-Côte d'Azur","Sorgues",NA,NA
+2711,65,"Central","Midi-Pyrénées","Millau",NA,NA
+2712,65,"Central","Rhône-Alpes","Firminy",NA,NA
+2713,65,"Central","Burgundy","Montceau-les-Mines",NA,NA
+2714,65,"Central","Lower Normandy","Flers",NA,NA
+2715,65,"Central","Limousin","Brive-la-Gaillarde",NA,NA
+2716,65,"Central","Ile-de-France","Mantes-la-Ville",NA,NA
+2717,65,"Central","Rhône-Alpes","Annemasse",NA,NA
+2718,75,"Central Asia","Uttar Pradesh","Firozabad",NA,NA
+2719,82,"North Asia","Chongqing","Hechuan",NA,NA
+2720,97,"North Asia","Tochigi","Oyama",NA,NA
+2721,79,"North","England","Chapel Allerton",NA,NA
+2722,142,"Africa","Cabo Delgado","Pemba",NA,NA
+2723,82,"North Asia","Shanxi","Changzhi",NA,NA
+2724,116,"Africa","Pwani","Bagamoyo",NA,NA
+2725,115,"Oceania","New South Wales","Orange",NA,NA
+2726,82,"North Asia","Jilin","Liaoyuan",NA,NA
+2727,91,"South","Minas Gerais","Ituiutaba",NA,NA
+2728,113,"South","Tarija","Yacuiba",NA,NA
+2729,171,"South","Central","Lambaré",NA,NA
+2730,65,"Central","Ile-de-France","Vigneux-sur-Seine",NA,NA
+2731,91,"South","Ceará","Sobral",NA,NA
+2732,66,"Central","Bavaria","Bayreuth",NA,NA
+2733,75,"Central Asia","Tamil Nadu","Thanjavur",NA,NA
+2734,91,"South","Maranhão","Pinheiro",NA,NA
+2735,66,"Central","Baden-Württemberg","Villingen-Schwenningen",NA,NA
+2736,97,"North Asia","Mie","Yokkaichi",NA,NA
+2737,91,"South","Bahia","Cruz das Almas",NA,NA
+2738,107,"EMEA","Yambol","Yambol",NA,NA
+2739,114,"Africa","Huila","Lubango",NA,NA
+2740,124,"EMEA","Arad","Arad",NA,NA
+2741,74,"Africa","Gauteng","Benoni",NA,NA
+2742,66,"Central","Brandenburg","Ludwigsfelde",NA,NA
+2743,75,"Central Asia","Haryana","Hisar",NA,NA
+2744,82,"North Asia","Liaoning","Fengcheng",NA,NA
+2745,91,"South","Minas Gerais","Ipatinga",NA,NA
+2746,100,"South","Santiago","Lo Prado",NA,NA
+2747,82,"North Asia","Jiangsu","Licheng",NA,NA
+2748,75,"Central Asia","Bihar","Gaya",NA,NA
+2749,75,"Central Asia","West Bengal","Asansol",NA,NA
+2750,66,"Central","Baden-Württemberg","Eggenstein-Leopoldshafen",NA,NA
+2751,66,"Central","Saxony-Anhalt","Naumburg",NA,NA
+2752,79,"North","England","Cheshunt",NA,NA
+2753,105,"Africa","Eastern","Marsabit",NA,NA
+2754,88,"EMEA","Greater Poland","Pila",NA,NA
+2755,88,"EMEA","Silesia","Jaworzno",NA,NA
+2756,179,"Africa","Central Equatoria","Juba",NA,NA
+2757,73,"South","Lombardy","Gallarate",NA,NA
+2758,71,"Central","Hainaut","Mouscron",NA,NA
+2759,73,"South","Lazio","Anzio",NA,NA
+2760,66,"Central","North Rhine-Westphalia","Marl",NA,NA
+2761,97,"North Asia","Okayama","Kurashiki",NA,NA
+2762,75,"Central Asia","Rajasthan","Bhilwara",NA,NA
+2763,82,"North Asia","Heilongjiang","Shangzhi",NA,NA
+2764,81,"EMEA","Novgorod","Pestovo",NA,NA
+2765,92,"South","Santander","Floridablanca",NA,NA
+2766,91,"South","Goiás","Anápolis",NA,NA
+2767,91,"South","Minas Gerais","Divinópolis",NA,NA
+2768,82,"North Asia","Hunan","Changde",NA,NA
+2769,96,"EMEA","Zaporizhzhya","Melitopol'",NA,NA
+2770,75,"Central Asia","Uttar Pradesh","Mau",NA,NA
+2771,79,"North","England","Southport",NA,NA
+2772,115,"Oceania","Tasmania","Devonport",NA,NA
+2773,99,"Africa","Littoral","Loum",NA,NA
+2774,73,"South","Lazio","Civitavecchia",NA,NA
+2775,75,"Central Asia","West Bengal","Baranagar",NA,NA
+2776,130,"EMEA","Zagrebacka","Samobor",NA,NA
+2777,91,"South","Parana","Umuarama",NA,NA
+2778,82,"North Asia","Inner Mongolia","Tongliao",NA,NA
+2779,94,"Africa","Al Buhayrah","Damanhur",NA,NA
+2780,168,"EMEA","North Lebanon","Tripoli",NA,NA
+2781,69,"EMEA","Styria","Graz",NA,NA
+2782,91,"South","São Paulo","São José dos Campos",NA,NA
+2783,92,"South","Chocó","Quibdó",NA,NA
+2784,91,"South","São Paulo","Cruzeiro",NA,NA
+2785,91,"South","Maranhão","Santa Helena",NA,NA
+2786,91,"South","Pernambuco","Gravatá",NA,NA
+2787,100,"South","Magallanes y Antártica Chilena","Punta Arenas",NA,NA
+2788,91,"South","São Paulo","Francisco Morato",NA,NA
+2789,75,"Central Asia","Karnataka","Tumkur",NA,NA
+2790,97,"North Asia","Ibaraki","Tsukuba",NA,NA
+2791,82,"North Asia","Hunan","Loudi",NA,NA
+2792,82,"North Asia","Heilongjiang","Shuangcheng",NA,NA
+2793,82,"North Asia","Guangxi","Guiping",NA,NA
+2794,75,"Central Asia","Andhra Pradesh","Tirupati",NA,NA
+2795,91,"South","São Paulo","Cubatão",NA,NA
+2796,73,"South","Campania","Cercola",NA,NA
+2797,100,"South","Antofagasta","Calama",NA,NA
+2798,180,"Africa","Bujumbura-Mairie","Bujumbura",NA,NA
+2799,91,"South","Espírito Santo","Guarapari",NA,NA
+2800,91,"South","Maranhão","Buriticupu",NA,NA
+2801,130,"EMEA","Osjecko-Baranjska","Osijek",NA,NA
+2802,159,"EMEA","Durrës","Durres",NA,NA
+2803,103,"Canada","British Columbia","Coquitlam",NA,NA
+2804,65,"Central","Provence-Alpes-Côte d'Azur","Digne-les-Bains",NA,NA
+2805,66,"Central","North Rhine-Westphalia","Velbert",NA,NA
+2806,66,"Central","Thuringia","Weimar",NA,NA
+2807,65,"Central","Ile-de-France","Bonneuil-sur-Marne",NA,NA
+2808,82,"North Asia","Shandong","Wendeng",NA,NA
+2809,65,"Central","Pays de la Loire","Saumur",NA,NA
+2810,91,"South","Pernambuco","Arcoverde",NA,NA
+2811,82,"North Asia","Guizhou","Anshun",NA,NA
+2812,91,"South","Minas Gerais","Paracatu",NA,NA
+2813,97,"North Asia","Saitama","Kawaguchi",NA,NA
+2814,79,"North","England","Stevenage",NA,NA
+2815,66,"Central","Rhineland-Palatinate","Neuwied",NA,NA
+2816,101,"Africa","Eastern","Koforidua",NA,NA
+2817,92,"South","Boyacá","Sogamoso",NA,NA
+2818,82,"North Asia","Jiangsu","Chengjiang",NA,NA
+2819,97,"North Asia","Yamaguchi","Shimonoseki",NA,NA
+2820,81,"EMEA","Yevrey","Birobidzhan",NA,NA
+2821,82,"North Asia","Chongqing","Yongchuan",NA,NA
+2822,100,"South","Atacama","Copiapó",NA,NA
+2823,115,"Oceania","South Australia","Whyalla",NA,NA
+2824,91,"South","Rio Grande do Sul","Erechim",NA,NA
+2825,73,"South","Lombardy","Como",NA,NA
+2826,99,"Africa","Sud-Ouest","Limbe",NA,NA
+2827,65,"Central","Lower Normandy","Argentan",NA,NA
+2828,80,"South","Castile-La Mancha","Guadalajara",NA,NA
+2829,80,"South","Andalusía","Chiclana de la Frontera",NA,NA
+2830,91,"South","Parana","Cambé",NA,NA
+2831,65,"Central","Provence-Alpes-Côte d'Azur","Gap",NA,NA
+2832,65,"Central","Ile-de-France","Chevilly-Larue",NA,NA
+2833,96,"EMEA","Luhans'k","Stakhanov",NA,NA
+2834,82,"North Asia","Anhui","Tongling",NA,NA
+2835,82,"North Asia","Hubei","Zaoyang",NA,NA
+2836,80,"South","Navarra","Pamplona",NA,NA
+2837,75,"Central Asia","Uttarakhand","Dehra Dun",NA,NA
+2838,106,"Central Asia","Dhaka","Tongi",NA,NA
+2839,91,"South","São Paulo","Lençóis Paulista",NA,NA
+2840,91,"South","Parana","Araucária",NA,NA
+2841,79,"North","England","Guildford",NA,NA
+2842,124,"EMEA","Neamt","Piatra-Neamt",NA,NA
+2843,75,"Central Asia","Kerala","Kochi",NA,NA
+2844,88,"EMEA","Silesia","Myslowice",NA,NA
+2845,103,"Canada","Quebec","Saint-Laurent",NA,NA
+2846,124,"EMEA","Vrancea","Focsani",NA,NA
+2847,97,"North Asia","Tokyo","Katsushika-ku",NA,NA
+2848,82,"North Asia","Anhui","Jieshou",NA,NA
+2849,92,"South","Atlántico","Malambo",NA,NA
+2850,82,"North Asia","Jilin","Chaoyang",NA,NA
+2851,73,"South","Abruzzi","Chieti",NA,NA
+2852,82,"North Asia","Hubei","Xiangfan",NA,NA
+2853,65,"Central","Limousin","Tulle",NA,NA
+2854,65,"Central","Nord-Pas-de-Calais","Denain",NA,NA
+2855,65,"Central","Ile-de-France","Ermont",NA,NA
+2856,65,"Central","Ile-de-France","Le Pré-Saint-Gervais",NA,NA
+2857,107,"EMEA","Stara Zagora","Stara Zagora",NA,NA
+2858,91,"South","São Paulo","Itapecerica da Serra",NA,NA
+2859,95,"EMEA","Fars","Kazerun",NA,NA
+2860,97,"North Asia","Kanagawa","Hiratsuka",NA,NA
+2861,91,"South","Bahia","Ilhéus",NA,NA
+2862,74,"Africa","Free State","Botshabelo",NA,NA
+2863,115,"Oceania","New South Wales","Broken Hill",NA,NA
+2864,91,"South","Mato Grosso","Várzea Grande",NA,NA
+2865,109,"South","Paysandú","Paysandú",NA,NA
+2866,137,"Africa","Sikasso","Sikasso",NA,NA
+2867,82,"North Asia","Shanxi","Jincheng",NA,NA
+2868,66,"Central","North Rhine-Westphalia","Ennigerloh",NA,NA
+2869,91,"South","Maranhão","Paço do Lumiar",NA,NA
+2870,86,"North","Jalisco","Lagos de Moreno",NA,NA
+2871,92,"South","Santander","Girón",NA,NA
+2872,77,"Africa","Katanga","Kamina",NA,NA
+2873,82,"North Asia","Beijing","Mentougou",NA,NA
+2874,82,"North Asia","Guizhou","Guiyang",NA,NA
+2875,91,"South","São Paulo","Andradina",NA,NA
+2876,124,"EMEA","Timis","Lugoj",NA,NA
+2877,97,"North Asia","Gunma","Takasaki",NA,NA
+2878,86,"North","Michoacán","Lázaro Cárdenas",NA,NA
+2879,107,"EMEA","Shumen","Shumen",NA,NA
+2880,82,"North Asia","Hebei","Xingtai",NA,NA
+2881,66,"Central","Bavaria","Passau",NA,NA
+2882,91,"South","Mato Grosso","Rondonópolis",NA,NA
+2883,66,"Central","Bavaria","Rosenheim",NA,NA
+2884,73,"South","Apulia","Barletta",NA,NA
+2885,82,"North Asia","Guangdong","Zhaoqing",NA,NA
+2886,73,"South","Campania","Boscoreale",NA,NA
+2887,97,"North Asia","Chiba","Kawaguchi",NA,NA
+2888,95,"EMEA","Mazandaran","Behshahr",NA,NA
+2889,75,"Central Asia","Telangana","Nizamabad",NA,NA
+2890,82,"North Asia","Shandong","Penglai",NA,NA
+2891,79,"North","England","Southampton",NA,NA
+2892,159,"EMEA","Elbasan","Elbasan",NA,NA
+2893,66,"Central","Lower Saxony","Garbsen",NA,NA
+2894,91,"South","Rio Grande do Sul","Farroupilha",NA,NA
+2895,91,"South","Minas Gerais","Poços de Caldas",NA,NA
+2896,146,"Africa","Savanes","Korhogo",NA,NA
+2897,103,"Canada","Quebec","Quebec",NA,NA
+2898,94,"Africa","Al Minufiyah","Minuf",NA,NA
+2899,115,"Oceania","South Australia","Mount Gambier",NA,NA
+2900,91,"South","São Paulo","Salto",NA,NA
+2901,92,"South","Magdalena","Ciénaga",NA,NA
+2902,65,"Central","Centre","Fleury-les-Aubrais",NA,NA
+2903,123,"EMEA","Khorezm","Urganch",NA,NA
+2904,94,"Africa","Al Minya","Samalut",NA,NA
+2905,116,"Africa","Tanga","Tanga",NA,NA
+2906,64,"West","Utah","Draper",NA,NA
+2907,64,"West","Idaho","Boise",NA,NA
+2908,64,"West","Nevada","Henderson",NA,NA
+2909,64,"West","Utah","Lehi",NA,NA
+2910,64,"West","Idaho","Twin Falls",NA,NA
+2911,64,"West","New Mexico","Clovis",NA,NA
+2912,64,"East","New Jersey","Linden",NA,NA
+2913,64,"East","Massachusetts","Holyoke",NA,NA
+2914,64,"East","Maryland","Gaithersburg",NA,NA
+2915,64,"East","Massachusetts","Marlborough",NA,NA
+2916,64,"East","Connecticut","Danbury",NA,NA
+2917,64,"Central","Kansas","Manhattan",NA,NA
+2918,64,"Central","Minnesota","Moorhead",NA,NA
+2919,64,"Central","Missouri","Saint Peters",NA,NA
+2920,64,"Central","Oklahoma","Norman",NA,NA
+2921,64,"Central","Missouri","Jefferson City",NA,NA
+2922,64,"Central","Iowa","Cedar Rapids",NA,NA
+2923,64,"Central","Minnesota","Saint Cloud",NA,NA
+2924,64,"Central","Missouri","Gladstone",NA,NA
+2925,64,"Central","Michigan","Mount Pleasant",NA,NA
+2926,64,"Central","Michigan","Oak Park",NA,NA
+2927,64,"Central","Michigan","Rochester Hills",NA,NA
+2928,64,"South","South Carolina","Mount Pleasant",NA,NA
+2929,64,"South","Arkansas","Texarkana",NA,NA
+2930,64,"South","Arkansas","Conway",NA,NA
+2931,64,"South","Kentucky","Bowling Green",NA,NA
+2932,64,"West","Washington","Auburn",NA,NA
+2933,64,"West","Washington","Bellingham",NA,NA
+2934,64,"East","New York","Jamestown",NA,NA
+2935,64,"West","California","La Quinta",NA,NA
+2936,64,"West","California","Temecula",NA,NA
+2937,64,"West","California","Hesperia",NA,NA
+2938,64,"West","California","Montebello",NA,NA
+2939,64,"West","California","La Mesa",NA,NA
+2940,64,"West","California","Modesto",NA,NA
+2941,64,"West","California","Encinitas",NA,NA
+2942,64,"West","California","Citrus Heights",NA,NA
+2943,64,"West","California","Pico Rivera",NA,NA
+2944,65,"Central","Ile-de-France","Garches",NA,NA
+2945,65,"Central","Ile-de-France","Goussainville",NA,NA
+2946,65,"Central","Ile-de-France","Cachan",NA,NA
+2947,65,"Central","Ile-de-France","Melun",NA,NA
+2948,65,"Central","Ile-de-France","Houilles",NA,NA
+2949,65,"Central","Champagne-Ardenne","Reims",NA,NA
+2950,65,"Central","Midi-Pyrénées","Toulouse",NA,NA
+2951,65,"Central","Alsace","Saint-Louis",NA,NA
+2952,65,"Central","Pays de la Loire","Le Mans",NA,NA
+2953,65,"Central","Poitou-Charentes","Poitiers",NA,NA
+2954,65,"Central","Nord-Pas-de-Calais","Hautmont",NA,NA
+2955,65,"Central","Nord-Pas-de-Calais","Cambrai",NA,NA
+2956,65,"Central","Lorraine","Toul",NA,NA
+2957,65,"Central","Brittany","Ploemeur",NA,NA
+2958,65,"Central","Nord-Pas-de-Calais","Halluin",NA,NA
+2959,181,"EMEA","Sivas","Sivas",NA,NA
+2960,181,"EMEA","Ankara","Ankara",NA,NA
+2961,181,"EMEA","Istanbul","Kartal",NA,NA
+2962,181,"EMEA","Kocaeli","Gebze",NA,NA
+2963,181,"EMEA","Istanbul","Istanbul",NA,NA
+2964,181,"EMEA","Nevsehir","Nevsehir",NA,NA
+2965,181,"EMEA","Corum","Corum",NA,NA
+2966,181,"EMEA","Manisa","Turgutlu",NA,NA
+2967,181,"EMEA","Mersin","Tarsus",NA,NA
+2968,181,"EMEA","Adana","Adana",NA,NA
+2969,181,"EMEA","Istanbul","Silivri",NA,NA
+2970,181,"EMEA","Osmaniye","Osmaniye",NA,NA
+2971,181,"EMEA","Samsun","Bafra",NA,NA
+2972,181,"EMEA","Ankara","Polatli",NA,NA
+2973,181,"EMEA","Izmir","Izmir",NA,NA
+2974,181,"EMEA","Kayseri","Kayseri",NA,NA
+2975,181,"EMEA","Bursa","Bursa",NA,NA
+2976,181,"EMEA","Canakkale","Canakkale",NA,NA
+2977,181,"EMEA","Ankara","Cankaya",NA,NA
+2978,181,"EMEA","Ankara","Mamak",NA,NA
+2979,181,"EMEA","Istanbul","Bagcilar",NA,NA
+2980,181,"EMEA","Konya","Konya",NA,NA
+2981,181,"EMEA","Manisa","Salihli",NA,NA
+2982,181,"EMEA","Denizli","Denizli",NA,NA
+2983,181,"EMEA","Sanliurfa","Sanliurfa",NA,NA
+2984,181,"EMEA","Gaziantep","Gaziantep",NA,NA
+2985,181,"EMEA","Eskisehir","Eskisehir",NA,NA
+2986,181,"EMEA","Istanbul","Buyukcekmece",NA,NA
+2987,181,"EMEA","Kars","Kars",NA,NA
+2988,181,"EMEA","Van","Van",NA,NA
+2989,181,"EMEA","Izmir","Gaziemir",NA,NA
+2990,181,"EMEA","Istanbul","Esenyurt",NA,NA
+2991,181,"EMEA","Izmir","Bornova",NA,NA
+2992,181,"EMEA","Batman","Batman",NA,NA
+2993,181,"EMEA","Izmir","Buca",NA,NA
+2994,181,"EMEA","Ankara","Sincan",NA,NA
+2995,181,"EMEA","Sirnak","Silopi",NA,NA
+2996,181,"EMEA","Balikesir","Bandirma",NA,NA
+2997,181,"EMEA","Izmir","Torbali",NA,NA
+2998,181,"EMEA","Balikesir","Balikesir",NA,NA
+2999,181,"EMEA","Bursa","Inegol",NA,NA
+3000,181,"EMEA","Hatay","Iskenderun",NA,NA
+3001,181,"EMEA","Mardin","Kiziltepe",NA,NA
+3002,181,"EMEA","Mersin","Mezitli",NA,NA
+3003,181,"EMEA","Samsun","Samsun",NA,NA
+3004,181,"EMEA","Izmir","Menemen",NA,NA
+3005,181,"EMEA","Diyarbakir","Diyarbakir",NA,NA
+3006,181,"EMEA","Mersin","Mersin",NA,NA
+3007,181,"EMEA","Adiyaman","Adiyaman",NA,NA
+3008,181,"EMEA","Antalya","Antalya",NA,NA
+3009,181,"EMEA","Malatya","Malatya",NA,NA
+3010,181,"EMEA","Amasya","Amasya",NA,NA
+3011,181,"EMEA","Istanbul","Uskudar",NA,NA
+3012,181,"EMEA","Düzce","Duzce",NA,NA
+3013,181,"EMEA","Tekirdag","Corlu",NA,NA
+3014,181,"EMEA","Manisa","Manisa",NA,NA
+3015,181,"EMEA","Istanbul","Beykoz",NA,NA
+3016,182,"Africa","Kano","Kano",NA,NA
+3017,182,"Africa","Lagos","Lagos",NA,NA
+3018,182,"Africa","Imo","Owerri",NA,NA
+3019,182,"Africa","Rivers","Port Harcourt",NA,NA
+3020,182,"Africa","Akwa Ibom","Ikot Ekpene",NA,NA
+3021,182,"Africa","Edo","Benin City",NA,NA
+3022,182,"Africa","Kaduna","Kaduna",NA,NA
+3023,182,"Africa","Borno","Maiduguri",NA,NA
+3024,182,"Africa","Ogun","Shagamu",NA,NA
+3025,182,"Africa","Bauchi","Bauchi",NA,NA
+3026,182,"Africa","Benue","Makurdi",NA,NA
+3027,182,"Africa","Kaduna","Zaria",NA,NA
+3028,182,"Africa","Delta","Warri",NA,NA
+3029,182,"Africa","Oyo","Ibadan",NA,NA
+3030,182,"Africa","Plateau","Jos",NA,NA
+3031,182,"Africa","Cross River","Calabar",NA,NA
+3032,182,"Africa","Kwara","Ilorin",NA,NA
+3033,182,"Africa","Abia","Aba",NA,NA
+3034,182,"Africa","Enugu","Enugu",NA,NA
+3035,182,"Africa","Osun","Ilesha",NA,NA
+3036,182,"Africa","Niger","Minna",NA,NA
+3037,182,"Africa","Katsina","Katsina",NA,NA
+3038,182,"Africa","Abuja Capital Territory","Abuja",NA,NA
+3039,183,"EMEA","Ashgabat","Ashgabat",NA,NA
+3040,184,"EMEA","Qaraghandy","Dzhezkazgan",NA,NA
+3041,184,"EMEA","Almaty","Sarkand",NA,NA
+3042,184,"EMEA","Pavlodar","Pavlodar",NA,NA
+3043,183,"EMEA","Mary","Mary",NA,NA
+3044,184,"EMEA","Almaty City","Almaty",NA,NA
+3045,185,"EMEA","Vilnius","Vilnius",NA,NA
+3046,184,"EMEA","Aqmola","Kokshetau",NA,NA
+3047,184,"EMEA","Astana","Astana",NA,NA
+3048,185,"EMEA","Kaunas","Kaunas",NA,NA
+3049,186,"EMEA","Ta'izz","Taizz",NA,NA
+3050,187,"Africa","Kampala","Kampala",NA,NA
+3051,188,"Africa","Harare","Chitungwiza",NA,NA
+3052,188,"Africa","Bulawayo","Bulawayo",NA,NA
+3053,184,"EMEA","Qaraghandy","Temirtau",NA,NA
+3054,189,"EMEA","Ra's Al Khaymah","Ras al Khaymah",NA,NA
+3055,185,"EMEA","Šiauliai","Siauliai",NA,NA
+3056,184,"EMEA","Qostanay","Qostanay",NA,NA
+3057,188,"Africa","Harare","Harare",NA,NA
+3058,186,"EMEA","Al Hudaydah","Al Hudaydah",NA,NA
+3059,190,"North","Stockholm","Nacka",NA,NA
+3060,190,"North","Halland","Halmstad",NA,NA
+3061,191,"North","South Denmark","Odense",NA,NA
+3062,192,"North","Dublin","Dublin",NA,NA
+3063,190,"North","Stockholm","Stockholm",NA,NA
+3064,191,"North","Central Jutland","Randers",NA,NA
+3065,190,"North","Stockholm","Huddinge",NA,NA
+3066,191,"North","Hovedstaden","Frederiksberg",NA,NA
+3067,191,"North","Zealand","Kalundborg",NA,NA
+3068,192,"North","Galway","Galway",NA,NA
+3069,192,"North","Cork","Cork",NA,NA
+3070,190,"North","Skåne","Lund",NA,NA
+3071,190,"North","Stockholm","Upplands Väsby",NA,NA
+3072,190,"North","Västra Götaland","Gothenburg",NA,NA
+3073,191,"North","Hovedstaden","Copenhagen",NA,NA
+3074,190,"North","Skåne","Landskrona",NA,NA
+3075,190,"North","Värmland","Karlstad",NA,NA
+3076,193,"South","Porto","Porto",NA,NA
+3077,193,"South","Lisboa","Lisbon",NA,NA
+3078,73,"South","Campania","Battipaglia",NA,NA
+3079,193,"South","Setúbal","Arrentela",NA,NA
+3080,73,"South","Apulia","San Severo",NA,NA
+3081,73,"South","Lombardy","Treviglio",NA,NA
+3082,194,"Central","North Brabant","Helmond",NA,NA
+3083,194,"Central","Gelderland","Apeldoorn",NA,NA
+3084,194,"Central","North Brabant","Breda",NA,NA
+3085,194,"Central","Groningen","Groningen",NA,NA
+3086,194,"Central","South Holland","The Hague",NA,NA
+3087,194,"Central","Drenthe","Emmen",NA,NA
+3088,194,"Central","North Holland","Amsterdam",NA,NA
+3089,194,"Central","North Holland","Haarlem",NA,NA
+3090,194,"Central","North Brabant","Eindhoven",NA,NA
+3091,194,"Central","South Holland","Schiedam",NA,NA
+3092,194,"Central","Friesland","Leeuwarden",NA,NA
+3093,194,"Central","Overijssel","Deventer",NA,NA
+3094,194,"Central","Utrecht","Utrecht",NA,NA
+3095,194,"Central","South Holland","Spijkenisse",NA,NA
+3096,194,"Central","North Brabant","Bergen op Zoom",NA,NA
+3097,194,"Central","Utrecht","Zeist",NA,NA
+3098,194,"Central","Limburg","Heerlen",NA,NA
+3099,194,"Central","South Holland","Vlaardingen",NA,NA
+3100,194,"Central","North Holland","Den Helder",NA,NA
+3101,194,"Central","North Holland","Purmerend",NA,NA
+3102,194,"Central","Utrecht","Nieuwegein",NA,NA
+3103,194,"Central","Limburg","Sittard",NA,NA
+3104,194,"Central","South Holland","Rotterdam",NA,NA
+3105,194,"Central","Limburg","Maastricht",NA,NA
+3106,194,"Central","Utrecht","Amersfoort",NA,NA
+3107,79,"North","England","London",NA,NA
+3108,79,"North","England","Sheffield",NA,NA
+3109,79,"North","England","Birmingham",NA,NA
+3110,66,"Central","Saxony","Dresden",NA,NA
+3111,66,"Central","Lower Saxony","Hanover",NA,NA
+3112,66,"Central","Berlin","Berlin",NA,NA
+3113,66,"Central","North Rhine-Westphalia","Hilden",NA,NA
+3114,85,"Oceania","Auckland","Waitakere",NA,NA
+3115,195,"North Asia","Seoul","Seoul",NA,NA
+3116,196,"Central Asia","Punjab","Rawalpindi",NA,NA
+3117,196,"Central Asia","Sindh","Sukkur",NA,NA
+3118,75,"Central Asia","Maharashtra","Mumbai",NA,NA
+3119,85,"Oceania","Auckland","Manukau City",NA,NA
+3120,82,"North Asia","Hubei","Wuhan",NA,NA
+3121,197,"Oceania","National Capital","Port Moresby",NA,NA
+3122,196,"Central Asia","Punjab","Bahawalpur",NA,NA
+3123,196,"Central Asia","Punjab","Sialkot",NA,NA
+3124,196,"Central Asia","Khyber Pakhtunkhwa","Peshawar",NA,NA
+3125,195,"North Asia","Daejeon","Daejeon",NA,NA
+3126,196,"Central Asia","Punjab","Lahore",NA,NA
+3127,85,"Oceania","Auckland","Papakura",NA,NA
+3128,85,"Oceania","Auckland","Auckland",NA,NA
+3129,85,"Oceania","Nelson","Nelson",NA,NA
+3130,196,"Central Asia","F.C.T.","Islamabad",NA,NA
+3131,195,"North Asia","Gyeongsangnam","Changwon",NA,NA
+3132,195,"North Asia","Daegu","Daegu",NA,NA
+3133,97,"North Asia","Osaka","Sakai",NA,NA
+3134,195,"North Asia","Busan","Busan",NA,NA
+3135,97,"North Asia","Gunma","Sakai",NA,NA
+3136,195,"North Asia","Gyeonggi","Kwangju",NA,NA
+3137,196,"Central Asia","Punjab","Multan",NA,NA
+3138,196,"Central Asia","Sindh","Hyderabad",NA,NA
+3139,85,"Oceania","Otago","Dunedin",NA,NA
+3140,195,"North Asia","Gyeonggi","Goyang",NA,NA
+3141,195,"North Asia","Gyeonggi","Bucheon",NA,NA
+3142,97,"North Asia","Ibaraki","Sakai",NA,NA
+3143,195,"North Asia","Ulsan","Ulsan",NA,NA
+3144,196,"Central Asia","Punjab","Gujranwala",NA,NA
+3145,195,"North Asia","Gangwon","Chuncheon",NA,NA
+3146,85,"Oceania","Gisborne","Gisborne",NA,NA
+3147,82,"North Asia","Shaanxi","Yulin",NA,NA
+3148,198,"Southeast Asia","Bangkok","Bangkok",NA,NA
+3149,199,"Southeast Asia","Yangon","Yangon",NA,NA
+3150,200,"Southeast Asia","Ho Chí Minh City","Ho Chi Minh City",NA,NA
+3151,201,"Southeast Asia","Northern Mindanao","Valencia",NA,NA
+3152,201,"Southeast Asia","Western Visayas","Bacolod City",NA,NA
+3153,200,"Southeast Asia","Thủ Dô Hà Nội","Hanoi",NA,NA
+3154,201,"Southeast Asia","Cordillera","Baguio City",NA,NA
+3155,200,"Southeast Asia","Tỉnh Cần Thơ","Can Tho",NA,NA
+3156,201,"Southeast Asia","Calabarzon","Bacoor",NA,NA
+3157,200,"Southeast Asia","Khánh Hòa","Nha Trang",NA,NA
+3158,200,"Southeast Asia","Dà Nang","Da Nang",NA,NA
+3159,201,"Southeast Asia","Calabarzon","Cainta",NA,NA
+3160,201,"Southeast Asia","Calabarzon","San Pedro",NA,NA
+3161,201,"Southeast Asia","Calabarzon","Antipolo",NA,NA
+3162,201,"Southeast Asia","Calabarzon","Calamba",NA,NA
+3163,198,"Southeast Asia","Nakhon Ratchasima","Nakhon Ratchasima",NA,NA
+3164,201,"Southeast Asia","Central Luzon","San Jose del Monte",NA,NA
+3165,201,"Southeast Asia","National Capital","Manila",NA,NA
+3166,201,"Southeast Asia","National Capital","Makati",NA,NA
+3167,201,"Southeast Asia","National Capital","Marikina",NA,NA
+3168,201,"Southeast Asia","National Capital","Caloocan",NA,NA
+3169,201,"Southeast Asia","National Capital","Valenzuela",NA,NA
+3170,201,"Southeast Asia","National Capital","Pasig",NA,NA
+3171,202,"Southeast Asia","Jawa Barat","Depok",NA,NA
+3172,202,"Southeast Asia","Jakarta","Jakarta",NA,NA
+3173,202,"Southeast Asia","Jawa Barat","Bekasi",NA,NA
+3174,202,"Southeast Asia","Yogyakarta","Yogyakarta",NA,NA
+3175,202,"Southeast Asia","Bali","Denpasar",NA,NA
+3176,202,"Southeast Asia","Jawa Barat","Bandung",NA,NA
+3177,202,"Southeast Asia","Jawa Tengah","Semarang",NA,NA
+3178,202,"Southeast Asia","Nusa Tenggara Timur","Kupang",NA,NA
+3179,202,"Southeast Asia","Sulawesi Tenggara","Kendari",NA,NA
+3180,202,"Southeast Asia","Jawa Timur","Malang",NA,NA
+3181,202,"Southeast Asia","Sumatera Utara","Binjai",NA,NA
+3182,202,"Southeast Asia","Jawa Timur","Surabaya",NA,NA
+3183,202,"Southeast Asia","Sulawesi Utara","Manado",NA,NA
+3184,202,"Southeast Asia","Sumatera Selatan","Palembang",NA,NA
+3185,202,"Southeast Asia","Jawa Barat","Cirebon",NA,NA
+3186,202,"Southeast Asia","Sumatera Utara","Medan",NA,NA
+3187,202,"Southeast Asia","Jawa Timur","Jember",NA,NA
+3188,202,"Southeast Asia","Sumatera Barat","Padang",NA,NA
+3189,202,"Southeast Asia","Jambi","Jambi",NA,NA
+3190,202,"Southeast Asia","Jawa Barat","Bogor",NA,NA
+3191,202,"Southeast Asia","Yogyakarta","Depok",NA,NA
+3192,202,"Southeast Asia","Jawa Tengah","Surakarta",NA,NA
+3193,202,"Southeast Asia","Sumatera Utara","Pematangsiantar",NA,NA
+3194,202,"Southeast Asia","Kalimantan Timur","Balikpapan",NA,NA
+3195,202,"Southeast Asia","Sulawesi Tengah","Palu",NA,NA
+3196,202,"Southeast Asia","Aceh","Banda Aceh",NA,NA
+3197,202,"Southeast Asia","Riau","Dumai",NA,NA
+3198,202,"Southeast Asia","Jawa Barat","Tasikmalaya",NA,NA
+3199,202,"Southeast Asia","Kalimantan Barat","Pontianak",NA,NA
+3200,202,"Southeast Asia","Riau","Pekanbaru",NA,NA
+3201,202,"Southeast Asia","Kalimantan Timur","Samarinda",NA,NA
+3202,202,"Southeast Asia","Jawa Tengah","Pekalongan",NA,NA
+3203,202,"Southeast Asia","Jawa Tengah","Purwokerto",NA,NA
+3204,202,"Southeast Asia","Jawa Tengah","Tegal",NA,NA
+3205,91,"South","Ceará","Limoeiro do Norte",NA,NA
+3206,91,"South","Rondônia","Vilhena",NA,NA
+3207,91,"South","Bahia","Salvador",NA,NA
+3208,91,"South","Minas Gerais","Ponte Nova",NA,NA
+3209,91,"South","Pernambuco","Bezerros",NA,NA
+3210,91,"South","Piauí","Floriano",NA,NA
+3211,91,"South","Santa Catarina","Indaial",NA,NA
+3212,91,"South","Santa Catarina","Blumenau",NA,NA
+3213,91,"South","Rio Grande do Norte","Açu",NA,NA
+3214,91,"South","Maranhão","Presidente Dutra",NA,NA
+3215,91,"South","Minas Gerais","Pirapora",NA,NA
+3216,91,"South","Alagoas","São Miguel dos Campos",NA,NA
+3217,91,"South","Bahia","Bom Jesus da Lapa",NA,NA
+3218,91,"South","Bahia","Brumado",NA,NA
+3219,91,"South","Pernambuco","Surubim",NA,NA
+3220,91,"South","Rio de Janeiro","Vassouras",NA,NA
+3221,91,"South","Amazonas","Parintins",NA,NA
+3222,91,"South","Bahia","Jacobina",NA,NA
+3223,91,"South","Minas Gerais","Belo Horizonte",NA,NA
+3224,91,"South","Ceará","Camocim",NA,NA
+3225,91,"South","Ceará","Quixadá",NA,NA
+3226,91,"South","Santa Catarina","Araranguá",NA,NA
+3227,91,"South","Alagoas","Pilar",NA,NA
+3228,91,"South","Maranhão","Barreirinhas",NA,NA
+3229,203,"Caribbean","La Romana","La Romana",NA,NA
+3230,203,"Caribbean","Santo Domingo","Santo Domingo",NA,NA
+3231,203,"Caribbean","Duarte","San Francisco de Macorís",NA,NA
+3232,203,"Caribbean","Santiago","Santiago de los Caballeros",NA,NA
+3233,203,"Caribbean","Barahona","Santa Cruz de Barahona",NA,NA
+3234,203,"Caribbean","La Vega","La Vega",NA,NA
+3235,203,"Caribbean","Peravia","Baní",NA,NA
+3236,203,"Caribbean","San Pedro de Macorís","San Pedro de Macorís",NA,NA
+3237,203,"Caribbean","San Juan","San Juan de la Maguana",NA,NA
+3238,203,"Caribbean","San Cristóbal","Bajos de Haina",NA,NA
+3239,203,"Caribbean","Monseñor Nouel","Bonao",NA,NA
+3240,204,"Caribbean","Ouest","Carrefour",NA,NA
+3241,205,"Central","Panama","Arraiján",NA,NA
+3242,205,"Central","Panama","San Miguelito",NA,NA
+3243,206,"Central","Francisco Morazán","Tegucigalpa",NA,NA
+3244,207,"South","Provincia de Buenos Aires","Bahía Blanca",NA,NA
+3245,207,"South","Chaco","Presidencia Roque Sáenz Peña",NA,NA
+3246,208,"South","Lima (city)","Lima",NA,NA
+3247,207,"South","Buenos Aires","Buenos Aires",NA,NA
+3248,206,"Central","Choluteca","Choluteca",NA,NA
+3249,209,"South","Anzoátegui","Puerto La Cruz",NA,NA
+3250,207,"South","Provincia de Buenos Aires","Mar del Plata",NA,NA
+3251,209,"South","Distrito Capital","Caracas",NA,NA
+3252,205,"Central","Panama","Panama City",NA,NA
+3253,206,"Central","Yoro","El Progreso",NA,NA
+3254,209,"South","Carabobo","Valencia",NA,NA
+3255,205,"Central","Panama","La Chorrera",NA,NA
+3256,206,"Central","Cortés","Choloma",NA,NA
+3257,206,"Central","Cortés","San Pedro Sula",NA,NA
+3258,207,"South","Santa Fe","San Justo",NA,NA
+3259,207,"South","Provincia de Buenos Aires","Junín",NA,NA
+3260,207,"South","Entre Ríos","Paraná",NA,NA
+3261,207,"South","Provincia de Buenos Aires","Quilmes",NA,NA
+3262,206,"Central","Atlántida","La Ceiba",NA,NA
+3263,209,"South","Zulia","Maracaibo",NA,NA
+3264,209,"South","Miranda","Petare",NA,NA
+3265,120,"South","Los Rios","Quevedo",NA,NA
+3266,205,"Central","Colón","Colón",NA,NA
+3267,209,"South","Lara","Carora",NA,NA
+3268,207,"South","San Juan","San Juan",NA,NA
+3269,208,"South","Ayacucho","Ayacucho",NA,NA
+3270,208,"South","Piura","Talara",NA,NA
+3271,209,"South","Portuguesa","Acarigua",NA,NA
+3272,209,"South","Bolivar","Guayana",NA,NA
+3273,207,"South","Chaco","Resistencia",NA,NA
+3274,209,"South","Miranda","Guarenas",NA,NA
+3275,209,"South","Bolivar","Bolívar",NA,NA
+3276,207,"South","Santiago del Estero","Santiago del Estero",NA,NA
+3277,207,"South","Neuquén","Neuquén",NA,NA
+3278,207,"South","Santa Fe","Santa Fe",NA,NA
+3279,207,"South","Mendoza","Mendoza",NA,NA
+3280,205,"Central","Chiriquí","David",NA,NA
+3281,209,"South","Monagas","Maturín",NA,NA
+3282,209,"South","Guárico","Calabozo",NA,NA
+3283,209,"South","Miranda","Charallave",NA,NA
+3284,208,"South","Callao","Callao",NA,NA
+3285,207,"South","Córdoba","Córdoba",NA,NA
+3286,209,"South","Miranda","Guatire",NA,NA
+3287,207,"South","Mendoza","San Rafael",NA,NA
+3288,208,"South","Loreto","Iquitos",NA,NA
+3289,207,"South","Santa Fe","Rosario",NA,NA
+3290,209,"South","Zulia","San Carlos del Zulia",NA,NA
+3291,207,"South","Misiones","Posadas",NA,NA
+3292,208,"South","Cajamarca","Cajamarca",NA,NA
+3293,207,"South","San Luis","San Luis",NA,NA
+3294,209,"South","Aragua","Maracay",NA,NA
+3295,207,"South","Chubut","Comodoro Rivadavia",NA,NA
+3296,207,"South","Provincia de Buenos Aires","La Plata",NA,NA
+3297,207,"South","La Rioja","La Rioja",NA,NA
+3298,209,"South","Vargas","Catia La Mar",NA,NA
+3299,86,"North","Tamaulipas","Río Bravo",NA,NA
+3300,182,"Africa","Ondo","Akure",NA,NA
+3301,182,"Africa","Ondo","Owo",NA,NA
+3302,182,"Africa","Anambra","Onitsha",NA,NA
+3303,182,"Africa","Yobe","Damaturu",NA,NA
+3304,182,"Africa","Cross River","Ugep",NA,NA
+3305,182,"Africa","Gombe","Gombe",NA,NA
+3306,182,"Africa","Adamawa","Mubi",NA,NA
+3307,182,"Africa","Katsina","Funtua",NA,NA
+3308,91,"South","Mato Grosso","Pontes e Lacerda",NA,NA
+3309,184,"EMEA","Zhambyl","Taraz",NA,NA
+3310,188,"Africa","Matabeleland North","Victoria Falls",NA,NA
+3311,187,"Africa","Kabarole","Fort Portal",NA,NA
+3312,185,"EMEA","Klaipeda","Klaipeda",NA,NA
+3313,188,"Africa","Manicaland","Mutare",NA,NA
+3314,207,"South","Corrientes","Corrientes",NA,NA
+3315,65,"Central","Franche-Comté","Vesoul",NA,NA
+3316,196,"Central Asia","Baluchistan","Quetta",NA,NA
+3317,196,"Central Asia","Punjab","Gujrat",NA,NA
+3318,195,"North Asia","Gyeonggi","Suwon",NA,NA
+3319,196,"Central Asia","Punjab","Sargodha",NA,NA
+3320,193,"South","Coimbra","Coimbra",NA,NA
+3321,193,"South","Porto","Vila Nova de Gaia",NA,NA
+3322,193,"South","Lisboa","Odivelas",NA,NA
+3323,191,"North","South Denmark","Esbjerg",NA,NA
+3324,190,"North","Uppsala","Uppsala",NA,NA
+3325,190,"North","Stockholm","Haninge",NA,NA
+3326,190,"North","Skåne","Helsingborg",NA,NA
+3327,192,"North","South Dublin","Tallaght",NA,NA
+3328,194,"Central","Overijssel","Zwolle",NA,NA
+3329,194,"Central","Overijssel","Almelo",NA,NA
+3330,194,"Central","Overijssel","Enschede",NA,NA
+3331,194,"Central","South Holland","Dordrecht",NA,NA
+3332,194,"Central","North Holland","Zaanstad",NA,NA
+3333,194,"Central","Drenthe","Assen",NA,NA
+3334,194,"Central","Gelderland","Nijmegen",NA,NA
+3335,194,"Central","North Holland","Alkmaar",NA,NA
+3336,194,"Central","North Brabant","Oosterhout",NA,NA
+3337,202,"Southeast Asia","Kalimantan Selatan","Banjarmasin",NA,NA
+3338,202,"Southeast Asia","Papua","Jayapura",NA,NA
+3339,202,"Southeast Asia","Jawa Timur","Probolinggo",NA,NA
+3340,202,"Southeast Asia","Jawa Barat","Sukabumi",NA,NA
+3341,204,"Caribbean","Artibonite","Gonaïves",NA,NA
+3342,208,"South","La Libertad","Trujillo",NA,NA
+3343,209,"South","Mérida","Mérida",NA,NA
+3344,209,"South","Aragua","Cagua",NA,NA
+3345,207,"South","Salta","Salta",NA,NA
+3346,209,"South","Portuguesa","Guanare",NA,NA
+3347,208,"South","Arequipa","Arequipa",NA,NA
+3348,209,"South","Anzoátegui","San José de Guanipa",NA,NA
+3349,207,"South","Jujuy","San Salvador de Jujuy",NA,NA
+3350,209,"South","Lara","Barquisimeto",NA,NA
+3351,209,"South","Aragua","Palo Negro",NA,NA
+3352,208,"South","Lambayeque","Chiclayo",NA,NA
+3353,181,"EMEA","Kocaeli","Kocaeli",NA,NA
+3354,181,"EMEA","Manisa","Akhisar",NA,NA
+3355,181,"EMEA","Nigde","Nigde",NA,NA
+3356,181,"EMEA","Sirnak","Cizre",NA,NA
+3357,181,"EMEA","Kahramanmaras","Kahramanmaras",NA,NA
+3358,181,"EMEA","Manisa","Soma",NA,NA
+3359,181,"EMEA","Aydin","Aydin",NA,NA
+3360,181,"EMEA","Kutahya","Kutahya",NA,NA
+3361,181,"EMEA","Ankara","Etimesgut",NA,NA
+3362,181,"EMEA","Tekirdag","Tekirdag",NA,NA
+3363,181,"EMEA","Usak","Usak",NA,NA
+3364,181,"EMEA","Bolu","Bolu",NA,NA
+3365,181,"EMEA","Ankara","Cubuk",NA,NA
+3366,181,"EMEA","Trabzon","Trabzon",NA,NA
+3367,181,"EMEA","Mardin","Midyat",NA,NA
+3368,181,"EMEA","Aydin","Nazilli",NA,NA
+3369,181,"EMEA","Mardin","Mardin",NA,NA
+3370,181,"EMEA","Ordu","Ordu",NA,NA
+3371,181,"EMEA","Aksaray","Aksaray",NA,NA
+3372,181,"EMEA","Igdir","Igdir",NA,NA
+3373,181,"EMEA","Istanbul","Maltepe",NA,NA
+3374,181,"EMEA","Istanbul","Umraniye",NA,NA
+3375,181,"EMEA","Hatay","Antakya",NA,NA
+3376,181,"EMEA","Sanliurfa","Viransehir",NA,NA
+3377,194,"Central","North Holland","Amstelveen",NA,NA
+3378,185,"EMEA","Panevezys","Panevezys",NA,NA
+3379,188,"Africa","Harare","Epworth",NA,NA
+3380,194,"Central","Overijssel","Hengelo",NA,NA
+3381,189,"EMEA","'Ajman","Ajman",NA,NA
+3382,186,"EMEA","Ibb","Ibb",NA,NA
+3383,194,"Central","North Holland","Velsen",NA,NA
+3384,73,"South","Veneto","Chioggia",NA,NA
+3385,73,"South","Campania","Caserta",NA,NA
+3386,73,"South","Sardinia","Quartu Sant'Elena",NA,NA
+3387,66,"Central","North Rhine-Westphalia","Stolberg",NA,NA
+3388,65,"Central","Pays de la Loire","Vertou",NA,NA
+3389,65,"Central","Rhône-Alpes","Sallanches",NA,NA
+3390,65,"Central","Aquitaine","Libourne",NA,NA
+3391,201,"Southeast Asia","National Capital","Las Pinas",NA,NA
+3392,208,"South","Puno","Puno",NA,NA
+3393,208,"South","Ancash","Huaraz",NA,NA
+3394,73,"South","Lombardy","Varese",NA,NA
+3395,187,"Africa","Jinja","Jinja",NA,NA
+3396,181,"EMEA","Kirsehir","Kirsehir",NA,NA
+3397,203,"Caribbean","Espaillat","Moca",NA,NA
+3398,190,"North","Stockholm","Solna",NA,NA
+3399,207,"South","Catamarca","San Fernando del Valle de Catamarca",NA,NA
+3400,184,"EMEA","Qaraghandy","Qaraghandy",NA,NA
+3401,208,"South","Lima","Barranca",NA,NA
+3402,65,"Central","Nord-Pas-de-Calais","La Madeleine",NA,NA
+3403,194,"Central","North Holland","Hilversum",NA,NA
+3404,194,"Central","South Holland","Alphen aan den Rijn",NA,NA
+3405,193,"South","Lisboa","Amadora",NA,NA
+3406,73,"South","Apulia","Bisceglie",NA,NA
+3407,80,"South","Andalusía","Cártama",NA,NA
+3408,209,"South","Carabobo","Guacara",NA,NA
+3409,209,"South","Sucre","Cumaná",NA,NA
+3410,207,"South","Corrientes","Esquina",NA,NA
+3411,91,"South","São Paulo","Registro",NA,NA
+3412,207,"South","Provincia de Buenos Aires","San Nicolás de los Arroyos",NA,NA
+3413,208,"South","Ucayali","Pucallpa",NA,NA
+3414,187,"Africa","Gulu","Gulu",NA,NA
+3415,181,"EMEA","Erzurum","Erzurum",NA,NA
+3416,182,"Africa","Zamfara","Gusau",NA,NA
+3417,182,"Africa","Sokoto","Sokoto",NA,NA
+3418,182,"Africa","Delta","Sapele",NA,NA
+3419,181,"EMEA","Yalova","Yalova",NA,NA
+3420,183,"EMEA","Lebap","Turkmenabat",NA,NA
+3421,181,"EMEA","Bingol","Bingol",NA,NA
+3422,184,"EMEA","Pavlodar","Ekibastuz",NA,NA
+3423,116,"Africa","Ruvuma","Mbinga",NA,NA
+3424,196,"Central Asia","Khyber Pakhtunkhwa","Mardan",NA,NA
+3425,200,"Southeast Asia","Kiên Giang","Rach Gia",NA,NA
+3426,202,"Southeast Asia","Jawa Timur","Kediri",NA,NA
+3427,202,"Southeast Asia","Bengkulu","Bengkulu",NA,NA
+3428,202,"Southeast Asia","Nusa Tenggara Barat","Mataram",NA,NA
+3429,86,"North","México","Melchor Ocampo",NA,NA
+3430,65,"Central","Midi-Pyrénées","Plaisance-du-Touch",NA,NA
+3431,65,"Central","Ile-de-France","Rosny-sous-Bois",NA,NA
+3432,65,"Central","Ile-de-France","Athis-Mons",NA,NA
+3433,65,"Central","Ile-de-France","Villeneuve-Saint-Georges",NA,NA
+3434,65,"Central","Ile-de-France","Stains",NA,NA
+3435,65,"Central","Rhône-Alpes","Annecy-le-Vieux",NA,NA
+3436,194,"Central","South Holland","Delft",NA,NA
+3437,194,"Central","North Brabant","Tilburg",NA,NA
+3438,182,"Africa","Ogun","Abeokuta",NA,NA
+3439,194,"Central","North Brabant","Roosendaal",NA,NA
+3440,194,"Central","North Holland","Uithoorn",NA,NA
+3441,194,"Central","Utrecht","Veenendaal",NA,NA
+3442,209,"South","Anzoátegui","El Tigre",NA,NA
+3443,209,"South","Miranda","Baruta",NA,NA
+3444,208,"South","Piura","Paita",NA,NA
+3445,207,"South","Entre Ríos","Concepción del Uruguay",NA,NA
+3446,208,"South","Puno","Juliaca",NA,NA
+3447,209,"South","Táchira","San Cristóbal",NA,NA
+3448,209,"South","Nueva Esparta","Porlamar",NA,NA
+3449,209,"South","Zulia","Cabimas",NA,NA
+3450,181,"EMEA","Adana","Ceyhan",NA,NA
+3451,181,"EMEA","Kastamonu","Kastamonu",NA,NA
+3452,190,"North","Södermanland","Eskilstuna",NA,NA
+3453,193,"South","Braga","Braga",NA,NA
+3454,116,"Africa","Iringa","Iringa",NA,NA
+3455,80,"South","Extremadura","Badajoz",NA,NA
+3456,65,"Central","Alsace","Illkirch-Graffenstaden",NA,NA
+3457,66,"Central","Hesse","Fulda",NA,NA
+3458,66,"Central","Bavaria","Günzburg",NA,NA
+3459,65,"Central","Rhône-Alpes","Caluire-et-Cuire",NA,NA
+3460,181,"EMEA","Elazig","Elazig",NA,NA
+3461,80,"South","Castile-La Mancha","Cuenca",NA,NA
+3462,209,"South","Anzoátegui","Barcelona",NA,NA
+3463,80,"South","Valenciana","Sagunto",NA,NA
+3464,207,"South","Salta","Tartagal",NA,NA
+3465,194,"Central","South Holland","Leiden",NA,NA
+3466,207,"South","Santa Fe","Avellaneda",NA,NA
+3467,209,"South","Aragua","Turmero",NA,NA
+3468,209,"South","Aragua","El Limón",NA,NA
+3469,181,"EMEA","Bingol","Karliova",NA,NA
+3470,201,"Southeast Asia","Central Luzon","Angeles City",NA,NA
+3471,65,"Central","Rhône-Alpes","Bourgoin-Jallieu",NA,NA
+3472,65,"Central","Ile-de-France","Plaisir",NA,NA
+3473,91,"South","Minas Gerais","Contagem",NA,NA
+3474,86,"North","Nuevo León","Linares",NA,NA
+3475,181,"EMEA","Adana","Kozan",NA,NA
+3476,65,"Central","Picardy","Senlis",NA,NA
+3477,65,"Central","Lower Normandy","Cherbourg-Octeville",NA,NA
+3478,195,"North Asia","Jeju","Aewŏl-li",NA,NA
+3479,209,"South","Yaracuy","Yaritagua",NA,NA
+3480,65,"Central","Ile-de-France","Chatou",NA,NA
+3481,207,"South","Río Negro","Cipolletti",NA,NA
+3482,65,"Central","Rhône-Alpes","Annonay",NA,NA
+3483,191,"North","South Denmark","Sonderborg",NA,NA
+3484,181,"EMEA","Antalya","Alanya",NA,NA
+3485,182,"Africa","Ebonyi","Abakaliki",NA,NA
+3486,184,"EMEA","Almaty","Taldyqorghan",NA,NA
+3487,73,"South","Campania","Castellammare di Stabia",NA,NA
+3488,181,"EMEA","Karaman","Karaman",NA,NA
+3489,91,"South","Minas Gerais","Barbacena",NA,NA
+3490,208,"South","Junín","Huancayo",NA,NA
+3491,208,"South","Moquegua","Ilo",NA,NA
+3492,66,"Central","Baden-Württemberg","Bad Waldsee",NA,NA
+3493,65,"Central","Nord-Pas-de-Calais","Coudekerque-Branche",NA,NA
+3494,91,"South","Pernambuco","Abreu e Lima",NA,NA
+3495,194,"Central","Limburg","Venlo",NA,NA
+3496,181,"EMEA","Isparta","Isparta",NA,NA
+3497,65,"Central","Upper Normandy","Elbeuf",NA,NA
+3498,66,"Central","Lower Saxony","Cuxhaven",NA,NA
+3499,194,"Central","North Brabant","Oss",NA,NA
+3500,209,"South","Miranda","Cúa",NA,NA
+3501,208,"South","Ancash","Chimbote",NA,NA
+3502,181,"EMEA","Rize","Rize",NA,NA
+3503,194,"Central","Zeeland","Terneuzen",NA,NA
+3504,202,"Southeast Asia","Maluku","Ambon",NA,NA
+3505,65,"Central","Alsace","Lingolsheim",NA,NA
+3506,65,"Central","Centre","Saint-Jean-de-la-Ruelle",NA,NA
+3507,210,"EMEA","Khatlon","Kulob",NA,NA
+3508,188,"Africa","Mashonaland West","Kadoma",NA,NA
+3509,195,"North Asia","Gyeonggi","Anyang",NA,NA
+3510,73,"South","Apulia","Manfredonia",NA,NA
+3511,193,"South","Braga","Guimarães",NA,NA
+3512,193,"South","Aveiro","Feira",NA,NA
+3513,193,"South","Lisboa","Loures",NA,NA
+3514,127,"North Asia","Ulaanbaatar","Ulan Bator",NA,NA
+3515,195,"North Asia","South Chungcheong","Cheonan",NA,NA
+3516,100,"South","Santiago","La Pintana",NA,NA
+3517,209,"South","Guárico","Valle de La Pascua",NA,NA
+3518,208,"South","Ica","Chincha Alta",NA,NA
+3519,208,"South","Piura","Piura",NA,NA
+3520,209,"South","Cojedes","Tinaquillo",NA,NA
+3521,207,"South","Provincia de Buenos Aires","Necochea",NA,NA
+3522,207,"South","La Pampa","Santa Rosa",NA,NA
+3523,181,"EMEA","Afyonkarahisar","Afyon",NA,NA
+3524,181,"EMEA","Tokat","Tokat",NA,NA
+3525,181,"EMEA","Kilis","Kilis",NA,NA
+3526,181,"EMEA","Ardahan","Ardahan",NA,NA
+3527,181,"EMEA","Siirt","Siirt",NA,NA
+3528,181,"EMEA","Edirne","Edirne",NA,NA
+3529,181,"EMEA","Kayseri","Felahiye",NA,NA
+3530,202,"Southeast Asia","Jawa Barat","Tangerang",NA,NA
+3531,201,"Southeast Asia","Calabarzon","Taytay",NA,NA
+3532,194,"Central","Overijssel","Hardenberg",NA,NA
+3533,194,"Central","Limburg","Roermond",NA,NA
+3534,194,"Central","Gelderland","Arnhem",NA,NA
+3535,194,"Central","South Holland","Capelle aan den IJssel",NA,NA
+3536,194,"Central","Gelderland","Barneveld",NA,NA
+3537,194,"Central","Gelderland","Doetinchem",NA,NA
+3538,66,"Central","Baden-Württemberg","Aalen",NA,NA
+3539,65,"Central","Centre","Saint-Pierre-des-Corps",NA,NA
+3540,65,"Central","Centre","Saint-Cyr-sur-Loire",NA,NA
+3541,65,"Central","Auvergne","Issoire",NA,NA
+3542,65,"Central","Auvergne","Moulins",NA,NA
+3543,65,"Central","Ile-de-France","Saint-Cloud",NA,NA
+3544,115,"Oceania","South Australia","Adelaide",NA,NA
+3545,115,"Oceania","Queensland","Brisbane",NA,NA
+3546,115,"Oceania","Queensland","Maryborough",NA,NA
+3547,115,"Oceania","Western Australia","Albany",NA,NA
+3548,115,"Oceania","Western Australia","Perth",NA,NA
+3549,115,"Oceania","Western Australia","Kwinana",NA,NA
+3550,115,"Oceania","Victoria","Melbourne",NA,NA
+3551,115,"Oceania","Queensland","Gold Coast",NA,NA
+3552,115,"Oceania","New South Wales","Sydney",NA,NA
+3553,115,"Oceania","Western Australia","Bunbury",NA,NA
+3554,115,"Oceania","Victoria","Geelong",NA,NA
+3555,115,"Oceania","Victoria","Bendigo",NA,NA
+3556,115,"Oceania","Queensland","Toowoomba",NA,NA
+3557,115,"Oceania","Queensland","Bundaberg",NA,NA
+3558,115,"Oceania","Western Australia","Geraldton",NA,NA
+3559,115,"Oceania","Victoria","Ballarat",NA,NA
+3560,115,"Oceania","Victoria","Melton",NA,NA
+3561,115,"Oceania","Western Australia","Mandurah",NA,NA
+3562,115,"Oceania","Victoria","Traralgon",NA,NA
+3563,115,"Oceania","Victoria","Sunbury",NA,NA
+3564,115,"Oceania","Victoria","Echuca",NA,NA
+3565,115,"Oceania","Victoria","Wodonga",NA,NA
+3566,115,"Oceania","Victoria","Mildura",NA,NA
+3567,115,"Oceania","Victoria","Warrnambool",NA,NA
+3568,115,"Oceania","Queensland","Caloundra",NA,NA
+3569,115,"Oceania","Queensland","Cairns",NA,NA
+3570,115,"Oceania","Queensland","Torquay",NA,NA
+3571,115,"Oceania","Queensland","Rockhampton",NA,NA
+3572,115,"Oceania","Queensland","Townsville",NA,NA
+3573,115,"Oceania","Queensland","Mackay",NA,NA
+3574,115,"Oceania","Queensland","Mount Isa",NA,NA
+3575,115,"Oceania","Queensland","Gladstone",NA,NA
+3576,115,"Oceania","Tasmania","Launceston",NA,NA
+3577,115,"Oceania","New South Wales","Armidale",NA,NA
+3578,115,"Oceania","New South Wales","Griffith",NA,NA
+3579,115,"Oceania","New South Wales","Coffs Harbour",NA,NA
+3580,64,"Central","Texas","Houston",NA,NA
+3581,64,"Central","Texas","Huntsville",NA,NA
+3582,64,"Central","Texas","Lubbock",NA,NA
+3583,64,"Central","Texas","El Paso",NA,NA
+3584,64,"Central","Texas","Plano",NA,NA
+3585,64,"Central","Texas","Brownsville",NA,NA
+3586,64,"Central","Texas","San Antonio",NA,NA
+3587,64,"Central","Texas","Fort Worth",NA,NA
+3588,64,"Central","Texas","San Marcos",NA,NA
+3589,64,"Central","Texas","League City",NA,NA
+3590,64,"Central","Texas","Dallas",NA,NA
+3591,64,"Central","Texas","Texas City",NA,NA
+3592,64,"Central","Texas","Odessa",NA,NA
+3593,64,"Central","Texas","Corpus Christi",NA,NA
+3594,64,"Central","Texas","Garland",NA,NA
+3595,64,"Central","Texas","Carrollton",NA,NA
+3596,64,"Central","Texas","Mesquite",NA,NA
+3597,64,"Central","Texas","Arlington",NA,NA
+3598,64,"Central","Texas","Beaumont",NA,NA
+3599,64,"Central","Texas","Mcallen",NA,NA
+3600,64,"Central","Texas","Allen",NA,NA
+3601,64,"Central","Texas","Grand Prairie",NA,NA
+3602,64,"Central","Texas","Austin",NA,NA
+3603,64,"Central","Texas","Amarillo",NA,NA
+3604,64,"Central","Texas","Port Arthur",NA,NA
+3605,64,"Central","Texas","Harlingen",NA,NA
+3606,64,"Central","Texas","Bryan",NA,NA
+3607,64,"Central","Texas","Pasadena",NA,NA
+3608,64,"Central","Texas","Pharr",NA,NA
+3609,64,"Central","Texas","La Porte",NA,NA
+3610,64,"Central","Texas","Laredo",NA,NA
+3611,64,"Central","Texas","San Angelo",NA,NA
+3612,64,"Central","Texas","Richardson",NA,NA
+3613,64,"Central","Texas","Tyler",NA,NA
+3614,64,"Central","Texas","Frisco",NA,NA
+3615,64,"Central","Texas","Waco",NA,NA
+3616,64,"Central","Texas","Mansfield",NA,NA
+3617,64,"Central","Texas","Round Rock",NA,NA
+3618,64,"Central","Texas","College Station",NA,NA
+3619,64,"Central","Texas","Irving",NA,NA
+3620,64,"Central","Texas","Abilene",NA,NA
+3621,64,"Central","Texas","Edinburg",NA,NA
+3622,64,"Central","Texas","Deer Park",NA,NA
+3623,64,"Central","Texas","Missouri City",NA,NA
+3624,64,"Central","Texas","Bedford",NA,NA
+3625,64,"Central","Texas","Pearland",NA,NA
+3626,64,"East","Pennsylvania","Lancaster",NA,NA
+3627,64,"East","Pennsylvania","Chester",NA,NA
+3628,64,"East","Pennsylvania","Reading",NA,NA
+3629,64,"East","Pennsylvania","Altoona",NA,NA
+3630,64,"East","Pennsylvania","Bethlehem",NA,NA
+3631,64,"East","Pennsylvania","Allentown",NA,NA
+3632,64,"East","Pennsylvania","York",NA,NA
+3633,64,"East","Pennsylvania","Philadelphia",NA,NA
+3634,64,"Central","Illinois","Chicago",NA,NA
+3635,64,"Central","Illinois","Naperville",NA,NA
+3636,64,"Central","Illinois","Romeoville",NA,NA
+3637,64,"Central","Illinois","Woodstock",NA,NA
+3638,64,"Central","Illinois","Elmhurst",NA,NA
+3639,64,"Central","Illinois","Buffalo Grove",NA,NA
+3640,64,"Central","Illinois","Decatur",NA,NA
+3641,64,"Central","Illinois","Peoria",NA,NA
+3642,64,"Central","Illinois","Aurora",NA,NA
+3643,64,"Central","Illinois","Oswego",NA,NA
+3644,64,"Central","Illinois","Bloomington",NA,NA
+3645,64,"Central","Illinois","Evanston",NA,NA
+3646,64,"Central","Illinois","Des Plaines",NA,NA
+3647,64,"Central","Illinois","Bolingbrook",NA,NA
+3648,64,"Central","Illinois","Skokie",NA,NA
+3649,64,"Central","Illinois","Saint Charles",NA,NA
+3650,64,"Central","Illinois","Park Ridge",NA,NA
+3651,64,"Central","Illinois","Normal",NA,NA
+3652,64,"Central","Illinois","Tinley Park",NA,NA
+3653,64,"Central","Illinois","Frankfort",NA,NA
+3654,64,"Central","Illinois","Carol Stream",NA,NA
+3655,64,"Central","Illinois","Highland Park",NA,NA
+3656,64,"Central","Illinois","Quincy",NA,NA
+3657,64,"Central","Illinois","Champaign",NA,NA
+3658,64,"Central","Illinois","Rockford",NA,NA
+3659,64,"Central","Illinois","Wheeling",NA,NA
+3660,64,"Central","Illinois","Danville",NA,NA
+3661,64,"Central","Illinois","Freeport",NA,NA
+3662,64,"East","Ohio","Columbus",NA,NA
+3663,64,"East","Ohio","Parma",NA,NA
+3664,64,"East","Ohio","Medina",NA,NA
+3665,64,"East","Ohio","Cleveland",NA,NA
+3666,64,"East","Ohio","Troy",NA,NA
+3667,64,"East","Ohio","Springfield",NA,NA
+3668,64,"East","Ohio","Newark",NA,NA
+3669,64,"East","Ohio","Marion",NA,NA
+3670,64,"East","Ohio","Lancaster",NA,NA
+3671,64,"East","Ohio","Mentor",NA,NA
+3672,64,"East","Ohio","Toledo",NA,NA
+3673,64,"East","Ohio","Fairfield",NA,NA
+3674,64,"East","Ohio","Lorain",NA,NA
+3675,64,"East","Ohio","Akron",NA,NA
+3676,64,"East","Ohio","Bowling Green",NA,NA
+3677,64,"East","Ohio","Cincinnati",NA,NA
+3678,64,"East","Ohio","Lakewood",NA,NA
+3679,64,"East","Ohio","Kent",NA,NA
+3680,64,"East","Ohio","Dublin",NA,NA
+3681,64,"East","Ohio","Grove City",NA,NA
+3682,64,"East","Ohio","Mason",NA,NA
+3683,64,"East","Ohio","Cuyahoga Falls",NA,NA
+3684,64,"East","Ohio","Elyria",NA,NA
+3685,64,"South","Florida","Jacksonville",NA,NA
+3686,64,"West","Colorado","Denver",NA,NA
+3687,64,"South","Florida","Miami",NA,NA
+3688,64,"South","North Carolina","Greenville",NA,NA
+3689,64,"West","Arizona","Chandler",NA,NA
+3690,64,"South","North Carolina","Charlotte",NA,NA
+3691,64,"South","Tennessee","Knoxville",NA,NA
+3692,64,"South","North Carolina","Jacksonville",NA,NA
+3693,64,"West","Colorado","Louisville",NA,NA
+3694,64,"West","Oregon","Springfield",NA,NA
+3695,64,"South","North Carolina","Concord",NA,NA
+3696,64,"South","Florida","Daytona Beach",NA,NA
+3697,64,"West","Arizona","Mesa",NA,NA
+3698,64,"South","Florida","Fort Lauderdale",NA,NA
+3699,64,"South","Florida","Hialeah",NA,NA
+3700,64,"South","Florida","Pembroke Pines",NA,NA
+3701,64,"West","Colorado","Colorado Springs",NA,NA
+3702,64,"South","Tennessee","Memphis",NA,NA
+3703,64,"West","Arizona","Phoenix",NA,NA
+3704,64,"South","Florida","Tallahassee",NA,NA
+3705,64,"South","Tennessee","Chattanooga",NA,NA
+3706,64,"South","Florida","Tampa",NA,NA
+3707,64,"South","Florida","Lakeland",NA,NA
+3708,64,"West","Colorado","Aurora",NA,NA
+3709,64,"South","North Carolina","Burlington",NA,NA
+3710,64,"South","Tennessee","Franklin",NA,NA
+3711,64,"West","Oregon","Salem",NA,NA
+3712,64,"West","Arizona","Tucson",NA,NA
+3713,64,"West","Arizona","Gilbert",NA,NA
+3714,64,"South","Tennessee","Nashville",NA,NA
+3715,64,"South","Tennessee","Columbia",NA,NA
+3716,64,"West","Oregon","Redmond",NA,NA
+3717,64,"South","North Carolina","Greensboro",NA,NA
+3718,64,"South","Tennessee","Jackson",NA,NA
+3719,64,"West","Arizona","Scottsdale",NA,NA
+3720,64,"West","Oregon","Portland",NA,NA
+3721,64,"West","Colorado","Littleton",NA,NA
+3722,64,"West","Colorado","Pueblo",NA,NA
+3723,64,"West","Colorado","Fort Collins",NA,NA
+3724,64,"West","Arizona","Yuma",NA,NA
+3725,64,"West","Colorado","Parker",NA,NA
+3726,64,"West","Arizona","Peoria",NA,NA
+3727,64,"West","Arizona","Tempe",NA,NA
+3728,64,"West","Oregon","Medford",NA,NA
+3729,64,"West","Arizona","Glendale",NA,NA
+3730,64,"West","Colorado","Broomfield",NA,NA
+3731,64,"West","Oregon","Gresham",NA,NA
+3732,64,"West","Oregon","Tigard",NA,NA
+3733,64,"West","Oregon","Hillsboro",NA,NA
+3734,64,"West","Colorado","Loveland",NA,NA
+3735,64,"South","Florida","Palm Coast",NA,NA
+3736,64,"South","Tennessee","Smyrna",NA,NA
+3737,64,"South","North Carolina","Raleigh",NA,NA
+3738,64,"South","North Carolina","Fayetteville",NA,NA
+3739,64,"South","Florida","Tamarac",NA,NA
+3740,64,"South","North Carolina","Durham",NA,NA
+3741,64,"South","Tennessee","Clarksville",NA,NA
+3742,64,"South","North Carolina","Wilmington",NA,NA
+3743,64,"South","Florida","Boca Raton",NA,NA
+3744,64,"South","Florida","Pensacola",NA,NA
+3745,64,"South","Tennessee","Johnson City",NA,NA
+3746,64,"South","Florida","Boynton Beach",NA,NA
+3747,64,"South","Florida","Hollywood",NA,NA
+3748,64,"South","Florida","Miramar",NA,NA
+3749,64,"South","North Carolina","Asheville",NA,NA
+3750,64,"South","Florida","Saint Petersburg",NA,NA
+3751,64,"South","Florida","Deltona",NA,NA
+3752,64,"South","Florida","Orlando",NA,NA
+3753,64,"South","Tennessee","Bristol",NA,NA
+3754,64,"South","North Carolina","Wilson",NA,NA
+3755,64,"South","Tennessee","Murfreesboro",NA,NA
+3756,64,"South","Florida","Plantation",NA,NA
+3757,64,"South","North Carolina","Gastonia",NA,NA
+3758,64,"South","Florida","Apopka",NA,NA
+3759,64,"South","Florida","Port Saint Lucie",NA,NA
+3760,64,"South","Tennessee","Hendersonville",NA,NA
+3761,64,"South","North Carolina","Thomasville",NA,NA
+3762,64,"South","Florida","Ormond Beach",NA,NA
+3763,64,"South","Florida","Sanford",NA,NA
+3764,64,"South","North Carolina","Hickory",NA,NA
+3765,64,"South","Tennessee","Lebanon",NA,NA
+3766,64,"South","Tennessee","Bartlett",NA,NA
+3767,64,"South","North Carolina","Cary",NA,NA
+3768,64,"South","North Carolina","Monroe",NA,NA
+3769,64,"South","North Carolina","Goldsboro",NA,NA
+3770,64,"South","North Carolina","Chapel Hill",NA,NA
+3771,64,"West","Washington","Everett",NA,NA
+3772,64,"West","Colorado","Thornton",NA,NA
+3773,64,"West","Colorado","Longmont",NA,NA
+3774,64,"West","Colorado","Arvada",NA,NA
+3775,64,"West","Colorado","Englewood",NA,NA
+3776,64,"West","Colorado","Greeley",NA,NA
+3777,64,"West","Colorado","Commerce City",NA,NA
+3778,64,"West","Oregon","Eugene",NA,NA
+3779,64,"West","Idaho","Lewiston",NA,NA
+3780,64,"West","Montana","Billings",NA,NA
+3781,64,"West","New Mexico","Rio Rancho",NA,NA
+3782,64,"West","Montana","Missoula",NA,NA
+3783,64,"West","Wyoming","Cheyenne",NA,NA
+3784,64,"West","Arizona","Avondale",NA,NA
+3785,64,"West","Arizona","Bullhead City",NA,NA
+3786,64,"West","Arizona","Sierra Vista",NA,NA
+3787,64,"Central","Illinois","Orland Park",NA,NA
+3788,64,"Central","Illinois","Glenview",NA,NA
+3789,64,"Central","Illinois","Arlington Heights",NA,NA
+3790,64,"Central","Illinois","Palatine",NA,NA
+3791,64,"Central","Illinois","Oak Park",NA,NA
+3792,64,"East","Ohio","Hamilton",NA,NA
+3793,64,"South","Florida","Coral Springs",NA,NA
+3794,64,"South","Florida","Delray Beach",NA,NA
+3795,64,"South","Florida","North Miami",NA,NA
+3796,64,"South","Florida","Homestead",NA,NA
+3797,64,"South","Florida","Jupiter",NA,NA
+3798,64,"South","Florida","Port Orange",NA,NA
+3799,64,"South","Florida","Pompano Beach",NA,NA
+3800,64,"South","Florida","Kissimmee",NA,NA
+3801,64,"South","Florida","Melbourne",NA,NA
+3802,64,"South","Florida","West Palm Beach",NA,NA
+3803,64,"South","Florida","Coral Gables",NA,NA
+3804,64,"South","Florida","Margate",NA,NA
+3805,64,"Central","Texas","Cedar Hill",NA,NA
+3806,64,"Central","Texas","Baytown",NA,NA
+3807,64,"Central","Texas","Coppell",NA,NA
+3808,64,"Central","Texas","Haltom City",NA,NA
+3809,64,"Central","Texas","Grapevine",NA,NA
+3810,64,"Central","Texas","The Colony",NA,NA
+3811,64,"Central","Texas","Conroe",NA,NA
+3812,64,"Central","Texas","Keller",NA,NA
+3813,64,"West","California","El Cajon",NA,NA
+3814,64,"West","California","Redding",NA,NA
+3815,64,"West","California","Lake Elsinore",NA,NA
+3816,64,"West","California","Dublin",NA,NA
+3817,64,"West","California","Ontario",NA,NA
+3818,64,"West","California","Whittier",NA,NA
+3819,64,"West","California","Redwood City",NA,NA

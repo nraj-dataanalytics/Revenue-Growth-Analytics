@@ -1,0 +1,21 @@
+operating_country,channel_name,pmi_product_family,brand_tier,wholesaler_tier,weeks,shipments_units,avg_price_realization,avg_list_price,avg_net_price,avg_leakage_per_unit
+South Korea,Key Accounts,Oral Nicotine,Core,T1,1,7,0.2,320,64,256
+Lithuania,E-Commerce,Oral Nicotine,Core,T3,1,6,0.2999992421055823,52.77779999999999,15.8333,36.94449999999999
+Tajikistan,Retail,Heated Tobacco,Core,T2,1,12,0.2999993872342512,65.2778,19.5833,45.6945
+Yemen,Key Accounts,Heated Tobacco,Core,T1,1,6,0.29999959550525435,49.4444,14.8333,34.6111
+Lithuania,E-Commerce,Cigarettes,Core,T3,1,7,0.2999996451609469,44.28567142857143,13.285685714285714,30.99998571428572
+Uganda,Retail,Oral Nicotine,Value,T2,1,6,0.2999996742082038,122.7778,36.8333,85.9445
+Trinidad and Tobago,Key Accounts,Heated Tobacco,Value,T1,1,4,0.2999997272729752,36.6667,11,25.6667
+Uganda,E-Commerce,Cigarettes,Value,T3,1,5,0.2999997272729752,22.00002,6.6,15.400020000000001
+Lithuania,Retail,Oral Nicotine,Premium,T2,1,2,0.299999760000192,41.6667,12.5,29.1667
+Kazakhstan,E-Commerce,Oral Nicotine,Value,T3,1,1,0.2999997857144388,46.6667,14,32.6667
+Turkmenistan,E-Commerce,Cigarettes,Core,T3,1,1,0.2999997857144388,46.6667,14,32.6667
+Trinidad and Tobago,E-Commerce,Heated Tobacco,Premium,T3,1,3,0.2999998783783455,164.4444,49.3333,115.11110000000001
+Yemen,Key Accounts,Cigarettes,Core,T1,1,3,0.29999989655175985,32.22223333333333,9.666666666666666,22.555566666666664
+Uganda,Key Accounts,Heated Tobacco,Premium,T1,1,2,0.29999992105265233,126.6667,38,88.6667
+Uganda,E-Commerce,Oral Nicotine,Value,T3,1,2,0.29999993181819734,146.6667,44,102.66669999999999
+Zimbabwe,E-Commerce,Oral Nicotine,Core,T3,1,14,0.2999999330143477,149.2857,44.7857,104.5
+Lithuania,Key Accounts,Oral Nicotine,Core,T1,1,2,0.299999940000012,166.6667,50,116.66669999999999
+Uganda,Retail,Heated Tobacco,Core,T2,1,1,0.299999940000012,166.6667,50,116.66669999999999
+Zimbabwe,Retail,Oral Nicotine,Core,T2,1,1,0.299999940000012,166.6667,50,116.66669999999999
+Uganda,Key Accounts,Oral Nicotine,Premium,T1,1,1,0.2999999433962371,176.6667,53,123.66669999999999

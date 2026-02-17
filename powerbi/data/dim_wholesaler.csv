@@ -1,0 +1,409 @@
+"wholesaler_id","wholesaler_name","wholesaler_tier","country_id","primary_channel_id"
+1,"WH-Afghanistan-E-Commerce-7513","T3",122,2
+2,"WH-Afghanistan-Key Accounts-4826","T1",122,3
+3,"WH-Afghanistan-Retail-5442","T2",122,1
+4,"WH-Albania-Key Accounts-0595","T1",159,3
+5,"WH-Albania-Retail-8905","T2",159,1
+6,"WH-Albania-E-Commerce-1729","T3",159,2
+7,"WH-Algeria-E-Commerce-5081","T3",138,2
+8,"WH-Algeria-Key Accounts-7451","T1",138,3
+9,"WH-Algeria-Retail-3571","T2",138,1
+10,"WH-Angola-E-Commerce-4431","T3",114,2
+11,"WH-Angola-Key Accounts-4498","T1",114,3
+12,"WH-Angola-Retail-7550","T2",114,1
+13,"WH-Argentina-Retail-7876","T2",207,1
+14,"WH-Argentina-Key Accounts-2465","T1",207,3
+15,"WH-Argentina-E-Commerce-3073","T3",207,2
+16,"WH-Armenia-Retail-9925","T2",175,1
+17,"WH-Australia-E-Commerce-1434","T3",115,2
+18,"WH-Australia-Key Accounts-9517","T1",115,3
+19,"WH-Australia-Retail-9500","T2",115,1
+20,"WH-Austria-E-Commerce-3872","T3",69,2
+21,"WH-Austria-Key Accounts-4463","T1",69,3
+22,"WH-Austria-Retail-9635","T2",69,1
+23,"WH-Azerbaijan-Key Accounts-5015","T1",150,3
+24,"WH-Azerbaijan-Retail-6958","T2",150,1
+25,"WH-Bahrain-Key Accounts-7988","T1",152,3
+26,"WH-Bangladesh-E-Commerce-8149","T3",106,2
+27,"WH-Bangladesh-Key Accounts-1621","T1",106,3
+28,"WH-Bangladesh-Retail-0950","T2",106,1
+29,"WH-Barbados-Retail-3383","T2",170,1
+30,"WH-Barbados-E-Commerce-8787","T3",170,2
+31,"WH-Barbados-Key Accounts-7616","T1",170,3
+32,"WH-Belarus-E-Commerce-0386","T3",126,2
+33,"WH-Belarus-Key Accounts-0418","T1",126,3
+34,"WH-Belarus-Retail-3139","T2",126,1
+35,"WH-Belgium-E-Commerce-7081","T3",71,2
+36,"WH-Belgium-Key Accounts-2700","T1",71,3
+37,"WH-Belgium-Retail-8192","T2",71,1
+38,"WH-Benin-E-Commerce-0007","T3",139,2
+39,"WH-Benin-Key Accounts-4424","T1",139,3
+40,"WH-Benin-Retail-9155","T2",139,1
+41,"WH-Bolivia-E-Commerce-1670","T3",113,2
+42,"WH-Bolivia-Key Accounts-0154","T1",113,3
+43,"WH-Bolivia-Retail-5216","T2",113,1
+44,"WH-Bosnia and Herzegovina-Retail-6336","T2",169,1
+45,"WH-Bosnia and Herzegovina-E-Commerce-2754","T3",169,2
+46,"WH-Bosnia and Herzegovina-Key Accounts-1268","T1",169,3
+47,"WH-Brazil-E-Commerce-3175","T3",91,2
+48,"WH-Brazil-Key Accounts-5276","T1",91,3
+49,"WH-Brazil-Retail-6486","T2",91,1
+50,"WH-Bulgaria-E-Commerce-2001","T3",107,2
+51,"WH-Bulgaria-Key Accounts-1844","T1",107,3
+52,"WH-Bulgaria-Retail-5332","T2",107,1
+53,"WH-Burundi-Retail-7474","T2",180,1
+54,"WH-Cambodia-Key Accounts-7107","T1",149,3
+55,"WH-Cambodia-Retail-0604","T2",149,1
+56,"WH-Cambodia-E-Commerce-5146","T3",149,2
+57,"WH-Cameroon-E-Commerce-7391","T3",99,2
+58,"WH-Cameroon-Key Accounts-9203","T1",99,3
+59,"WH-Cameroon-Retail-8313","T2",99,1
+60,"WH-Canada-E-Commerce-1800","T3",103,2
+61,"WH-Canada-Key Accounts-2060","T1",103,3
+62,"WH-Canada-Retail-9955","T2",103,1
+63,"WH-Central African Republic-Key Accounts-2660","T1",166,3
+64,"WH-Central African Republic-Retail-3749","T2",166,1
+65,"WH-Chad-E-Commerce-1251","T3",104,2
+66,"WH-Chile-E-Commerce-7722","T3",100,2
+67,"WH-Chile-Key Accounts-5272","T1",100,3
+68,"WH-Chile-Retail-7733","T2",100,1
+69,"WH-China-E-Commerce-2235","T3",82,2
+70,"WH-China-Key Accounts-0036","T1",82,3
+71,"WH-China-Retail-5366","T2",82,1
+72,"WH-Colombia-E-Commerce-4243","T3",92,2
+73,"WH-Colombia-Key Accounts-5139","T1",92,3
+74,"WH-Colombia-Retail-9345","T2",92,1
+75,"WH-Cote d'Ivoire-E-Commerce-0765","T3",146,2
+76,"WH-Cote d'Ivoire-Key Accounts-9302","T1",146,3
+77,"WH-Cote d'Ivoire-Retail-7217","T2",146,1
+78,"WH-Croatia-E-Commerce-3295","T3",130,2
+79,"WH-Croatia-Key Accounts-7266","T1",130,3
+80,"WH-Croatia-Retail-6892","T2",130,1
+81,"WH-Cuba-E-Commerce-2721","T3",78,2
+82,"WH-Cuba-Key Accounts-8713","T1",78,3
+83,"WH-Cuba-Retail-1630","T2",78,1
+84,"WH-Czech Republic-E-Commerce-7244","T3",111,2
+85,"WH-Czech Republic-Key Accounts-5243","T1",111,3
+86,"WH-Czech Republic-Retail-3105","T2",111,1
+87,"WH-Democratic Republic of the Congo-E-Commerce-3375","T3",77,2
+88,"WH-Democratic Republic of the Congo-Key Accounts-5960","T1",77,3
+89,"WH-Democratic Republic of the Congo-Retail-3266","T2",77,1
+90,"WH-Denmark-Key Accounts-6637","T1",191,3
+91,"WH-Denmark-Retail-8876","T2",191,1
+92,"WH-Denmark-E-Commerce-7843","T3",191,2
+93,"WH-Djibouti-E-Commerce-9527","T3",108,2
+94,"WH-Djibouti-Retail-0821","T2",108,1
+95,"WH-Djibouti-Key Accounts-1643","T1",108,3
+96,"WH-Dominican Republic-E-Commerce-6420","T3",203,2
+97,"WH-Dominican Republic-Key Accounts-7581","T1",203,3
+98,"WH-Dominican Republic-Retail-1176","T2",203,1
+99,"WH-Ecuador-E-Commerce-1298","T3",120,2
+100,"WH-Ecuador-Retail-0391","T2",120,1
+101,"WH-Ecuador-Key Accounts-2718","T1",120,3
+102,"WH-Egypt-E-Commerce-7845","T3",94,2
+103,"WH-Egypt-Key Accounts-7886","T1",94,3
+104,"WH-Egypt-Retail-1130","T2",94,1
+105,"WH-El Salvador-E-Commerce-8489","T3",67,2
+106,"WH-El Salvador-Key Accounts-4945","T1",67,3
+107,"WH-El Salvador-Retail-3762","T2",67,1
+108,"WH-Equatorial Guinea-Retail-2588","T2",178,1
+109,"WH-Eritrea-Key Accounts-9998","T1",167,3
+110,"WH-Estonia-Key Accounts-0134","T1",158,3
+111,"WH-Estonia-Retail-9699","T2",158,1
+112,"WH-Ethiopia-E-Commerce-8981","T3",140,2
+113,"WH-Ethiopia-Retail-8958","T2",140,1
+114,"WH-Ethiopia-Key Accounts-0214","T1",140,3
+115,"WH-Finland-E-Commerce-0395","T3",121,2
+116,"WH-Finland-Key Accounts-5351","T1",121,3
+117,"WH-Finland-Retail-0083","T2",121,1
+118,"WH-France-E-Commerce-0870","T3",65,2
+119,"WH-France-Key Accounts-1273","T1",65,3
+120,"WH-France-Retail-2889","T2",65,1
+121,"WH-Gabon-Retail-4454","T2",174,1
+122,"WH-Gabon-Key Accounts-9641","T1",174,3
+123,"WH-Georgia-E-Commerce-1097","T3",128,2
+124,"WH-Georgia-Key Accounts-0916","T1",128,3
+125,"WH-Georgia-Retail-4333","T2",128,1
+126,"WH-Germany-E-Commerce-7120","T3",66,2
+127,"WH-Germany-Key Accounts-9983","T1",66,3
+128,"WH-Germany-Retail-7284","T2",66,1
+129,"WH-Ghana-E-Commerce-5500","T3",101,2
+130,"WH-Ghana-Key Accounts-6578","T1",101,3
+131,"WH-Ghana-Retail-0556","T2",101,1
+132,"WH-Guadeloupe-E-Commerce-2869","T3",143,2
+133,"WH-Guadeloupe-Retail-4669","T2",143,1
+134,"WH-Guatemala-E-Commerce-1925","T3",68,2
+135,"WH-Guatemala-Key Accounts-0485","T1",68,3
+136,"WH-Guatemala-Retail-2572","T2",68,1
+137,"WH-Guinea-Key Accounts-0503","T1",162,3
+138,"WH-Guinea-Retail-8319","T2",162,1
+139,"WH-Guinea-E-Commerce-1453","T3",162,2
+140,"WH-Guinea-Bissau-E-Commerce-9441","T3",133,2
+141,"WH-Guinea-Bissau-Retail-1216","T2",133,1
+142,"WH-Haiti-Key Accounts-0453","T1",204,3
+143,"WH-Haiti-Retail-0398","T2",204,1
+144,"WH-Haiti-E-Commerce-7385","T3",204,2
+145,"WH-Honduras-Key Accounts-9902","T1",206,3
+146,"WH-Honduras-E-Commerce-8471","T3",206,2
+147,"WH-Honduras-Retail-3926","T2",206,1
+148,"WH-Hong Kong-E-Commerce-1187","T3",76,2
+149,"WH-Hong Kong-Retail-0555","T2",76,1
+150,"WH-Hong Kong-Key Accounts-7392","T1",76,3
+151,"WH-Hungary-E-Commerce-5735","T3",119,2
+152,"WH-Hungary-Key Accounts-4023","T1",119,3
+153,"WH-Hungary-Retail-8570","T2",119,1
+154,"WH-India-E-Commerce-5837","T3",75,2
+155,"WH-India-Key Accounts-3673","T1",75,3
+156,"WH-India-Retail-7060","T2",75,1
+157,"WH-Indonesia-Key Accounts-6709","T1",202,3
+158,"WH-Indonesia-Retail-1703","T2",202,1
+159,"WH-Indonesia-E-Commerce-1936","T3",202,2
+160,"WH-Iran-E-Commerce-5944","T3",95,2
+161,"WH-Iran-Key Accounts-9597","T1",95,3
+162,"WH-Iran-Retail-4112","T2",95,1
+163,"WH-Iraq-E-Commerce-3386","T3",90,2
+164,"WH-Iraq-Key Accounts-3448","T1",90,3
+165,"WH-Iraq-Retail-6174","T2",90,1
+166,"WH-Ireland-Retail-8424","T2",192,1
+167,"WH-Ireland-Key Accounts-9149","T1",192,3
+168,"WH-Ireland-E-Commerce-9150","T3",192,2
+169,"WH-Israel-E-Commerce-8917","T3",131,2
+170,"WH-Israel-Key Accounts-9212","T1",131,3
+171,"WH-Israel-Retail-7439","T2",131,1
+172,"WH-Italy-E-Commerce-1153","T3",73,2
+173,"WH-Italy-Key Accounts-7080","T1",73,3
+174,"WH-Italy-Retail-5388","T2",73,1
+175,"WH-Jamaica-Key Accounts-7863","T1",148,3
+176,"WH-Jamaica-Retail-4445","T2",148,1
+177,"WH-Jamaica-E-Commerce-3879","T3",148,2
+178,"WH-Japan-E-Commerce-1873","T3",97,2
+179,"WH-Japan-Key Accounts-5217","T1",97,3
+180,"WH-Japan-Retail-6916","T2",97,1
+181,"WH-Jordan-E-Commerce-0419","T3",144,2
+182,"WH-Jordan-Key Accounts-0601","T1",144,3
+183,"WH-Jordan-Retail-9963","T2",144,1
+184,"WH-Kazakhstan-Key Accounts-6689","T1",184,3
+185,"WH-Kazakhstan-Retail-7548","T2",184,1
+186,"WH-Kazakhstan-E-Commerce-3078","T3",184,2
+187,"WH-Kenya-E-Commerce-4487","T3",105,2
+188,"WH-Kenya-Key Accounts-8437","T1",105,3
+189,"WH-Kenya-Retail-9110","T2",105,1
+190,"WH-Kyrgyzstan-E-Commerce-1491","T3",125,2
+191,"WH-Kyrgyzstan-Key Accounts-3153","T1",125,3
+192,"WH-Kyrgyzstan-Retail-6099","T2",125,1
+193,"WH-Lebanon-Retail-8854","T2",168,1
+194,"WH-Lebanon-E-Commerce-4613","T3",168,2
+195,"WH-Lebanon-Key Accounts-5158","T1",168,3
+196,"WH-Lesotho-Key Accounts-0631","T1",151,3
+197,"WH-Liberia-E-Commerce-9960","T3",132,2
+198,"WH-Liberia-Key Accounts-1160","T1",132,3
+199,"WH-Liberia-Retail-6723","T2",132,1
+200,"WH-Libya-E-Commerce-5094","T3",141,2
+201,"WH-Libya-Key Accounts-0027","T1",141,3
+202,"WH-Libya-Retail-4612","T2",141,1
+203,"WH-Lithuania-Key Accounts-9199","T1",185,3
+204,"WH-Lithuania-Retail-1447","T2",185,1
+205,"WH-Lithuania-E-Commerce-1988","T3",185,2
+206,"WH-Macedonia-E-Commerce-4812","T3",177,2
+207,"WH-Macedonia-Retail-3449","T2",177,1
+208,"WH-Madagascar-E-Commerce-0896","T3",89,2
+209,"WH-Madagascar-Retail-0890","T2",89,1
+210,"WH-Madagascar-Key Accounts-8160","T1",89,3
+211,"WH-Malaysia-E-Commerce-8268","T3",87,2
+212,"WH-Malaysia-Key Accounts-8517","T1",87,3
+213,"WH-Malaysia-Retail-4117","T2",87,1
+214,"WH-Mali-E-Commerce-1589","T3",137,2
+215,"WH-Mali-Key Accounts-1871","T1",137,3
+216,"WH-Mali-Retail-1189","T2",137,1
+217,"WH-Martinique-Key Accounts-6072","T1",157,3
+218,"WH-Martinique-Retail-7004","T2",157,1
+219,"WH-Martinique-E-Commerce-5682","T3",157,2
+220,"WH-Mauritania-Retail-6179","T2",172,1
+221,"WH-Mauritania-E-Commerce-0388","T3",172,2
+222,"WH-Mauritania-Key Accounts-3308","T1",172,3
+223,"WH-Mexico-E-Commerce-3321","T3",86,2
+224,"WH-Mexico-Key Accounts-1603","T1",86,3
+225,"WH-Mexico-Retail-8702","T2",86,1
+226,"WH-Moldova-Key Accounts-0333","T1",154,3
+227,"WH-Moldova-Retail-2777","T2",154,1
+228,"WH-Moldova-E-Commerce-3246","T3",154,2
+229,"WH-Mongolia-E-Commerce-2914","T3",127,2
+230,"WH-Mongolia-Key Accounts-9309","T1",127,3
+231,"WH-Mongolia-Retail-0648","T2",127,1
+232,"WH-Montenegro-Key Accounts-2997","T1",153,3
+233,"WH-Montenegro-Retail-9473","T2",153,1
+234,"WH-Morocco-E-Commerce-7033","T3",98,2
+235,"WH-Morocco-Key Accounts-2530","T1",98,3
+236,"WH-Morocco-Retail-2911","T2",98,1
+237,"WH-Mozambique-E-Commerce-6133","T3",142,2
+238,"WH-Mozambique-Key Accounts-1313","T1",142,3
+239,"WH-Mozambique-Retail-7410","T2",142,1
+240,"WH-Myanmar (Burma)-Key Accounts-7208","T1",199,3
+241,"WH-Myanmar (Burma)-Retail-8339","T2",199,1
+242,"WH-Myanmar (Burma)-E-Commerce-9915","T3",199,2
+243,"WH-Namibia-Key Accounts-6684","T1",164,3
+244,"WH-Namibia-Retail-4862","T2",164,1
+245,"WH-Nepal-Key Accounts-1181","T1",156,3
+246,"WH-Nepal-Retail-6256","T2",156,1
+247,"WH-Nepal-E-Commerce-4403","T3",156,2
+248,"WH-Netherlands-Retail-5653","T2",194,1
+249,"WH-Netherlands-Key Accounts-6017","T1",194,3
+250,"WH-Netherlands-E-Commerce-6953","T3",194,2
+251,"WH-New Zealand-E-Commerce-2662","T3",85,2
+252,"WH-New Zealand-Key Accounts-4555","T1",85,3
+253,"WH-New Zealand-Retail-6220","T2",85,1
+254,"WH-Nicaragua-E-Commerce-8762","T3",70,2
+255,"WH-Nicaragua-Key Accounts-0829","T1",70,3
+256,"WH-Nicaragua-Retail-4821","T2",70,1
+257,"WH-Niger-E-Commerce-7219","T3",83,2
+258,"WH-Niger-Key Accounts-8720","T1",83,3
+259,"WH-Niger-Retail-5306","T2",83,1
+260,"WH-Nigeria-Retail-8587","T2",182,1
+261,"WH-Nigeria-Key Accounts-9669","T1",182,3
+262,"WH-Nigeria-E-Commerce-6575","T3",182,2
+263,"WH-Norway-E-Commerce-6801","T3",117,2
+264,"WH-Norway-Key Accounts-2113","T1",117,3
+265,"WH-Norway-Retail-8161","T2",117,1
+266,"WH-Pakistan-Retail-2857","T2",196,1
+267,"WH-Pakistan-Key Accounts-0326","T1",196,3
+268,"WH-Pakistan-E-Commerce-5353","T3",196,2
+269,"WH-Panama-Key Accounts-9077","T1",205,3
+270,"WH-Panama-E-Commerce-2466","T3",205,2
+271,"WH-Panama-Retail-6065","T2",205,1
+272,"WH-Papua New Guinea-Retail-1556","T2",197,1
+273,"WH-Papua New Guinea-Key Accounts-0408","T1",197,3
+274,"WH-Papua New Guinea-E-Commerce-4647","T3",197,2
+275,"WH-Paraguay-Retail-8817","T2",171,1
+276,"WH-Paraguay-E-Commerce-4817","T3",171,2
+277,"WH-Paraguay-Key Accounts-0094","T1",171,3
+278,"WH-Peru-Retail-9404","T2",208,1
+279,"WH-Peru-Key Accounts-3912","T1",208,3
+280,"WH-Peru-E-Commerce-5457","T3",208,2
+281,"WH-Philippines-Retail-1506","T2",201,1
+282,"WH-Philippines-Key Accounts-5136","T1",201,3
+283,"WH-Philippines-E-Commerce-3498","T3",201,2
+284,"WH-Poland-E-Commerce-4719","T3",88,2
+285,"WH-Poland-Key Accounts-8455","T1",88,3
+286,"WH-Poland-Retail-4254","T2",88,1
+287,"WH-Portugal-Key Accounts-4706","T1",193,3
+288,"WH-Portugal-Retail-5353","T2",193,1
+289,"WH-Portugal-E-Commerce-1163","T3",193,2
+290,"WH-Qatar-E-Commerce-6117","T3",84,2
+291,"WH-Qatar-Retail-0207","T2",84,1
+292,"WH-Qatar-Key Accounts-1611","T1",84,3
+293,"WH-Republic of the Congo-Key Accounts-3364","T1",163,3
+294,"WH-Republic of the Congo-Retail-6909","T2",163,1
+295,"WH-Romania-E-Commerce-5128","T3",124,2
+296,"WH-Romania-Key Accounts-5978","T1",124,3
+297,"WH-Romania-Retail-4653","T2",124,1
+298,"WH-Russia-E-Commerce-4839","T3",81,2
+299,"WH-Russia-Key Accounts-2393","T1",81,3
+300,"WH-Russia-Retail-6179","T2",81,1
+301,"WH-Rwanda-Key Accounts-1423","T1",155,3
+302,"WH-Rwanda-Retail-5122","T2",155,1
+303,"WH-Rwanda-E-Commerce-5124","T3",155,2
+304,"WH-Saudi Arabia-E-Commerce-5637","T3",93,2
+305,"WH-Saudi Arabia-Key Accounts-2989","T1",93,3
+306,"WH-Saudi Arabia-Retail-0281","T2",93,1
+307,"WH-Senegal-E-Commerce-7854","T3",135,2
+308,"WH-Senegal-Key Accounts-2068","T1",135,3
+309,"WH-Senegal-Retail-8658","T2",135,1
+310,"WH-Sierra Leone-E-Commerce-2133","T3",118,2
+311,"WH-Sierra Leone-Retail-9859","T2",118,1
+312,"WH-Sierra Leone-Key Accounts-8381","T1",118,3
+313,"WH-Singapore-E-Commerce-8487","T3",110,2
+314,"WH-Singapore-Key Accounts-0171","T1",110,3
+315,"WH-Singapore-Retail-3889","T2",110,1
+316,"WH-Slovakia-Key Accounts-2228","T1",160,3
+317,"WH-Slovakia-Retail-5966","T2",160,1
+318,"WH-Slovenia-Key Accounts-3306","T1",176,3
+319,"WH-Slovenia-Retail-4024","T2",176,1
+320,"WH-Somalia-E-Commerce-2179","T3",134,2
+321,"WH-Somalia-Key Accounts-8367","T1",134,3
+322,"WH-Somalia-Retail-3570","T2",134,1
+323,"WH-South Africa-E-Commerce-2044","T3",74,2
+324,"WH-South Africa-Key Accounts-9083","T1",74,3
+325,"WH-South Africa-Retail-3726","T2",74,1
+326,"WH-South Korea-Retail-3865","T2",195,1
+327,"WH-South Korea-E-Commerce-4506","T3",195,2
+328,"WH-South Korea-Key Accounts-9957","T1",195,3
+329,"WH-South Sudan-Key Accounts-0734","T1",179,3
+330,"WH-South Sudan-E-Commerce-6897","T3",179,2
+331,"WH-Spain-E-Commerce-3817","T3",80,2
+332,"WH-Spain-Key Accounts-2119","T1",80,3
+333,"WH-Spain-Retail-0049","T2",80,1
+334,"WH-Sri Lanka-Key Accounts-7857","T1",165,3
+335,"WH-Sri Lanka-E-Commerce-9155","T3",165,2
+336,"WH-Sudan-Key Accounts-3364","T1",161,3
+337,"WH-Sudan-Retail-8485","T2",161,1
+338,"WH-Sudan-E-Commerce-3410","T3",161,2
+339,"WH-Swaziland-Retail-1127","T2",173,1
+340,"WH-Swaziland-E-Commerce-4676","T3",173,2
+341,"WH-Sweden-Key Accounts-2814","T1",190,3
+342,"WH-Sweden-Retail-7994","T2",190,1
+343,"WH-Sweden-E-Commerce-1981","T3",190,2
+344,"WH-Switzerland-E-Commerce-8847","T3",72,2
+345,"WH-Switzerland-Key Accounts-6822","T1",72,3
+346,"WH-Switzerland-Retail-8199","T2",72,1
+347,"WH-Syria-E-Commerce-5167","T3",129,2
+348,"WH-Syria-Key Accounts-4246","T1",129,3
+349,"WH-Syria-Retail-3392","T2",129,1
+350,"WH-Taiwan-Key Accounts-7960","T1",147,3
+351,"WH-Taiwan-Retail-4359","T2",147,1
+352,"WH-Tajikistan-Retail-3350","T2",210,1
+353,"WH-Tanzania-E-Commerce-5997","T3",116,2
+354,"WH-Tanzania-Key Accounts-7692","T1",116,3
+355,"WH-Tanzania-Retail-2241","T2",116,1
+356,"WH-Thailand-Key Accounts-2688","T1",198,3
+357,"WH-Thailand-Retail-8090","T2",198,1
+358,"WH-Thailand-E-Commerce-9079","T3",198,2
+359,"WH-Togo-E-Commerce-6494","T3",145,2
+360,"WH-Togo-Key Accounts-8643","T1",145,3
+361,"WH-Togo-Retail-1092","T2",145,1
+362,"WH-Trinidad and Tobago-E-Commerce-7847","T3",102,2
+363,"WH-Trinidad and Tobago-Key Accounts-0131","T1",102,3
+364,"WH-Trinidad and Tobago-Retail-1112","T2",102,1
+365,"WH-Tunisia-E-Commerce-7646","T3",136,2
+366,"WH-Tunisia-Retail-6595","T2",136,1
+367,"WH-Tunisia-Key Accounts-4320","T1",136,3
+368,"WH-Turkey-E-Commerce-7484","T3",181,2
+369,"WH-Turkey-Retail-1256","T2",181,1
+370,"WH-Turkey-Key Accounts-0826","T1",181,3
+371,"WH-Turkmenistan-Retail-1890","T2",183,1
+372,"WH-Turkmenistan-E-Commerce-9290","T3",183,2
+373,"WH-Turkmenistan-Key Accounts-8684","T1",183,3
+374,"WH-Uganda-Key Accounts-9199","T1",187,3
+375,"WH-Uganda-E-Commerce-0344","T3",187,2
+376,"WH-Uganda-Retail-3023","T2",187,1
+377,"WH-Ukraine-E-Commerce-7760","T3",96,2
+378,"WH-Ukraine-Key Accounts-1893","T1",96,3
+379,"WH-Ukraine-Retail-7751","T2",96,1
+380,"WH-United Arab Emirates-Retail-8101","T2",189,1
+381,"WH-United Arab Emirates-Key Accounts-8737","T1",189,3
+382,"WH-United Kingdom-E-Commerce-0471","T3",79,2
+383,"WH-United Kingdom-Key Accounts-5739","T1",79,3
+384,"WH-United Kingdom-Retail-9910","T2",79,1
+385,"WH-United States-Retail-2602","T2",64,1
+386,"WH-United States-E-Commerce-5538","T3",64,2
+387,"WH-United States-Key Accounts-7900","T1",64,3
+388,"WH-Uruguay-E-Commerce-6736","T3",109,2
+389,"WH-Uruguay-Retail-8552","T2",109,1
+390,"WH-Uruguay-Key Accounts-8103","T1",109,3
+391,"WH-Uzbekistan-E-Commerce-8335","T3",123,2
+392,"WH-Uzbekistan-Key Accounts-3617","T1",123,3
+393,"WH-Uzbekistan-Retail-5605","T2",123,1
+394,"WH-Venezuela-E-Commerce-1050","T3",209,2
+395,"WH-Venezuela-Key Accounts-5888","T1",209,3
+396,"WH-Venezuela-Retail-4338","T2",209,1
+397,"WH-Vietnam-Key Accounts-3793","T1",200,3
+398,"WH-Vietnam-E-Commerce-2943","T3",200,2
+399,"WH-Vietnam-Retail-5875","T2",200,1
+400,"WH-Yemen-Key Accounts-8414","T1",186,3
+401,"WH-Yemen-Retail-5195","T2",186,1
+402,"WH-Yemen-E-Commerce-7591","T3",186,2
+403,"WH-Zambia-E-Commerce-3520","T3",112,2
+404,"WH-Zambia-Key Accounts-1272","T1",112,3
+405,"WH-Zambia-Retail-7589","T2",112,1
+406,"WH-Zimbabwe-Retail-9282","T2",188,1
+407,"WH-Zimbabwe-Key Accounts-8530","T1",188,3
+408,"WH-Zimbabwe-E-Commerce-3162","T3",188,2

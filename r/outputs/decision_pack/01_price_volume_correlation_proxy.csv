@@ -1,0 +1,2722 @@
+operating_country,channel_name,pmi_product_family,brand_tier,weeks,corr_price_volume,corr_price_netrev
+Cuba,Key Accounts,Oral Nicotine,Value,16,-0.758915509,0.569562317
+South Africa,Retail,Oral Nicotine,Value,10,-0.602017448,0.820682453
+Italy,Key Accounts,Oral Nicotine,Core,14,-0.52896361,0.818107252
+Guatemala,E-Commerce,Oral Nicotine,Value,10,-0.51059939,0.484990223
+Cameroon,Key Accounts,Cigarettes,Premium,10,-0.485173955,0.766536703
+Dominican Republic,E-Commerce,Oral Nicotine,Core,18,-0.481962237,0.582427082
+Spain,Key Accounts,Oral Nicotine,Core,12,-0.464761287,0.656483419
+Belarus,Retail,Cigarettes,Value,12,-0.464280528,0.785272468
+Colombia,Retail,Oral Nicotine,Core,10,-0.457715532,0.326633805
+Thailand,Retail,Heated Tobacco,Value,13,-0.453346236,0.761806223
+Panama,Key Accounts,Heated Tobacco,Value,14,-0.444899682,0.88459416
+Bangladesh,Retail,Cigarettes,Value,12,-0.441840927,-0.113133189
+Colombia,E-Commerce,Cigarettes,Core,14,-0.437424468,0.645278272
+Russia,Key Accounts,Oral Nicotine,Core,10,-0.431737413,0.717013038
+Vietnam,Retail,Oral Nicotine,Value,11,-0.428612299,0.723529199
+Thailand,Retail,Oral Nicotine,Core,11,-0.422484677,0.035970225
+Russia,Retail,Heated Tobacco,Premium,12,-0.421502697,0.153777773
+Indonesia,E-Commerce,Oral Nicotine,Premium,12,-0.420364014,0.583504681
+Iraq,Retail,Heated Tobacco,Premium,13,-0.417973984,0.32125426
+Vietnam,E-Commerce,Cigarettes,Core,12,-0.416385037,0.690832691
+Austria,Key Accounts,Cigarettes,Premium,17,-0.416301388,0.913317307
+Philippines,Key Accounts,Oral Nicotine,Value,10,-0.410021813,0.873967961
+Brazil,Key Accounts,Oral Nicotine,Core,30,-0.405177949,0.78114225
+Malaysia,Retail,Cigarettes,Premium,13,-0.403938999,-0.166575126
+Cuba,Key Accounts,Heated Tobacco,Premium,15,-0.40126798,0.514198156
+Guatemala,Retail,Heated Tobacco,Premium,16,-0.391080164,0.606202533
+Morocco,Retail,Oral Nicotine,Value,10,-0.386922101,0.613943362
+Democratic Republic of the Congo,Key Accounts,Cigarettes,Value,19,-0.384966901,0.727872605
+Thailand,Retail,Oral Nicotine,Value,10,-0.380395294,0.293523965
+Dominican Republic,Key Accounts,Oral Nicotine,Premium,12,-0.376723991,0.652933271
+Colombia,Retail,Oral Nicotine,Premium,13,-0.376605145,0.825874251
+Thailand,E-Commerce,Cigarettes,Value,12,-0.373124507,0.941824823
+Ukraine,Retail,Oral Nicotine,Premium,11,-0.370133204,0.867668646
+Kazakhstan,Retail,Cigarettes,Premium,12,-0.369162031,0.814606858
+El Salvador,Retail,Heated Tobacco,Premium,19,-0.359069062,0.865243024
+China,E-Commerce,Oral Nicotine,Premium,23,-0.356090985,0.425653465
+El Salvador,Key Accounts,Oral Nicotine,Premium,14,-0.354690748,0.768041819
+Philippines,E-Commerce,Cigarettes,Core,21,-0.353823979,0.586794997
+El Salvador,Retail,Heated Tobacco,Core,24,-0.350828348,0.252183601
+Spain,Key Accounts,Heated Tobacco,Value,20,-0.348833392,0.311855232
+Argentina,Retail,Cigarettes,Value,30,-0.340298869,0.87905715
+Romania,Retail,Cigarettes,Premium,13,-0.332592229,0.794506184
+Dominican Republic,Key Accounts,Heated Tobacco,Core,16,-0.331404437,0.528260909
+Cuba,Retail,Heated Tobacco,Premium,19,-0.324870134,0.79758391
+United Kingdom,E-Commerce,Oral Nicotine,Value,17,-0.324082557,0.891752845
+Germany,Retail,Heated Tobacco,Premium,56,-0.322543031,0.658754992
+Argentina,Retail,Heated Tobacco,Core,20,-0.321153017,0.746536081
+New Zealand,Key Accounts,Heated Tobacco,Core,15,-0.318929011,0.897085779
+Germany,E-Commerce,Heated Tobacco,Premium,17,-0.318684616,0.476927701
+Egypt,E-Commerce,Cigarettes,Premium,15,-0.318351149,0.835750404
+Dominican Republic,Retail,Oral Nicotine,Core,20,-0.317795977,0.770054485
+Indonesia,Retail,Oral Nicotine,Core,46,-0.3174785,0.715256847
+United Kingdom,E-Commerce,Heated Tobacco,Premium,18,-0.314608597,0.483071877
+Austria,Retail,Heated Tobacco,Value,10,-0.314238343,0.719078366
+Ukraine,Key Accounts,Cigarettes,Core,22,-0.313007496,0.463352893
+Nigeria,E-Commerce,Heated Tobacco,Core,11,-0.308290079,0.008481813
+France,E-Commerce,Oral Nicotine,Value,14,-0.304084116,0.807413617
+Chile,Retail,Cigarettes,Core,10,-0.302779376,0.941556527
+Egypt,Key Accounts,Cigarettes,Premium,20,-0.299713538,0.501133533
+Algeria,Key Accounts,Cigarettes,Premium,11,-0.298384402,0.668818116
+Sweden,Key Accounts,Cigarettes,Value,15,-0.294236707,0.570168652
+Honduras,Retail,Oral Nicotine,Value,17,-0.294150117,0.437822799
+El Salvador,Key Accounts,Heated Tobacco,Premium,11,-0.293154754,0.696826785
+Brazil,Key Accounts,Heated Tobacco,Premium,22,-0.289343874,0.673062493
+Democratic Republic of the Congo,Key Accounts,Cigarettes,Premium,17,-0.287998691,0.165590906
+Belgium,Retail,Cigarettes,Core,10,-0.28679722,0.746119354
+Mexico,E-Commerce,Oral Nicotine,Value,25,-0.283542096,0.60387974
+Democratic Republic of the Congo,E-Commerce,Cigarettes,Value,15,-0.283055077,0.479910549
+Canada,E-Commerce,Cigarettes,Premium,12,-0.282609299,0.380306251
+Nigeria,Retail,Oral Nicotine,Value,19,-0.27965503,0.872472996
+Bulgaria,Retail,Cigarettes,Premium,10,-0.278500636,0.050213675
+Iraq,E-Commerce,Cigarettes,Premium,13,-0.277514759,0.949791418
+Egypt,Retail,Oral Nicotine,Premium,14,-0.276682782,0.188251356
+Turkey,Retail,Heated Tobacco,Value,30,-0.275598549,0.304000748
+Philippines,Key Accounts,Heated Tobacco,Value,19,-0.274844542,0.834236915
+Nicaragua,Key Accounts,Cigarettes,Core,26,-0.274599626,0.906261963
+Iran,Key Accounts,Heated Tobacco,Core,14,-0.269065918,0.372410324
+Turkey,Retail,Oral Nicotine,Premium,22,-0.268687013,0.500019617
+Turkey,E-Commerce,Heated Tobacco,Premium,17,-0.268640039,0.406706266
+Philippines,Retail,Heated Tobacco,Value,29,-0.268356596,0.832757403
+Australia,E-Commerce,Heated Tobacco,Value,28,-0.265745144,0.691241909
+Romania,Retail,Cigarettes,Core,11,-0.264845673,0.302436916
+Vietnam,Retail,Heated Tobacco,Value,13,-0.264667704,0.912005335
+Spain,Key Accounts,Oral Nicotine,Premium,12,-0.262570409,0.909406678
+United Kingdom,Key Accounts,Heated Tobacco,Premium,32,-0.261786972,0.682568204
+Iran,E-Commerce,Cigarettes,Value,14,-0.261019798,0.809538416
+Bangladesh,Retail,Cigarettes,Core,16,-0.260945168,0.453109329
+Democratic Republic of the Congo,Key Accounts,Cigarettes,Core,13,-0.257742468,0.851557316
+South Africa,Retail,Heated Tobacco,Premium,14,-0.256849397,0.73605967
+Honduras,Key Accounts,Cigarettes,Core,30,-0.254444982,0.934716639
+Netherlands,E-Commerce,Cigarettes,Premium,15,-0.253924582,0.805728324
+Spain,E-Commerce,Oral Nicotine,Premium,11,-0.251841233,0.6392758
+Myanmar (Burma),Retail,Cigarettes,Value,16,-0.251746851,0.685862336
+Egypt,Retail,Oral Nicotine,Value,14,-0.251566268,0.786633961
+Cuba,Retail,Heated Tobacco,Value,22,-0.25030454,0.416041585
+Brazil,Key Accounts,Oral Nicotine,Value,36,-0.250170325,0.770643511
+Cuba,Key Accounts,Oral Nicotine,Core,18,-0.248159369,0.532240352
+Nigeria,Key Accounts,Heated Tobacco,Premium,17,-0.245940919,0.222407179
+Germany,E-Commerce,Oral Nicotine,Value,18,-0.245592233,0.799040039
+Tanzania,Key Accounts,Cigarettes,Premium,10,-0.2440421,0.695198941
+Egypt,Key Accounts,Cigarettes,Value,20,-0.243913161,0.862073603
+Saudi Arabia,Key Accounts,Cigarettes,Core,19,-0.243594456,0.703068814
+Sweden,Retail,Cigarettes,Premium,17,-0.243126046,0.805965964
+Italy,Key Accounts,Heated Tobacco,Core,24,-0.24275051,0.622207187
+China,E-Commerce,Heated Tobacco,Value,23,-0.240473963,0.678614525
+Iran,Retail,Heated Tobacco,Core,21,-0.239044802,0.278143421
+United Kingdom,Key Accounts,Oral Nicotine,Core,14,-0.237631261,0.613826468
+Pakistan,Retail,Oral Nicotine,Core,12,-0.237254139,0.674757019
+Nicaragua,Key Accounts,Oral Nicotine,Premium,12,-0.237098765,0.740206899
+Brazil,E-Commerce,Oral Nicotine,Premium,20,-0.236436836,0.700687051
+Canada,E-Commerce,Cigarettes,Core,15,-0.235395461,0.863229165
+Honduras,Key Accounts,Cigarettes,Premium,21,-0.235113402,0.495304479
+Senegal,Retail,Cigarettes,Value,12,-0.234795825,0.949448532
+Vietnam,Retail,Cigarettes,Core,23,-0.234360302,0.969310134
+Panama,Retail,Heated Tobacco,Core,15,-0.234168375,0.524631366
+Venezuela,Retail,Cigarettes,Value,19,-0.233221541,0.792878742
+Austria,Key Accounts,Cigarettes,Value,15,-0.232907473,0.923653023
+Morocco,E-Commerce,Cigarettes,Core,18,-0.232264741,0.570200387
+El Salvador,Retail,Oral Nicotine,Value,24,-0.231013435,0.661348469
+Egypt,Key Accounts,Cigarettes,Core,23,-0.229242048,0.331962715
+Colombia,Key Accounts,Cigarettes,Value,19,-0.22909295,0.553635551
+Democratic Republic of the Congo,Retail,Heated Tobacco,Value,18,-0.228791172,0.350625054
+Iraq,E-Commerce,Cigarettes,Value,16,-0.227870818,0.6035589
+Turkey,Key Accounts,Heated Tobacco,Value,26,-0.227021413,0.286615154
+New Zealand,Key Accounts,Cigarettes,Value,31,-0.226323918,0.610782078
+Philippines,E-Commerce,Cigarettes,Value,20,-0.226048309,0.502765431
+Egypt,E-Commerce,Cigarettes,Core,21,-0.225629411,0.850667717
+New Zealand,Retail,Cigarettes,Premium,39,-0.223215323,0.390998097
+Brazil,E-Commerce,Heated Tobacco,Premium,14,-0.222986809,0.938590784
+Ukraine,Retail,Heated Tobacco,Premium,16,-0.222271806,0.457479326
+Ukraine,E-Commerce,Cigarettes,Value,12,-0.220940855,0.667765265
+El Salvador,Key Accounts,Cigarettes,Core,28,-0.216268364,0.915723403
+Turkey,Retail,Heated Tobacco,Premium,40,-0.215274423,0.452071398
+Angola,Retail,Cigarettes,Value,14,-0.214942835,0.615629071
+South Africa,Key Accounts,Cigarettes,Value,19,-0.213967131,0.861339571
+Malaysia,Retail,Cigarettes,Value,12,-0.213132533,0.965631593
+Canada,Retail,Heated Tobacco,Core,11,-0.211387527,0.304967184
+South Africa,Retail,Cigarettes,Premium,33,-0.210760999,0.420588666
+Nigeria,Retail,Heated Tobacco,Value,20,-0.210617867,0.420811661
+Ghana,Retail,Cigarettes,Value,10,-0.210533743,0.644042477
+South Africa,Retail,Oral Nicotine,Core,11,-0.21039211,0.184062498
+Brazil,Retail,Oral Nicotine,Core,46,-0.207403851,0.599448295
+Iran,Retail,Cigarettes,Value,54,-0.206938387,0.680024047
+France,Retail,Oral Nicotine,Premium,72,-0.206881191,0.665205159
+Russia,Retail,Cigarettes,Premium,29,-0.205699057,0.826979963
+Nigeria,Key Accounts,Heated Tobacco,Core,19,-0.205662072,0.457196468
+Indonesia,Key Accounts,Oral Nicotine,Core,35,-0.205422877,0.487735394
+Panama,Key Accounts,Cigarettes,Premium,19,-0.205327448,0.863030824
+South Africa,E-Commerce,Cigarettes,Core,11,-0.204551157,0.87988346
+Germany,Key Accounts,Oral Nicotine,Core,24,-0.204073312,0.739333283
+Italy,Key Accounts,Heated Tobacco,Value,15,-0.202091898,0.666366152
+Germany,Retail,Oral Nicotine,Premium,59,-0.20111918,0.516703157
+Iraq,Retail,Heated Tobacco,Core,13,-0.200105624,0.589321651
+Argentina,Retail,Oral Nicotine,Value,14,-0.200092739,0.483303351
+Pakistan,Retail,Cigarettes,Value,13,-0.200029785,0.471235955
+Philippines,Key Accounts,Oral Nicotine,Core,10,-0.197820228,0.823795975
+Dominican Republic,Retail,Oral Nicotine,Value,26,-0.19768257,0.694252283
+Guatemala,E-Commerce,Cigarettes,Premium,14,-0.197245906,0.956539003
+Panama,E-Commerce,Cigarettes,Core,10,-0.197245615,0.863194852
+Romania,Retail,Heated Tobacco,Premium,10,-0.197156299,0.093528294
+Indonesia,Retail,Heated Tobacco,Core,39,-0.196685169,0.597847399
+Spain,Key Accounts,Oral Nicotine,Value,17,-0.194912102,0.689201333
+Indonesia,E-Commerce,Oral Nicotine,Core,12,-0.191346984,0.698232982
+China,Key Accounts,Heated Tobacco,Value,34,-0.191023101,0.561253912
+Colombia,Key Accounts,Cigarettes,Premium,12,-0.189972529,0.787903084
+China,Retail,Heated Tobacco,Premium,56,-0.18781606,0.606090521
+South Africa,Key Accounts,Oral Nicotine,Core,10,-0.186925524,0.244592594
+Iraq,Retail,Oral Nicotine,Premium,10,-0.186486624,0.930977112
+Panama,Retail,Cigarettes,Premium,32,-0.186408188,0.892010126
+Austria,E-Commerce,Cigarettes,Premium,10,-0.185238428,0.791521676
+Brazil,Key Accounts,Heated Tobacco,Value,28,-0.184652082,0.624008333
+Pakistan,Retail,Heated Tobacco,Core,10,-0.182257767,0.472807516
+Austria,Retail,Cigarettes,Premium,27,-0.182190458,0.559373408
+Philippines,Retail,Oral Nicotine,Value,29,-0.182065328,0.614613786
+New Zealand,Key Accounts,Oral Nicotine,Value,12,-0.181121606,0.510337093
+India,Key Accounts,Heated Tobacco,Value,26,-0.181055451,0.795440066
+Indonesia,Key Accounts,Heated Tobacco,Premium,17,-0.180682388,0.719380798
+South Africa,E-Commerce,Cigarettes,Value,19,-0.179939313,0.619942455
+Nicaragua,Key Accounts,Oral Nicotine,Core,19,-0.179091478,0.5954165
+El Salvador,E-Commerce,Cigarettes,Value,14,-0.178970859,0.360159314
+Romania,Key Accounts,Cigarettes,Core,13,-0.17836427,0.614724299
+Italy,E-Commerce,Cigarettes,Value,32,-0.177237607,0.947114041
+India,Retail,Heated Tobacco,Core,46,-0.176530129,0.655915697
+Colombia,Retail,Oral Nicotine,Value,17,-0.176421531,0.796698652
+Indonesia,E-Commerce,Cigarettes,Core,30,-0.175363231,0.933186161
+Mozambique,Retail,Cigarettes,Premium,11,-0.174032705,0.531256129
+Spain,Retail,Cigarettes,Core,59,-0.173994339,0.737947528
+Dominican Republic,Key Accounts,Cigarettes,Core,23,-0.173374509,0.983497956
+Morocco,Retail,Heated Tobacco,Value,11,-0.173314946,0.199157403
+New Zealand,E-Commerce,Cigarettes,Core,19,-0.173154978,0.880862694
+South Africa,Retail,Cigarettes,Core,33,-0.172979229,0.666092251
+Thailand,Retail,Heated Tobacco,Core,10,-0.17292716,0.501568442
+China,E-Commerce,Cigarettes,Core,44,-0.172926433,0.792636647
+Iraq,Retail,Cigarettes,Core,35,-0.172745479,0.625767878
+Iran,Key Accounts,Cigarettes,Premium,34,-0.171535453,0.734625641
+Germany,Retail,Cigarettes,Value,125,-0.171513651,0.625314078
+China,E-Commerce,Cigarettes,Premium,44,-0.170790991,0.829369688
+Peru,Retail,Cigarettes,Core,12,-0.170603991,0.994435065
+Saudi Arabia,Key Accounts,Cigarettes,Value,21,-0.170545276,0.630717005
+Thailand,Retail,Cigarettes,Core,23,-0.170467847,0.485433525
+Cuba,Key Accounts,Cigarettes,Premium,33,-0.168059387,0.746802813
+New Zealand,E-Commerce,Oral Nicotine,Premium,13,-0.16692284,0.555983292
+Mexico,E-Commerce,Oral Nicotine,Core,31,-0.16576123,0.736228563
+Thailand,Retail,Cigarettes,Value,16,-0.165568632,0.963072712
+Honduras,Retail,Cigarettes,Value,52,-0.164689469,0.600167501
+Colombia,Key Accounts,Cigarettes,Core,18,-0.164252399,0.688000667
+Turkey,Key Accounts,Oral Nicotine,Core,19,-0.16388904,0.633862704
+Poland,Retail,Cigarettes,Premium,18,-0.163806799,0.78329106
+United States,Key Accounts,Heated Tobacco,Value,108,-0.160998578,0.685936073
+South Africa,Key Accounts,Heated Tobacco,Core,15,-0.160916881,0.559898528
+Canada,Key Accounts,Cigarettes,Premium,19,-0.160508375,0.578348704
+Poland,Retail,Cigarettes,Core,15,-0.158494851,0.638056727
+Saudi Arabia,Key Accounts,Cigarettes,Premium,25,-0.157920977,0.772166874
+United Kingdom,Key Accounts,Oral Nicotine,Premium,27,-0.157824338,0.830658244
+Brazil,Key Accounts,Cigarettes,Value,65,-0.156690353,0.710970025
+Guatemala,E-Commerce,Oral Nicotine,Premium,12,-0.156690031,0.852876028
+Spain,Retail,Heated Tobacco,Premium,21,-0.154479432,0.518555338
+Nicaragua,Retail,Heated Tobacco,Core,17,-0.151617539,0.783298902
+Venezuela,Retail,Cigarettes,Core,18,-0.150227732,0.959797488
+Austria,E-Commerce,Cigarettes,Core,14,-0.149300105,0.397127153
+Belgium,Retail,Cigarettes,Value,12,-0.149078338,0.674267371
+Cuba,E-Commerce,Cigarettes,Value,22,-0.14840396,0.595420709
+New Zealand,Key Accounts,Heated Tobacco,Value,11,-0.146431202,0.723427944
+Iraq,Key Accounts,Cigarettes,Core,18,-0.14601882,0.708217739
+France,Retail,Heated Tobacco,Value,62,-0.1456244,0.660359977
+Brazil,Retail,Oral Nicotine,Value,60,-0.145284564,0.770417759
+Mexico,E-Commerce,Oral Nicotine,Premium,21,-0.145247262,0.504337671
+China,Key Accounts,Cigarettes,Value,66,-0.144988866,0.69558337
+Iraq,Key Accounts,Cigarettes,Value,21,-0.144389521,0.885455621
+New Zealand,Key Accounts,Heated Tobacco,Premium,16,-0.142896667,0.55725139
+Poland,Retail,Cigarettes,Value,25,-0.142258654,0.707194993
+Honduras,Key Accounts,Cigarettes,Value,21,-0.141852424,0.811700156
+Iran,Retail,Oral Nicotine,Premium,15,-0.141294298,0.699068043
+Brazil,Retail,Oral Nicotine,Premium,49,-0.141210174,0.548070827
+Turkey,Retail,Oral Nicotine,Value,29,-0.141037976,0.41381298
+Honduras,Retail,Cigarettes,Core,44,-0.139895967,0.554144787
+Turkey,Key Accounts,Cigarettes,Premium,55,-0.137853842,0.669091836
+Brazil,E-Commerce,Cigarettes,Core,43,-0.137623309,0.787967461
+Guatemala,Key Accounts,Cigarettes,Value,21,-0.136592394,0.880747446
+Peru,Retail,Cigarettes,Premium,14,-0.131487415,0.941335668
+Nigeria,Retail,Heated Tobacco,Premium,33,-0.131448626,0.477619595
+Chile,Retail,Cigarettes,Value,18,-0.131428149,0.946919223
+Netherlands,Key Accounts,Cigarettes,Value,24,-0.130051558,0.902471607
+Guatemala,Key Accounts,Cigarettes,Core,17,-0.129503678,0.9021053
+Honduras,E-Commerce,Cigarettes,Premium,28,-0.129268575,0.639271549
+Vietnam,Retail,Oral Nicotine,Core,11,-0.128961959,0.366940545
+Morocco,Retail,Oral Nicotine,Premium,10,-0.127928428,0.911617267
+Australia,Key Accounts,Oral Nicotine,Premium,41,-0.12673372,0.698090817
+Mexico,E-Commerce,Cigarettes,Premium,58,-0.126247618,0.889199505
+Italy,E-Commerce,Heated Tobacco,Premium,11,-0.125935044,0.520294219
+Japan,Key Accounts,Cigarettes,Core,11,-0.125383327,0.834928991
+Argentina,Key Accounts,Cigarettes,Premium,14,-0.125291296,0.638985231
+United Kingdom,Retail,Cigarettes,Value,116,-0.123804837,0.74425816
+Colombia,Retail,Cigarettes,Core,22,-0.123082141,0.475285361
+Turkey,Key Accounts,Cigarettes,Value,66,-0.122262721,0.628403927
+Italy,Retail,Oral Nicotine,Core,19,-0.121352174,0.779071922
+Morocco,Retail,Cigarettes,Core,39,-0.121232207,0.646260404
+Turkey,Retail,Heated Tobacco,Core,39,-0.12071403,0.372727383
+Iran,Retail,Heated Tobacco,Premium,23,-0.120165079,0.343606112
+Honduras,Retail,Heated Tobacco,Premium,18,-0.118678746,0.947507902
+Israel,Retail,Cigarettes,Core,11,-0.118475858,0.875520047
+Cuba,Key Accounts,Heated Tobacco,Value,20,-0.11740974,0.745705674
+France,Key Accounts,Oral Nicotine,Premium,40,-0.116307825,0.46963521
+El Salvador,Key Accounts,Cigarettes,Value,31,-0.115817828,0.753877223
+China,Key Accounts,Heated Tobacco,Core,29,-0.114701753,0.642905592
+United Kingdom,Key Accounts,Cigarettes,Premium,69,-0.113466292,0.74517154
+Netherlands,Retail,Oral Nicotine,Core,19,-0.112908515,0.630236518
+Egypt,Retail,Heated Tobacco,Premium,15,-0.111428137,0.588154426
+China,Key Accounts,Oral Nicotine,Value,33,-0.111223891,0.699626927
+Mexico,Key Accounts,Oral Nicotine,Core,59,-0.11093294,0.512996817
+Philippines,Retail,Cigarettes,Value,50,-0.110414912,0.692505795
+Brazil,Retail,Heated Tobacco,Value,57,-0.109073755,0.69997023
+Spain,Retail,Heated Tobacco,Core,27,-0.108935599,0.467898154
+Guatemala,Key Accounts,Cigarettes,Premium,24,-0.108291984,0.686236205
+Ukraine,Retail,Cigarettes,Value,42,-0.107963264,0.729474578
+Ireland,Retail,Cigarettes,Core,11,-0.107826218,0.640905966
+France,Key Accounts,Cigarettes,Value,105,-0.107757964,0.639812834
+El Salvador,Retail,Cigarettes,Value,50,-0.106931099,0.608767289
+Italy,Retail,Oral Nicotine,Premium,26,-0.106336338,0.718721615
+Dominican Republic,E-Commerce,Cigarettes,Value,31,-0.106320117,0.867121335
+New Zealand,Retail,Cigarettes,Value,49,-0.106184419,0.513293643
+Democratic Republic of the Congo,Retail,Cigarettes,Premium,36,-0.104950272,0.666507825
+South Korea,Retail,Cigarettes,Value,15,-0.104511242,0.39405412
+Italy,Key Accounts,Heated Tobacco,Premium,31,-0.104051267,0.67641005
+India,E-Commerce,Cigarettes,Value,37,-0.102799145,0.646576317
+New Zealand,Key Accounts,Oral Nicotine,Core,19,-0.102101495,0.905764608
+India,Key Accounts,Cigarettes,Core,63,-0.101877029,0.710671589
+Zambia,Retail,Cigarettes,Core,10,-0.101565658,0.362736039
+Tanzania,Retail,Cigarettes,Value,14,-0.10004687,0.953875938
+Honduras,E-Commerce,Heated Tobacco,Premium,12,-0.099644368,0.414973712
+Argentina,Retail,Cigarettes,Premium,33,-0.099613873,0.557846767
+Netherlands,Retail,Cigarettes,Premium,36,-0.09921678,0.739191625
+Brazil,Key Accounts,Cigarettes,Core,58,-0.098994611,0.866898275
+Japan,Retail,Cigarettes,Core,19,-0.098830736,0.561100274
+United States,Key Accounts,Heated Tobacco,Core,117,-0.098752231,0.601224426
+Democratic Republic of the Congo,Retail,Cigarettes,Core,34,-0.097584349,0.746104925
+Germany,Retail,Cigarettes,Core,120,-0.097025994,0.712899582
+Pakistan,Key Accounts,Cigarettes,Premium,12,-0.095672336,0.396741508
+Netherlands,Retail,Cigarettes,Core,40,-0.093969885,0.818202229
+Nigeria,Retail,Heated Tobacco,Core,25,-0.093704968,0.41041905
+Brazil,E-Commerce,Heated Tobacco,Value,21,-0.09351924,0.707277971
+Morocco,Key Accounts,Cigarettes,Core,23,-0.09329858,0.985557228
+China,Retail,Cigarettes,Value,108,-0.093012363,0.818836271
+Spain,E-Commerce,Cigarettes,Core,29,-0.092227362,0.443849471
+Nicaragua,Retail,Cigarettes,Premium,43,-0.091988497,0.857306304
+Turkey,Retail,Cigarettes,Value,99,-0.091940895,0.5590807
+United Kingdom,E-Commerce,Heated Tobacco,Core,18,-0.091414999,0.730621503
+Cuba,Key Accounts,Heated Tobacco,Core,14,-0.091089653,0.684270359
+Guatemala,Key Accounts,Heated Tobacco,Value,14,-0.09050652,0.873362936
+Brazil,E-Commerce,Cigarettes,Premium,42,-0.089549691,0.883447233
+Mexico,Retail,Cigarettes,Value,136,-0.088704449,0.751366708
+Philippines,Retail,Cigarettes,Premium,46,-0.088203041,0.771584937
+Canada,Key Accounts,Cigarettes,Value,20,-0.087915165,0.877351385
+Guatemala,Retail,Cigarettes,Core,38,-0.086701513,0.788993491
+France,Retail,Heated Tobacco,Core,86,-0.08643604,0.547915004
+Mexico,Key Accounts,Oral Nicotine,Premium,49,-0.086212216,0.654298939
+Brazil,Retail,Heated Tobacco,Core,49,-0.085761906,0.866798309
+France,Key Accounts,Heated Tobacco,Premium,40,-0.085069954,0.433317168
+United States,Retail,Heated Tobacco,Core,148,-0.084752414,0.745567784
+United States,Retail,Cigarettes,Premium,202,-0.083784996,0.533165418
+India,Retail,Cigarettes,Premium,92,-0.083612307,0.761647926
+Japan,Retail,Cigarettes,Premium,21,-0.083571987,0.344665896
+Netherlands,Retail,Heated Tobacco,Premium,16,-0.082522834,0.66621792
+Iran,Retail,Cigarettes,Premium,40,-0.082369585,0.444322318
+Saudi Arabia,Retail,Cigarettes,Value,26,-0.082144242,0.764254063
+Russia,Retail,Cigarettes,Value,36,-0.08194428,0.565132624
+Nigeria,E-Commerce,Cigarettes,Premium,26,-0.081763625,0.360831684
+Dominican Republic,Retail,Heated Tobacco,Core,24,-0.080640245,0.612882694
+India,E-Commerce,Oral Nicotine,Value,22,-0.080153104,0.833636574
+Mexico,Retail,Oral Nicotine,Value,74,-0.078853677,0.5833926
+Indonesia,E-Commerce,Cigarettes,Premium,41,-0.078287478,0.855760152
+Cameroon,Retail,Cigarettes,Value,10,-0.077046506,0.912758072
+Australia,E-Commerce,Heated Tobacco,Core,25,-0.076398881,0.621065067
+France,Key Accounts,Heated Tobacco,Value,42,-0.076345476,0.483755742
+Philippines,Retail,Oral Nicotine,Core,32,-0.076090266,0.583549694
+Turkey,Key Accounts,Cigarettes,Core,67,-0.074234309,0.618999204
+Dominican Republic,E-Commerce,Oral Nicotine,Value,14,-0.073545814,0.812526037
+Peru,Retail,Cigarettes,Value,16,-0.072836943,0.51548577
+Mexico,Key Accounts,Cigarettes,Premium,95,-0.072327271,0.794579703
+Italy,Retail,Cigarettes,Core,68,-0.072165392,0.816814506
+Honduras,E-Commerce,Cigarettes,Value,25,-0.07201662,0.729476104
+Dominican Republic,Retail,Cigarettes,Core,51,-0.0705903,0.575001953
+Germany,E-Commerce,Cigarettes,Premium,42,-0.070247187,0.683030933
+Cuba,Retail,Oral Nicotine,Core,22,-0.070067604,0.72347945
+El Salvador,E-Commerce,Cigarettes,Premium,24,-0.068302149,0.802466536
+Australia,Retail,Oral Nicotine,Core,81,-0.067739729,0.701889522
+Dominican Republic,E-Commerce,Cigarettes,Premium,27,-0.067472099,0.891601805
+Honduras,Key Accounts,Heated Tobacco,Premium,14,-0.066697953,0.594381067
+Morocco,Key Accounts,Cigarettes,Value,24,-0.066166762,0.772622149
+India,Retail,Oral Nicotine,Premium,54,-0.064158813,0.760632177
+Italy,E-Commerce,Cigarettes,Core,31,-0.063184555,0.858356453
+Thailand,Retail,Cigarettes,Premium,23,-0.062376979,0.785581143
+Indonesia,Retail,Cigarettes,Core,89,-0.06162215,0.58733615
+Nicaragua,E-Commerce,Heated Tobacco,Value,13,-0.06080824,0.885863763
+Ukraine,Retail,Heated Tobacco,Core,10,-0.059275627,0.468184442
+India,Key Accounts,Cigarettes,Premium,62,-0.059072448,0.892392903
+United States,E-Commerce,Oral Nicotine,Value,80,-0.057789851,0.588176437
+El Salvador,Key Accounts,Oral Nicotine,Value,15,-0.057620541,0.785885196
+Venezuela,Retail,Cigarettes,Premium,17,-0.057197611,0.772902816
+Brazil,Key Accounts,Cigarettes,Premium,56,-0.055879381,0.930989181
+Vietnam,Retail,Cigarettes,Premium,18,-0.055836666,0.674902442
+Germany,E-Commerce,Cigarettes,Value,55,-0.055678115,0.882193376
+Belarus,Retail,Cigarettes,Core,13,-0.054943956,0.800865829
+United States,Key Accounts,Oral Nicotine,Core,118,-0.05465968,0.655360868
+Iran,Retail,Oral Nicotine,Value,15,-0.053579313,0.787129466
+Nigeria,Retail,Oral Nicotine,Core,23,-0.053096072,0.515753386
+Nigeria,Retail,Cigarettes,Value,71,-0.053003003,0.483427245
+Indonesia,Key Accounts,Cigarettes,Value,54,-0.05275262,0.790917183
+Panama,E-Commerce,Cigarettes,Premium,12,-0.052682001,0.962834859
+United States,Key Accounts,Oral Nicotine,Premium,121,-0.052198286,0.774570589
+Italy,Retail,Cigarettes,Premium,81,-0.052008005,0.482443204
+Mozambique,Retail,Cigarettes,Value,11,-0.050734891,0.684751372
+Philippines,Retail,Heated Tobacco,Core,20,-0.050309709,0.861462251
+Germany,Key Accounts,Cigarettes,Value,79,-0.049770216,0.456212283
+United Kingdom,Retail,Cigarettes,Core,114,-0.049492627,0.594229693
+Canada,Retail,Cigarettes,Premium,31,-0.048767558,0.790841669
+United States,Retail,Cigarettes,Core,206,-0.048539602,0.83779777
+New Zealand,Retail,Oral Nicotine,Premium,17,-0.048491514,0.698104815
+Australia,E-Commerce,Cigarettes,Premium,55,-0.047885932,0.747011546
+Germany,E-Commerce,Cigarettes,Core,61,-0.047318085,0.640701911
+Italy,E-Commerce,Cigarettes,Premium,28,-0.04656302,0.376213127
+Nicaragua,Retail,Heated Tobacco,Value,20,-0.046151827,0.813186841
+Germany,Key Accounts,Heated Tobacco,Value,23,-0.045786364,0.607972182
+India,E-Commerce,Heated Tobacco,Value,24,-0.045255366,0.764469762
+Angola,Retail,Cigarettes,Premium,14,-0.045078287,0.913578093
+Dominican Republic,Retail,Cigarettes,Value,55,-0.044168802,0.895187037
+El Salvador,Retail,Cigarettes,Core,47,-0.043564987,0.929507287
+China,Key Accounts,Oral Nicotine,Premium,35,-0.043444871,0.630034023
+Bulgaria,Retail,Cigarettes,Core,10,-0.04317913,0.346682992
+Guatemala,E-Commerce,Heated Tobacco,Value,13,-0.043136565,0.779311481
+France,E-Commerce,Heated Tobacco,Core,34,-0.042187296,0.595214211
+Turkey,Retail,Cigarettes,Premium,76,-0.04178909,0.897857032
+Singapore,Retail,Cigarettes,Value,15,-0.040975606,0.966554201
+China,Key Accounts,Cigarettes,Core,80,-0.039902134,0.833291825
+Australia,Key Accounts,Cigarettes,Value,97,-0.038777182,0.799846765
+Germany,Key Accounts,Heated Tobacco,Core,38,-0.038602191,0.642236112
+United States,Retail,Cigarettes,Value,201,-0.038511146,0.594504518
+Democratic Republic of the Congo,Retail,Cigarettes,Value,43,-0.03826695,0.750744991
+Ukraine,Retail,Heated Tobacco,Value,16,-0.037894523,0.878665695
+Venezuela,Retail,Heated Tobacco,Premium,11,-0.03776341,0.84885276
+Dominican Republic,Retail,Cigarettes,Premium,46,-0.0368648,0.663262738
+Mexico,E-Commerce,Heated Tobacco,Core,30,-0.035984986,0.663866003
+Germany,Retail,Heated Tobacco,Value,53,-0.035434027,0.809665246
+Belgium,Key Accounts,Cigarettes,Value,12,-0.034738099,0.807234642
+United Kingdom,E-Commerce,Cigarettes,Premium,43,-0.034610261,0.518493163
+South Africa,Retail,Heated Tobacco,Value,12,-0.033110041,0.209813641
+China,E-Commerce,Heated Tobacco,Core,24,-0.033085412,0.709795095
+Australia,Retail,Oral Nicotine,Value,66,-0.032865463,0.690765909
+France,E-Commerce,Cigarettes,Premium,68,-0.032320771,0.614464162
+Egypt,Retail,Cigarettes,Core,40,-0.031590185,0.408427873
+Singapore,Retail,Cigarettes,Premium,12,-0.031361326,0.465469223
+United States,Retail,Heated Tobacco,Value,146,-0.030941664,0.570571607
+South Korea,Retail,Cigarettes,Core,14,-0.030072216,0.744487853
+Panama,Retail,Oral Nicotine,Value,14,-0.02898155,0.799336653
+Mexico,Retail,Oral Nicotine,Core,77,-0.028526454,0.673136633
+France,Key Accounts,Cigarettes,Premium,97,-0.02768372,0.616354929
+Spain,Retail,Oral Nicotine,Premium,20,-0.027624161,0.781577478
+India,E-Commerce,Oral Nicotine,Core,19,-0.027564452,0.599950913
+France,E-Commerce,Cigarettes,Value,72,-0.027159928,0.910593979
+Singapore,Retail,Cigarettes,Core,13,-0.027031081,0.538645944
+India,E-Commerce,Cigarettes,Premium,41,-0.026859338,0.751777041
+India,Key Accounts,Oral Nicotine,Premium,26,-0.026709468,0.591049037
+France,Retail,Heated Tobacco,Premium,61,-0.026188618,0.532823554
+Panama,Key Accounts,Oral Nicotine,Premium,10,-0.025007942,0.942349007
+Spain,Retail,Cigarettes,Value,63,-0.024857326,0.671148823
+Mexico,Key Accounts,Cigarettes,Value,95,-0.024609322,0.727049175
+India,Key Accounts,Oral Nicotine,Core,36,-0.023992512,0.783822574
+Germany,Key Accounts,Oral Nicotine,Premium,30,-0.023396885,0.733575859
+Panama,Key Accounts,Cigarettes,Core,20,-0.022505965,0.390372357
+Colombia,Retail,Cigarettes,Premium,27,-0.022430793,0.95877092
+China,Retail,Cigarettes,Core,113,-0.022107432,0.725357335
+Brazil,Retail,Cigarettes,Value,96,-0.021620731,0.838056111
+South Africa,Retail,Cigarettes,Value,32,-0.021218845,0.48618456
+France,Key Accounts,Oral Nicotine,Value,34,-0.020826705,0.482758315
+China,Retail,Heated Tobacco,Value,58,-0.0205313,0.653885938
+Egypt,Retail,Cigarettes,Value,54,-0.019851066,0.868361931
+Democratic Republic of the Congo,Key Accounts,Heated Tobacco,Premium,10,-0.019725467,0.583174999
+El Salvador,Retail,Oral Nicotine,Core,29,-0.019552773,0.653525551
+Philippines,Key Accounts,Cigarettes,Premium,21,-0.019261895,0.725710948
+Australia,E-Commerce,Oral Nicotine,Core,32,-0.017491872,0.645955884
+Egypt,E-Commerce,Cigarettes,Value,16,-0.016837562,0.689287663
+Israel,Retail,Cigarettes,Premium,10,-0.016737561,0.894402512
+Germany,Key Accounts,Cigarettes,Core,87,-0.016202737,0.585141898
+France,Key Accounts,Cigarettes,Core,113,-0.015265465,0.695150906
+United Kingdom,Key Accounts,Heated Tobacco,Core,35,-0.014838499,0.686354939
+South Africa,Retail,Heated Tobacco,Core,15,-0.014741679,0.442938282
+Mexico,Retail,Heated Tobacco,Premium,70,-0.014373372,0.721807853
+Iran,Retail,Heated Tobacco,Value,21,-0.013878439,0.544060389
+United States,Key Accounts,Cigarettes,Value,177,-0.013734246,0.62139334
+Poland,Key Accounts,Cigarettes,Premium,10,-0.013679696,0.276583668
+Turkey,E-Commerce,Oral Nicotine,Premium,16,-0.01352247,0.63182026
+Philippines,E-Commerce,Oral Nicotine,Premium,13,-0.013490081,0.863415916
+Russia,Key Accounts,Cigarettes,Core,18,-0.01297506,0.730130567
+Cuba,Key Accounts,Cigarettes,Value,38,-0.012522579,0.756564938
+India,Key Accounts,Heated Tobacco,Core,24,-0.012150784,0.8149559
+France,E-Commerce,Heated Tobacco,Value,36,-0.011449373,0.73271995
+France,Key Accounts,Oral Nicotine,Core,35,-0.010731152,0.648279671
+Indonesia,Retail,Cigarettes,Value,82,-0.010665147,0.92321019
+Indonesia,Retail,Cigarettes,Premium,80,-0.009776368,0.636575446
+Pakistan,Retail,Cigarettes,Core,18,-0.009769854,0.950855114
+Poland,E-Commerce,Cigarettes,Value,10,-0.009501492,0.859306381
+Nigeria,Key Accounts,Cigarettes,Premium,41,-0.009153805,0.869546582
+Colombia,Retail,Heated Tobacco,Core,11,-0.008031029,0.777400226
+Egypt,Retail,Oral Nicotine,Core,12,-0.007516332,0.51313888
+Austria,Retail,Cigarettes,Core,30,-0.007064567,0.705336851
+United Kingdom,Retail,Heated Tobacco,Premium,40,-0.006548523,0.589482227
+Turkey,Key Accounts,Oral Nicotine,Premium,22,-0.006420819,0.570832911
+China,Key Accounts,Heated Tobacco,Premium,40,-0.005646729,0.687023031
+Saudi Arabia,E-Commerce,Cigarettes,Premium,15,-0.00474139,0.85446445
+Panama,Retail,Heated Tobacco,Value,11,-0.004245373,0.741718738
+Russia,Key Accounts,Cigarettes,Premium,17,-0.004154964,0.33961088
+Malaysia,Retail,Oral Nicotine,Core,12,-0.003647364,0.713817583
+Cuba,Retail,Cigarettes,Value,47,-0.003043892,0.641856462
+Australia,Key Accounts,Oral Nicotine,Value,48,-0.001694773,0.628550692
+South Korea,Retail,Cigarettes,Premium,12,-0.001526068,0.957467283
+Australia,Retail,Heated Tobacco,Core,71,-0.001236749,0.687083103
+France,Retail,Cigarettes,Core,138,-7.61E-04,0.677762558
+Argentina,Retail,Cigarettes,Core,20,-6.76E-04,0.910502872
+Brazil,E-Commerce,Cigarettes,Value,42,-4.70E-04,0.677498877
+Indonesia,Retail,Oral Nicotine,Value,39,-7.86E-05,0.723197539
+Germany,E-Commerce,Heated Tobacco,Core,21,-3.75E-05,0.676503269
+Guatemala,Retail,Cigarettes,Value,37,1.02E-06,0.833698185
+Australia,Retail,Cigarettes,Value,124,0.001417484,0.550910656
+Australia,Retail,Cigarettes,Premium,128,0.00201523,0.792124162
+Mexico,E-Commerce,Cigarettes,Core,52,0.002498492,0.962828484
+Germany,Retail,Oral Nicotine,Core,46,0.003294438,0.747775118
+Canada,Retail,Cigarettes,Value,45,0.003532098,0.614281808
+Argentina,Key Accounts,Cigarettes,Value,18,0.005065358,0.892197858
+El Salvador,Key Accounts,Cigarettes,Premium,31,0.005157671,0.821814177
+Mexico,Retail,Cigarettes,Core,121,0.005929743,0.799991635
+Morocco,Retail,Cigarettes,Value,36,0.006147212,0.835963483
+Honduras,Key Accounts,Heated Tobacco,Value,10,0.006696352,0.891048928
+Netherlands,Retail,Cigarettes,Value,32,0.006866419,0.917615724
+Thailand,E-Commerce,Cigarettes,Core,10,0.007457231,0.828527743
+Algeria,Retail,Cigarettes,Value,19,0.007561879,0.693609425
+France,E-Commerce,Cigarettes,Core,74,0.007938263,0.669656626
+Guatemala,Key Accounts,Oral Nicotine,Value,10,0.008088316,0.83922037
+Netherlands,E-Commerce,Cigarettes,Value,17,0.00867074,0.722294754
+Belgium,Key Accounts,Cigarettes,Core,13,0.009155602,0.908605628
+Australia,E-Commerce,Heated Tobacco,Premium,32,0.01012502,0.713594302
+Morocco,Key Accounts,Cigarettes,Premium,19,0.012538897,0.979158752
+Algeria,Retail,Cigarettes,Premium,12,0.013131199,0.942352426
+El Salvador,Retail,Heated Tobacco,Value,24,0.013414787,0.773878472
+Brazil,E-Commerce,Oral Nicotine,Core,16,0.013763461,0.976542198
+India,Key Accounts,Oral Nicotine,Value,34,0.014737019,0.767530903
+Cuba,Key Accounts,Oral Nicotine,Premium,13,0.014874381,0.689894283
+Brazil,Retail,Cigarettes,Core,93,0.015801593,0.725696148
+France,E-Commerce,Oral Nicotine,Premium,18,0.015824391,0.71654254
+United States,E-Commerce,Cigarettes,Premium,158,0.015989008,0.846948119
+Mexico,E-Commerce,Heated Tobacco,Premium,30,0.017111924,0.817102526
+Ghana,Retail,Cigarettes,Premium,11,0.01736489,0.408560064
+Italy,Key Accounts,Cigarettes,Premium,58,0.017431573,0.643570517
+Germany,Key Accounts,Oral Nicotine,Value,28,0.018079749,0.776289904
+Mexico,Key Accounts,Heated Tobacco,Value,48,0.018673079,0.678205479
+Germany,E-Commerce,Oral Nicotine,Core,24,0.020201885,0.594451246
+Morocco,Retail,Cigarettes,Premium,36,0.020934291,0.525835657
+Germany,Retail,Oral Nicotine,Value,36,0.021902298,0.782780121
+Guatemala,Retail,Oral Nicotine,Value,16,0.022250355,0.757698792
+United States,Key Accounts,Cigarettes,Premium,177,0.022878082,0.73247771
+Russia,Key Accounts,Heated Tobacco,Core,14,0.023494114,0.494970158
+Saudi Arabia,Retail,Heated Tobacco,Value,10,0.024629676,0.671512396
+United Kingdom,Key Accounts,Heated Tobacco,Value,25,0.024799294,0.66060561
+Cuba,Retail,Oral Nicotine,Value,19,0.025149784,0.586928055
+Dominican Republic,E-Commerce,Cigarettes,Core,26,0.025170761,0.721292099
+United States,Retail,Oral Nicotine,Core,171,0.025436862,0.574582101
+France,E-Commerce,Oral Nicotine,Core,15,0.025656916,0.811327546
+Nigeria,Key Accounts,Cigarettes,Core,45,0.027610629,0.728634464
+Nigeria,E-Commerce,Cigarettes,Core,32,0.027826528,0.683414395
+Vietnam,E-Commerce,Cigarettes,Premium,11,0.027952602,0.993537205
+United States,E-Commerce,Oral Nicotine,Premium,75,0.028005322,0.705209168
+Iran,Key Accounts,Cigarettes,Core,41,0.029657522,0.843200875
+Turkey,Retail,Oral Nicotine,Core,36,0.029807649,0.597603931
+China,E-Commerce,Cigarettes,Value,37,0.031167958,0.732278045
+Australia,Retail,Heated Tobacco,Value,91,0.031480077,0.645082757
+Panama,Key Accounts,Oral Nicotine,Value,10,0.032504482,0.786917529
+United States,Key Accounts,Oral Nicotine,Value,122,0.032989096,0.660740151
+United Kingdom,Key Accounts,Oral Nicotine,Value,24,0.0339343,0.672952398
+Russia,Retail,Heated Tobacco,Core,14,0.033967511,0.677830331
+Austria,Retail,Oral Nicotine,Premium,11,0.035728264,0.524777936
+Nigeria,Key Accounts,Cigarettes,Value,35,0.036064137,0.517563945
+United Kingdom,Key Accounts,Cigarettes,Value,77,0.036065383,0.761882117
+Mexico,Key Accounts,Oral Nicotine,Value,47,0.03706961,0.749732171
+New Zealand,Retail,Heated Tobacco,Premium,28,0.037350809,0.558405657
+Indonesia,Key Accounts,Cigarettes,Premium,63,0.037382811,0.769815199
+Germany,Retail,Cigarettes,Premium,123,0.038018246,0.737443141
+Cuba,Retail,Cigarettes,Premium,46,0.038740654,0.676730491
+China,Retail,Heated Tobacco,Core,44,0.03919393,0.725074526
+Spain,Key Accounts,Cigarettes,Core,44,0.039987139,0.88912184
+Mexico,Key Accounts,Heated Tobacco,Core,45,0.040234622,0.768986549
+France,Retail,Oral Nicotine,Value,54,0.040390075,0.65203728
+Panama,Retail,Cigarettes,Core,26,0.040802902,0.517561339
+Italy,Key Accounts,Cigarettes,Value,56,0.041097395,0.510568862
+Algeria,Retail,Cigarettes,Core,15,0.041883758,0.316305431
+United Kingdom,Retail,Oral Nicotine,Value,42,0.041986196,0.674112897
+India,Retail,Oral Nicotine,Value,51,0.042450407,0.680409465
+Mexico,Key Accounts,Heated Tobacco,Premium,24,0.044979999,0.872116261
+Argentina,E-Commerce,Cigarettes,Premium,16,0.046355129,0.66052829
+India,Key Accounts,Cigarettes,Value,58,0.046533722,0.887442918
+Democratic Republic of the Congo,E-Commerce,Cigarettes,Core,14,0.046820503,0.624568489
+Ukraine,E-Commerce,Cigarettes,Core,12,0.047194761,0.779105548
+Saudi Arabia,Retail,Cigarettes,Core,26,0.048429835,0.52538325
+Kenya,Retail,Cigarettes,Value,11,0.048619564,0.668455429
+Pakistan,Key Accounts,Cigarettes,Core,13,0.048671278,0.959256054
+United States,Key Accounts,Heated Tobacco,Premium,116,0.049790972,0.924751145
+Guatemala,Retail,Cigarettes,Premium,40,0.050103045,0.915536836
+Australia,Key Accounts,Heated Tobacco,Premium,56,0.050694613,0.643394255
+United Kingdom,Retail,Cigarettes,Premium,95,0.052812282,0.830644628
+Romania,Key Accounts,Cigarettes,Value,14,0.05351998,0.913874125
+Dominican Republic,Key Accounts,Oral Nicotine,Core,12,0.053956253,0.86890737
+Nigeria,Key Accounts,Oral Nicotine,Value,15,0.055463112,0.766853795
+Mexico,Retail,Heated Tobacco,Value,73,0.055580383,0.741003523
+Russia,E-Commerce,Cigarettes,Core,12,0.056279613,0.807801914
+Russia,Retail,Cigarettes,Core,29,0.056783478,0.648912135
+Turkey,Key Accounts,Heated Tobacco,Core,21,0.057510825,0.484081348
+Turkey,E-Commerce,Cigarettes,Value,49,0.058827062,0.648033097
+Nicaragua,Key Accounts,Cigarettes,Value,32,0.060279334,0.959124274
+Turkey,Retail,Cigarettes,Core,95,0.060365936,0.865082448
+India,Key Accounts,Heated Tobacco,Premium,28,0.060665726,0.627739249
+France,Retail,Cigarettes,Value,152,0.061259814,0.705016746
+Dominican Republic,Retail,Oral Nicotine,Premium,26,0.061515501,0.833245728
+United States,E-Commerce,Cigarettes,Value,147,0.062219786,0.642030071
+Indonesia,E-Commerce,Cigarettes,Value,39,0.063555372,0.778790358
+Italy,Key Accounts,Cigarettes,Core,58,0.063832042,0.731905765
+Nicaragua,Retail,Oral Nicotine,Value,15,0.064020295,0.736445456
+Mexico,Key Accounts,Cigarettes,Core,92,0.064655141,0.679373971
+United Kingdom,E-Commerce,Cigarettes,Core,47,0.064885814,0.961296215
+Ukraine,Retail,Cigarettes,Premium,36,0.067149998,0.695619727
+Turkey,E-Commerce,Oral Nicotine,Core,18,0.067388191,0.569363435
+Australia,Retail,Heated Tobacco,Premium,74,0.068888914,0.786529759
+South Africa,Key Accounts,Cigarettes,Core,23,0.069173109,0.822248306
+Indonesia,Retail,Heated Tobacco,Value,48,0.069878111,0.710603496
+Brazil,Retail,Cigarettes,Premium,83,0.070625705,0.785476737
+Germany,Retail,Heated Tobacco,Core,64,0.070872175,0.675949999
+United States,Retail,Heated Tobacco,Premium,144,0.071357728,0.819808457
+Honduras,Key Accounts,Oral Nicotine,Premium,12,0.071837403,0.779088896
+Netherlands,Retail,Heated Tobacco,Value,10,0.072042538,0.868924654
+Thailand,Key Accounts,Cigarettes,Premium,14,0.073953206,0.9460072
+United States,E-Commerce,Heated Tobacco,Value,92,0.074222942,0.862248976
+India,Retail,Heated Tobacco,Premium,42,0.074808692,0.773641582
+France,Retail,Cigarettes,Premium,142,0.077593561,0.714710207
+Turkey,E-Commerce,Cigarettes,Premium,39,0.078404277,0.907514822
+Cuba,Retail,Cigarettes,Core,53,0.078521154,0.835496253
+New Zealand,Retail,Oral Nicotine,Core,20,0.078559642,0.800680812
+United States,Key Accounts,Cigarettes,Core,184,0.078624521,0.653726973
+Egypt,Retail,Heated Tobacco,Core,14,0.079139073,0.926448603
+Senegal,Retail,Cigarettes,Premium,10,0.080621543,0.895783701
+Canada,Retail,Oral Nicotine,Value,10,0.081150577,0.609054484
+Turkey,E-Commerce,Heated Tobacco,Value,12,0.081449808,0.761170287
+China,Retail,Oral Nicotine,Value,43,0.084016226,0.709883198
+India,Retail,Oral Nicotine,Core,49,0.084634863,0.840021967
+Spain,E-Commerce,Cigarettes,Premium,27,0.08474118,0.740474851
+Iraq,Retail,Cigarettes,Value,36,0.086889685,0.731888672
+India,Retail,Cigarettes,Value,87,0.087952861,0.936284996
+Philippines,E-Commerce,Cigarettes,Premium,16,0.088700364,0.997466443
+South Africa,Key Accounts,Heated Tobacco,Value,10,0.088868561,0.347496786
+Italy,Retail,Heated Tobacco,Core,38,0.089071198,0.791399382
+Canada,E-Commerce,Cigarettes,Value,12,0.089724608,0.889607231
+Honduras,Retail,Oral Nicotine,Core,22,0.090733475,0.530117167
+Philippines,Retail,Oral Nicotine,Premium,23,0.090749842,0.693542926
+Iraq,Retail,Heated Tobacco,Value,10,0.090808422,0.748355067
+India,E-Commerce,Heated Tobacco,Premium,23,0.091088734,0.633347803
+Algeria,E-Commerce,Cigarettes,Value,10,0.096004029,0.658931288
+South Africa,Key Accounts,Cigarettes,Premium,24,0.09651716,0.515951361
+Spain,Retail,Oral Nicotine,Core,25,0.096721094,0.666869107
+Honduras,Retail,Oral Nicotine,Premium,26,0.097918419,0.818310573
+New Zealand,Retail,Heated Tobacco,Core,18,0.098197536,0.925595165
+Germany,Key Accounts,Cigarettes,Premium,87,0.098317612,0.524989677
+Indonesia,Key Accounts,Cigarettes,Core,61,0.098923217,0.934652916
+Tanzania,Key Accounts,Cigarettes,Core,10,0.0991538,0.86693989
+Morocco,Retail,Heated Tobacco,Premium,10,0.099264696,0.679755454
+Philippines,Key Accounts,Oral Nicotine,Premium,13,0.100719298,0.751422855
+Australia,Retail,Cigarettes,Core,144,0.101812667,0.752392923
+United Kingdom,Retail,Heated Tobacco,Value,35,0.102387911,0.589854986
+United States,E-Commerce,Cigarettes,Core,151,0.104327744,0.820231924
+Australia,Key Accounts,Cigarettes,Premium,85,0.106974204,0.864809349
+Saudi Arabia,Retail,Heated Tobacco,Premium,16,0.107868277,0.907907051
+Dominican Republic,Retail,Heated Tobacco,Value,20,0.107945543,0.878064412
+Mexico,E-Commerce,Cigarettes,Value,59,0.111500894,0.800188065
+Spain,Retail,Heated Tobacco,Value,28,0.112220525,0.847959003
+United States,E-Commerce,Heated Tobacco,Premium,76,0.112319669,0.862441399
+New Zealand,Retail,Heated Tobacco,Value,21,0.113463321,0.529776455
+Mexico,Retail,Cigarettes,Premium,117,0.11348644,0.885844069
+Vietnam,Key Accounts,Cigarettes,Core,12,0.115736887,0.755674274
+Italy,Retail,Heated Tobacco,Value,26,0.116977197,0.670466408
+Pakistan,Key Accounts,Cigarettes,Value,16,0.117227326,0.995541381
+Nicaragua,Retail,Cigarettes,Value,53,0.117503194,0.785163995
+Nigeria,E-Commerce,Cigarettes,Value,21,0.118172644,0.850763202
+Honduras,Retail,Heated Tobacco,Core,21,0.119965379,0.811104918
+United States,Retail,Oral Nicotine,Value,155,0.120708815,0.692900634
+Mexico,Retail,Oral Nicotine,Premium,76,0.121603872,0.784707701
+Spain,Key Accounts,Cigarettes,Value,47,0.12189775,0.911368286
+Belgium,Retail,Cigarettes,Premium,16,0.122042015,0.915501968
+Iraq,Key Accounts,Heated Tobacco,Value,11,0.123431258,0.692822047
+El Salvador,Key Accounts,Heated Tobacco,Core,14,0.126034277,0.894081462
+Australia,Key Accounts,Heated Tobacco,Core,44,0.126747143,0.65942919
+Italy,Retail,Cigarettes,Value,75,0.127401679,0.8719531
+Dominican Republic,Retail,Heated Tobacco,Premium,22,0.128081168,0.883018445
+United States,Retail,Oral Nicotine,Premium,149,0.128912216,0.596035236
+Honduras,E-Commerce,Cigarettes,Core,22,0.129458499,0.829445272
+Iraq,Retail,Cigarettes,Premium,31,0.13013676,0.547200022
+Italy,E-Commerce,Oral Nicotine,Premium,11,0.13291105,0.765668357
+Cuba,E-Commerce,Cigarettes,Premium,26,0.134635005,0.979092297
+Indonesia,Key Accounts,Oral Nicotine,Value,25,0.1348038,0.66768901
+Mexico,Retail,Heated Tobacco,Core,69,0.136134403,0.821338277
+United Kingdom,Key Accounts,Cigarettes,Core,78,0.136913565,0.875050496
+Nigeria,Key Accounts,Oral Nicotine,Premium,13,0.141046598,0.802701594
+China,Retail,Oral Nicotine,Premium,47,0.142042772,0.589271855
+Dominican Republic,Key Accounts,Cigarettes,Premium,25,0.142089768,0.95676588
+India,Retail,Cigarettes,Core,102,0.142159479,0.711388146
+Netherlands,Key Accounts,Cigarettes,Core,16,0.143139956,0.930679844
+New Zealand,E-Commerce,Heated Tobacco,Premium,10,0.145785012,0.832639564
+Honduras,Key Accounts,Oral Nicotine,Core,20,0.149403132,0.879046993
+Nicaragua,Key Accounts,Heated Tobacco,Core,12,0.149488377,0.654363025
+Argentina,Retail,Oral Nicotine,Core,13,0.150503307,0.856671259
+Canada,Key Accounts,Cigarettes,Core,22,0.150686005,0.877612601
+Mexico,E-Commerce,Heated Tobacco,Value,21,0.150788916,0.73571361
+Cuba,E-Commerce,Cigarettes,Core,20,0.15126243,0.78134121
+Italy,Retail,Heated Tobacco,Premium,30,0.151476873,0.799669868
+Australia,Key Accounts,Heated Tobacco,Value,48,0.155373299,0.584409261
+Nigeria,Retail,Oral Nicotine,Premium,18,0.156993195,0.774405171
+Bangladesh,Retail,Cigarettes,Premium,11,0.157625081,0.754575432
+El Salvador,Retail,Cigarettes,Premium,64,0.15775259,0.940351516
+Egypt,Retail,Heated Tobacco,Value,17,0.15866701,0.567476644
+Japan,Retail,Cigarettes,Value,22,0.160852104,0.985887582
+France,Key Accounts,Heated Tobacco,Core,58,0.161163782,0.660879808
+India,E-Commerce,Heated Tobacco,Core,21,0.161878466,0.825048985
+Morocco,E-Commerce,Cigarettes,Value,19,0.162357448,0.766063891
+United Kingdom,Retail,Oral Nicotine,Core,31,0.163217186,0.8175314
+Nigeria,Retail,Cigarettes,Premium,71,0.163994602,0.831084881
+Germany,E-Commerce,Heated Tobacco,Value,21,0.165035058,0.77183828
+United Kingdom,E-Commerce,Oral Nicotine,Premium,12,0.167993207,0.436533446
+Spain,Retail,Cigarettes,Premium,56,0.172509139,0.780649183
+Australia,Key Accounts,Cigarettes,Core,106,0.172964456,0.858843959
+South Africa,E-Commerce,Cigarettes,Premium,19,0.173331458,0.638230825
+El Salvador,E-Commerce,Oral Nicotine,Premium,14,0.17698393,0.947913386
+Argentina,Key Accounts,Cigarettes,Core,18,0.177035077,0.705534854
+Germany,Key Accounts,Heated Tobacco,Premium,32,0.177214215,0.752232324
+Philippines,Key Accounts,Cigarettes,Core,25,0.177419558,0.960371706
+El Salvador,E-Commerce,Cigarettes,Core,21,0.177587149,0.720677756
+Brazil,Key Accounts,Heated Tobacco,Core,27,0.17864402,0.854141842
+Australia,E-Commerce,Cigarettes,Value,56,0.179027985,0.975875954
+New Zealand,Retail,Cigarettes,Core,41,0.179127295,0.843589291
+Philippines,Retail,Cigarettes,Core,40,0.180726626,0.971960459
+United Kingdom,Retail,Oral Nicotine,Premium,28,0.181652844,0.886247432
+Ireland,Retail,Cigarettes,Value,10,0.182596754,0.557937608
+Spain,Retail,Oral Nicotine,Value,19,0.18408276,0.855971444
+Brazil,Retail,Heated Tobacco,Premium,48,0.184100548,0.661333281
+Australia,Key Accounts,Oral Nicotine,Core,52,0.187741541,0.737236218
+Algeria,E-Commerce,Cigarettes,Core,10,0.187882531,0.876292652
+United States,E-Commerce,Oral Nicotine,Core,91,0.188047894,0.752837562
+India,Retail,Heated Tobacco,Value,59,0.188072376,0.739181485
+Colombia,Retail,Heated Tobacco,Value,15,0.188597807,0.718144222
+Cuba,Key Accounts,Cigarettes,Core,29,0.18902682,0.578962707
+Nicaragua,Retail,Cigarettes,Core,43,0.192839225,0.978617022
+Italy,Key Accounts,Oral Nicotine,Premium,14,0.19478229,0.821865678
+Nicaragua,E-Commerce,Cigarettes,Premium,15,0.195079892,0.520621669
+China,Key Accounts,Cigarettes,Premium,79,0.195213637,0.855535916
+Ghana,Retail,Cigarettes,Core,12,0.197778801,0.929915289
+Turkey,E-Commerce,Heated Tobacco,Core,14,0.19801759,0.718298913
+Australia,E-Commerce,Oral Nicotine,Value,27,0.198359354,0.928362378
+Philippines,Retail,Heated Tobacco,Premium,21,0.198826766,0.944214138
+Dominican Republic,Key Accounts,Cigarettes,Value,31,0.199437234,0.940638981
+Australia,Retail,Oral Nicotine,Premium,84,0.199809787,0.628919117
+India,E-Commerce,Cigarettes,Core,39,0.200342095,0.640136576
+China,E-Commerce,Oral Nicotine,Value,21,0.200694112,0.869376593
+Honduras,Key Accounts,Heated Tobacco,Core,20,0.201031966,0.839714483
+Brazil,Key Accounts,Oral Nicotine,Premium,27,0.202210087,0.749127233
+Nigeria,Key Accounts,Heated Tobacco,Value,18,0.202806386,0.415614748
+China,Retail,Cigarettes,Premium,100,0.203616135,0.823815833
+Italy,Key Accounts,Oral Nicotine,Value,16,0.205187348,0.780013251
+Iran,E-Commerce,Cigarettes,Core,17,0.20582026,0.991247865
+Brazil,E-Commerce,Heated Tobacco,Core,15,0.206909573,0.750875428
+Indonesia,E-Commerce,Oral Nicotine,Value,12,0.208754857,0.681665449
+Nigeria,Retail,Cigarettes,Core,64,0.209148614,0.816487625
+Germany,E-Commerce,Oral Nicotine,Premium,19,0.209924191,0.847406737
+Argentina,Retail,Oral Nicotine,Premium,18,0.216107698,0.709074928
+France,E-Commerce,Heated Tobacco,Premium,21,0.219002678,0.75372207
+Dominican Republic,Key Accounts,Oral Nicotine,Value,13,0.22011334,0.902084772
+Cuba,Retail,Oral Nicotine,Premium,20,0.220710874,0.721233271
+Chile,Retail,Cigarettes,Premium,11,0.220916173,0.982191877
+Italy,E-Commerce,Heated Tobacco,Value,10,0.221227479,0.825677158
+Nicaragua,Retail,Heated Tobacco,Premium,11,0.222108738,0.822686734
+Netherlands,Retail,Oral Nicotine,Premium,14,0.22231318,0.805987381
+Iran,Key Accounts,Cigarettes,Value,30,0.224739597,0.833221519
+Guatemala,Retail,Oral Nicotine,Core,21,0.225964676,0.796480485
+Russia,Key Accounts,Cigarettes,Value,21,0.226687788,0.744366921
+Guatemala,Retail,Heated Tobacco,Core,20,0.227311141,0.762871503
+Romania,Retail,Cigarettes,Value,12,0.227629039,0.662118093
+China,E-Commerce,Oral Nicotine,Core,30,0.230431269,0.71131521
+France,Retail,Oral Nicotine,Core,54,0.230992999,0.788944738
+United Kingdom,E-Commerce,Heated Tobacco,Value,20,0.233692766,0.764139166
+Philippines,E-Commerce,Oral Nicotine,Core,15,0.235342689,0.766779324
+Brazil,E-Commerce,Oral Nicotine,Value,22,0.235837098,0.833029524
+Colombia,Retail,Heated Tobacco,Premium,10,0.236114984,0.740988168
+Indonesia,Key Accounts,Heated Tobacco,Core,22,0.23832706,0.888310228
+Colombia,Retail,Cigarettes,Value,28,0.239170116,0.820489823
+Turkey,E-Commerce,Cigarettes,Core,38,0.24069862,0.755356444
+China,Retail,Oral Nicotine,Core,61,0.241569186,0.799124433
+Guatemala,Retail,Oral Nicotine,Premium,21,0.242007636,0.782147327
+El Salvador,Key Accounts,Oral Nicotine,Core,16,0.242147135,0.835251947
+Netherlands,E-Commerce,Cigarettes,Core,11,0.243334193,0.847276153
+Indonesia,Retail,Heated Tobacco,Premium,35,0.244450881,0.846355662
+Australia,E-Commerce,Cigarettes,Core,69,0.244677822,0.938695405
+Indonesia,E-Commerce,Heated Tobacco,Premium,17,0.244699066,0.770103252
+Panama,Key Accounts,Cigarettes,Value,20,0.246428687,0.709799814
+Iraq,Retail,Oral Nicotine,Core,13,0.248172329,0.750544616
+Australia,E-Commerce,Oral Nicotine,Premium,27,0.251563757,0.831960709
+Honduras,Key Accounts,Oral Nicotine,Value,22,0.25280407,0.885238896
+Vietnam,Retail,Cigarettes,Value,16,0.255505229,0.975046008
+Austria,E-Commerce,Cigarettes,Value,10,0.25781735,0.964352222
+Indonesia,Retail,Oral Nicotine,Premium,38,0.258635107,0.697163048
+Ireland,Retail,Cigarettes,Premium,11,0.259805713,0.673324982
+Indonesia,Key Accounts,Heated Tobacco,Value,35,0.260068111,0.697140162
+Sweden,Key Accounts,Cigarettes,Core,14,0.261127841,0.809637373
+Indonesia,Key Accounts,Oral Nicotine,Premium,23,0.264499277,0.722387508
+Nicaragua,E-Commerce,Cigarettes,Value,11,0.264646344,0.609506147
+India,E-Commerce,Oral Nicotine,Premium,21,0.266832055,0.857345582
+New Zealand,Key Accounts,Cigarettes,Core,24,0.268546512,0.927723883
+Austria,Key Accounts,Cigarettes,Core,17,0.269451822,0.884583762
+Russia,E-Commerce,Cigarettes,Value,17,0.271148661,0.958938376
+United Kingdom,Retail,Heated Tobacco,Core,50,0.275561216,0.828165987
+Colombia,E-Commerce,Cigarettes,Value,15,0.27759804,0.741850773
+Canada,Retail,Cigarettes,Core,35,0.278048874,0.756344564
+Nicaragua,Key Accounts,Cigarettes,Premium,32,0.279820648,0.972727986
+Spain,Key Accounts,Cigarettes,Premium,38,0.284530303,0.868297867
+Spain,Key Accounts,Heated Tobacco,Premium,18,0.287271991,0.834127622
+Iraq,Key Accounts,Cigarettes,Premium,15,0.287525195,0.731245456
+Saudi Arabia,E-Commerce,Cigarettes,Core,13,0.288651325,0.659970736
+Nicaragua,Retail,Oral Nicotine,Premium,17,0.289943932,0.798819346
+Ukraine,Key Accounts,Cigarettes,Premium,12,0.294194747,0.894622073
+Ukraine,Key Accounts,Cigarettes,Value,21,0.294705953,0.665739399
+Iraq,Retail,Oral Nicotine,Value,11,0.30217568,0.771212824
+Italy,Retail,Oral Nicotine,Value,26,0.302251871,0.82445168
+Poland,Key Accounts,Cigarettes,Value,11,0.308399057,0.976242122
+Ukraine,Retail,Oral Nicotine,Value,10,0.310631137,0.476642317
+Argentina,Retail,Heated Tobacco,Value,14,0.313975936,0.919579517
+China,Key Accounts,Oral Nicotine,Core,43,0.321387181,0.794504431
+Iran,E-Commerce,Cigarettes,Premium,16,0.322177274,0.900044358
+Vietnam,Retail,Heated Tobacco,Core,11,0.322856445,0.903446066
+Morocco,Retail,Oral Nicotine,Core,13,0.324578652,0.80207032
+Bangladesh,Retail,Oral Nicotine,Value,10,0.327280875,0.94441627
+Panama,E-Commerce,Cigarettes,Value,12,0.335795239,0.711011741
+Egypt,Retail,Cigarettes,Premium,34,0.339216105,0.66492813
+Honduras,Retail,Heated Tobacco,Value,21,0.339839939,0.757950489
+Thailand,Key Accounts,Cigarettes,Value,13,0.340114183,0.989187968
+Turkey,Key Accounts,Oral Nicotine,Value,15,0.345381079,0.627581582
+Pakistan,Retail,Cigarettes,Premium,16,0.345969107,0.997904216
+Nicaragua,Retail,Oral Nicotine,Core,15,0.348999748,0.880729653
+Honduras,Retail,Cigarettes,Premium,42,0.349361482,0.795722257
+Cuba,Retail,Heated Tobacco,Core,26,0.349775259,0.751262721
+Philippines,Key Accounts,Cigarettes,Value,31,0.352274305,0.91836428
+Spain,E-Commerce,Cigarettes,Value,28,0.355703758,0.719951628
+United States,E-Commerce,Heated Tobacco,Core,67,0.358248794,0.886719893
+United Kingdom,E-Commerce,Cigarettes,Value,53,0.364742047,0.92974516
+Iran,Retail,Cigarettes,Core,46,0.367942744,0.860691543
+Iran,Retail,Oral Nicotine,Core,12,0.377959208,0.770896622
+Democratic Republic of the Congo,Retail,Oral Nicotine,Premium,10,0.378245757,0.71673036
+China,E-Commerce,Heated Tobacco,Premium,22,0.378690936,0.889642879
+Nicaragua,E-Commerce,Cigarettes,Core,15,0.378828402,0.774045324
+Morocco,Key Accounts,Oral Nicotine,Value,11,0.380462658,0.922228058
+Nicaragua,Key Accounts,Oral Nicotine,Value,14,0.38225985,0.572252811
+Dominican Republic,E-Commerce,Heated Tobacco,Value,13,0.383827586,0.809325506
+Thailand,Key Accounts,Cigarettes,Core,18,0.385783884,0.962750693
+Netherlands,Retail,Oral Nicotine,Value,14,0.388450165,0.846212282
+Indonesia,E-Commerce,Heated Tobacco,Core,11,0.39357104,0.586554627
+Morocco,E-Commerce,Cigarettes,Premium,18,0.394099705,0.717926067
+Netherlands,Retail,Heated Tobacco,Core,16,0.397808143,0.830614825
+Panama,Retail,Oral Nicotine,Core,12,0.402884878,0.787286662
+New Zealand,E-Commerce,Cigarettes,Premium,16,0.410209854,0.956617174
+Panama,Retail,Cigarettes,Value,30,0.411858461,0.874231996
+New Zealand,Retail,Oral Nicotine,Value,23,0.421727221,0.923549948
+Morocco,Key Accounts,Heated Tobacco,Core,11,0.425451194,0.759167512
+New Zealand,E-Commerce,Cigarettes,Value,16,0.430417256,0.819483717
+Japan,Retail,Oral Nicotine,Core,10,0.431660381,0.823594136
+Iraq,E-Commerce,Cigarettes,Core,15,0.443133569,0.807050193
+Guatemala,E-Commerce,Cigarettes,Value,13,0.447009482,0.800017712
+Sweden,Retail,Cigarettes,Core,13,0.447770991,0.962460331
+Sudan,Retail,Cigarettes,Value,13,0.461499696,0.945457756
+Ukraine,Retail,Cigarettes,Core,32,0.461751553,0.841432568
+Sweden,Retail,Cigarettes,Value,13,0.487938402,0.826714422
+Democratic Republic of the Congo,Retail,Heated Tobacco,Premium,10,0.496481948,0.899517543
+New Zealand,Key Accounts,Cigarettes,Premium,30,0.49688399,0.868505193
+Poland,Key Accounts,Cigarettes,Core,19,0.497091445,0.799818595
+Angola,Retail,Cigarettes,Core,16,0.498551724,0.965035376
+Austria,Retail,Cigarettes,Value,24,0.506162778,0.869148239
+El Salvador,Retail,Oral Nicotine,Premium,31,0.508883125,0.823095277
+Denmark,Retail,Cigarettes,Value,12,0.510268116,0.873282318
+El Salvador,Key Accounts,Heated Tobacco,Value,14,0.522476784,0.817556338
+Tanzania,Retail,Cigarettes,Premium,12,0.522489033,0.992639802
+Turkey,Key Accounts,Heated Tobacco,Premium,29,0.526542518,0.768898187
+Morocco,Retail,Heated Tobacco,Core,15,0.528116971,0.904963538
+Honduras,E-Commerce,Oral Nicotine,Premium,10,0.564091672,0.816680729
+Argentina,Key Accounts,Oral Nicotine,Value,13,0.568042664,0.88091862
+Dominican Republic,Key Accounts,Heated Tobacco,Premium,10,0.577986912,0.805229201
+Tanzania,Key Accounts,Cigarettes,Value,13,0.594262583,0.952443422
+Saudi Arabia,Retail,Cigarettes,Premium,21,0.633694498,0.9395504
+Russia,E-Commerce,Cigarettes,Premium,11,0.635864395,0.974594287
+Argentina,Key Accounts,Oral Nicotine,Premium,10,0.649753361,0.943280485
+Guatemala,Retail,Heated Tobacco,Value,21,0.65789945,0.904192629
+Dominican Republic,Key Accounts,Heated Tobacco,Value,14,0.680371335,0.792086224
+Philippines,E-Commerce,Oral Nicotine,Value,10,0.680920281,0.840590641
+Netherlands,Key Accounts,Cigarettes,Premium,16,0.749226734,0.924675649
+Ukraine,E-Commerce,Cigarettes,Premium,11,0.750569973,0.989067253
+Afghanistan,E-Commerce,Cigarettes,Core,1,NA,NA
+Afghanistan,E-Commerce,Cigarettes,Premium,1,NA,NA
+Afghanistan,E-Commerce,Cigarettes,Value,1,NA,NA
+Afghanistan,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Afghanistan,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Afghanistan,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Afghanistan,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Afghanistan,Key Accounts,Cigarettes,Core,5,NA,NA
+Afghanistan,Key Accounts,Cigarettes,Premium,4,NA,NA
+Afghanistan,Key Accounts,Cigarettes,Value,6,NA,NA
+Afghanistan,Key Accounts,Heated Tobacco,Core,3,NA,NA
+Afghanistan,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Afghanistan,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Afghanistan,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Afghanistan,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Afghanistan,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Afghanistan,Retail,Cigarettes,Core,2,NA,NA
+Afghanistan,Retail,Cigarettes,Premium,3,NA,NA
+Afghanistan,Retail,Cigarettes,Value,2,NA,NA
+Afghanistan,Retail,Heated Tobacco,Core,1,NA,NA
+Afghanistan,Retail,Heated Tobacco,Premium,2,NA,NA
+Afghanistan,Retail,Heated Tobacco,Value,1,NA,NA
+Afghanistan,Retail,Oral Nicotine,Core,1,NA,NA
+Afghanistan,Retail,Oral Nicotine,Premium,1,NA,NA
+Afghanistan,Retail,Oral Nicotine,Value,1,NA,NA
+Albania,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Albania,Key Accounts,Cigarettes,Core,2,NA,NA
+Albania,Key Accounts,Cigarettes,Premium,1,NA,NA
+Albania,Key Accounts,Cigarettes,Value,1,NA,NA
+Albania,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Albania,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Albania,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Albania,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Albania,Retail,Cigarettes,Core,1,NA,NA
+Albania,Retail,Cigarettes,Premium,1,NA,NA
+Albania,Retail,Cigarettes,Value,1,NA,NA
+Albania,Retail,Heated Tobacco,Premium,1,NA,NA
+Albania,Retail,Oral Nicotine,Premium,1,NA,NA
+Algeria,E-Commerce,Cigarettes,Premium,3,NA,NA
+Algeria,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Algeria,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Algeria,E-Commerce,Heated Tobacco,Value,3,NA,NA
+Algeria,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Algeria,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Algeria,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Algeria,Key Accounts,Cigarettes,Core,8,NA,NA
+Algeria,Key Accounts,Cigarettes,Value,9,NA,NA
+Algeria,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Algeria,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Algeria,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Algeria,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Algeria,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Algeria,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Algeria,Retail,Heated Tobacco,Core,1,NA,NA
+Algeria,Retail,Heated Tobacco,Premium,6,NA,NA
+Algeria,Retail,Heated Tobacco,Value,5,NA,NA
+Algeria,Retail,Oral Nicotine,Core,5,NA,NA
+Algeria,Retail,Oral Nicotine,Premium,5,NA,NA
+Algeria,Retail,Oral Nicotine,Value,8,NA,NA
+Angola,E-Commerce,Cigarettes,Core,2,NA,NA
+Angola,E-Commerce,Cigarettes,Value,5,NA,NA
+Angola,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Angola,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Angola,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Angola,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Angola,E-Commerce,Oral Nicotine,Value,3,NA,NA
+Angola,Key Accounts,Cigarettes,Core,4,NA,NA
+Angola,Key Accounts,Cigarettes,Premium,4,NA,NA
+Angola,Key Accounts,Cigarettes,Value,7,NA,NA
+Angola,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Angola,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Angola,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Angola,Key Accounts,Oral Nicotine,Core,3,NA,NA
+Angola,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Angola,Retail,Heated Tobacco,Core,4,NA,NA
+Angola,Retail,Heated Tobacco,Premium,1,NA,NA
+Angola,Retail,Heated Tobacco,Value,4,NA,NA
+Angola,Retail,Oral Nicotine,Core,4,NA,NA
+Angola,Retail,Oral Nicotine,Premium,3,NA,NA
+Angola,Retail,Oral Nicotine,Value,4,NA,NA
+Argentina,E-Commerce,Cigarettes,Core,7,NA,NA
+Argentina,E-Commerce,Cigarettes,Value,7,NA,NA
+Argentina,E-Commerce,Heated Tobacco,Core,6,NA,NA
+Argentina,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Argentina,E-Commerce,Heated Tobacco,Value,5,NA,NA
+Argentina,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Argentina,E-Commerce,Oral Nicotine,Premium,3,NA,NA
+Argentina,E-Commerce,Oral Nicotine,Value,7,NA,NA
+Argentina,Key Accounts,Heated Tobacco,Core,6,NA,NA
+Argentina,Key Accounts,Heated Tobacco,Premium,8,NA,NA
+Argentina,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Argentina,Key Accounts,Oral Nicotine,Core,6,NA,NA
+Argentina,Retail,Heated Tobacco,Premium,8,NA,NA
+Armenia,Retail,Cigarettes,Premium,1,NA,NA
+Armenia,Retail,Oral Nicotine,Premium,1,NA,NA
+Armenia,Retail,Oral Nicotine,Value,1,NA,NA
+Austria,E-Commerce,Heated Tobacco,Core,5,NA,NA
+Austria,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Austria,E-Commerce,Heated Tobacco,Value,4,NA,NA
+Austria,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Austria,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Austria,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Austria,Key Accounts,Heated Tobacco,Core,6,NA,NA
+Austria,Key Accounts,Heated Tobacco,Premium,7,NA,NA
+Austria,Key Accounts,Heated Tobacco,Value,8,NA,NA
+Austria,Key Accounts,Oral Nicotine,Core,7,NA,NA
+Austria,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Austria,Key Accounts,Oral Nicotine,Value,7,NA,NA
+Austria,Retail,Heated Tobacco,Core,8,NA,NA
+Austria,Retail,Heated Tobacco,Premium,7,NA,NA
+Austria,Retail,Oral Nicotine,Core,8,NA,NA
+Austria,Retail,Oral Nicotine,Value,7,NA,NA
+Azerbaijan,Key Accounts,Cigarettes,Core,4,NA,NA
+Azerbaijan,Key Accounts,Cigarettes,Premium,3,NA,NA
+Azerbaijan,Key Accounts,Cigarettes,Value,1,NA,NA
+Azerbaijan,Key Accounts,Heated Tobacco,Premium,3,NA,NA
+Azerbaijan,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Azerbaijan,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Azerbaijan,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Azerbaijan,Retail,Cigarettes,Core,4,NA,NA
+Azerbaijan,Retail,Cigarettes,Premium,3,NA,NA
+Azerbaijan,Retail,Cigarettes,Value,1,NA,NA
+Azerbaijan,Retail,Heated Tobacco,Premium,1,NA,NA
+Azerbaijan,Retail,Oral Nicotine,Value,1,NA,NA
+Bahrain,Key Accounts,Cigarettes,Premium,1,NA,NA
+Bahrain,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Bangladesh,E-Commerce,Cigarettes,Core,9,NA,NA
+Bangladesh,E-Commerce,Cigarettes,Value,3,NA,NA
+Bangladesh,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Bangladesh,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Bangladesh,E-Commerce,Heated Tobacco,Value,3,NA,NA
+Bangladesh,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Bangladesh,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Bangladesh,Key Accounts,Cigarettes,Core,7,NA,NA
+Bangladesh,Key Accounts,Cigarettes,Premium,4,NA,NA
+Bangladesh,Key Accounts,Cigarettes,Value,7,NA,NA
+Bangladesh,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Bangladesh,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Bangladesh,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Bangladesh,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Bangladesh,Key Accounts,Oral Nicotine,Premium,4,NA,NA
+Bangladesh,Key Accounts,Oral Nicotine,Value,5,NA,NA
+Bangladesh,Retail,Heated Tobacco,Core,3,NA,NA
+Bangladesh,Retail,Heated Tobacco,Premium,4,NA,NA
+Bangladesh,Retail,Heated Tobacco,Value,9,NA,NA
+Bangladesh,Retail,Oral Nicotine,Core,4,NA,NA
+Bangladesh,Retail,Oral Nicotine,Premium,6,NA,NA
+Barbados,E-Commerce,Cigarettes,Core,2,NA,NA
+Barbados,Key Accounts,Cigarettes,Premium,1,NA,NA
+Barbados,Key Accounts,Cigarettes,Value,1,NA,NA
+Barbados,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Barbados,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Barbados,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Barbados,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Barbados,Retail,Cigarettes,Core,2,NA,NA
+Barbados,Retail,Cigarettes,Premium,4,NA,NA
+Barbados,Retail,Cigarettes,Value,1,NA,NA
+Barbados,Retail,Heated Tobacco,Premium,1,NA,NA
+Barbados,Retail,Heated Tobacco,Value,3,NA,NA
+Barbados,Retail,Oral Nicotine,Core,2,NA,NA
+Belarus,E-Commerce,Cigarettes,Core,2,NA,NA
+Belarus,E-Commerce,Cigarettes,Premium,3,NA,NA
+Belarus,E-Commerce,Cigarettes,Value,4,NA,NA
+Belarus,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Belarus,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Belarus,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Belarus,Key Accounts,Cigarettes,Core,3,NA,NA
+Belarus,Key Accounts,Cigarettes,Premium,3,NA,NA
+Belarus,Key Accounts,Cigarettes,Value,1,NA,NA
+Belarus,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Belarus,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Belarus,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Belarus,Retail,Cigarettes,Premium,8,NA,NA
+Belarus,Retail,Heated Tobacco,Core,4,NA,NA
+Belarus,Retail,Heated Tobacco,Premium,1,NA,NA
+Belarus,Retail,Heated Tobacco,Value,1,NA,NA
+Belarus,Retail,Oral Nicotine,Core,1,NA,NA
+Belarus,Retail,Oral Nicotine,Premium,2,NA,NA
+Belgium,E-Commerce,Cigarettes,Core,5,NA,NA
+Belgium,E-Commerce,Cigarettes,Premium,3,NA,NA
+Belgium,E-Commerce,Cigarettes,Value,7,NA,NA
+Belgium,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Belgium,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Belgium,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Belgium,Key Accounts,Cigarettes,Premium,7,NA,NA
+Belgium,Key Accounts,Heated Tobacco,Premium,7,NA,NA
+Belgium,Key Accounts,Heated Tobacco,Value,3,NA,NA
+Belgium,Key Accounts,Oral Nicotine,Core,5,NA,NA
+Belgium,Key Accounts,Oral Nicotine,Premium,5,NA,NA
+Belgium,Key Accounts,Oral Nicotine,Value,3,NA,NA
+Belgium,Retail,Heated Tobacco,Core,3,NA,NA
+Belgium,Retail,Heated Tobacco,Premium,2,NA,NA
+Belgium,Retail,Heated Tobacco,Value,1,NA,NA
+Belgium,Retail,Oral Nicotine,Core,3,NA,NA
+Belgium,Retail,Oral Nicotine,Premium,1,NA,NA
+Belgium,Retail,Oral Nicotine,Value,3,NA,NA
+Benin,E-Commerce,Cigarettes,Value,1,NA,NA
+Benin,Key Accounts,Cigarettes,Core,3,NA,NA
+Benin,Key Accounts,Cigarettes,Premium,4,NA,NA
+Benin,Key Accounts,Cigarettes,Value,6,NA,NA
+Benin,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Benin,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Benin,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Benin,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Benin,Retail,Cigarettes,Core,3,NA,NA
+Benin,Retail,Cigarettes,Premium,5,NA,NA
+Benin,Retail,Cigarettes,Value,1,NA,NA
+Benin,Retail,Heated Tobacco,Premium,2,NA,NA
+Bolivia,E-Commerce,Cigarettes,Core,3,NA,NA
+Bolivia,E-Commerce,Cigarettes,Premium,2,NA,NA
+Bolivia,E-Commerce,Cigarettes,Value,1,NA,NA
+Bolivia,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Bolivia,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Bolivia,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Bolivia,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Bolivia,Key Accounts,Cigarettes,Core,1,NA,NA
+Bolivia,Key Accounts,Cigarettes,Value,2,NA,NA
+Bolivia,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Bolivia,Retail,Cigarettes,Core,5,NA,NA
+Bolivia,Retail,Cigarettes,Premium,5,NA,NA
+Bolivia,Retail,Cigarettes,Value,5,NA,NA
+Bolivia,Retail,Heated Tobacco,Core,1,NA,NA
+Bolivia,Retail,Heated Tobacco,Premium,2,NA,NA
+Bolivia,Retail,Heated Tobacco,Value,1,NA,NA
+Bolivia,Retail,Oral Nicotine,Core,2,NA,NA
+Bolivia,Retail,Oral Nicotine,Premium,4,NA,NA
+Bolivia,Retail,Oral Nicotine,Value,2,NA,NA
+Bosnia and Herzegovina,E-Commerce,Cigarettes,Core,3,NA,NA
+Bosnia and Herzegovina,E-Commerce,Cigarettes,Premium,2,NA,NA
+Bosnia and Herzegovina,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Bosnia and Herzegovina,Retail,Cigarettes,Premium,1,NA,NA
+Bosnia and Herzegovina,Retail,Cigarettes,Value,2,NA,NA
+Bosnia and Herzegovina,Retail,Heated Tobacco,Core,1,NA,NA
+Bosnia and Herzegovina,Retail,Heated Tobacco,Premium,1,NA,NA
+Bosnia and Herzegovina,Retail,Heated Tobacco,Value,2,NA,NA
+Bulgaria,E-Commerce,Cigarettes,Core,3,NA,NA
+Bulgaria,E-Commerce,Cigarettes,Premium,2,NA,NA
+Bulgaria,E-Commerce,Cigarettes,Value,1,NA,NA
+Bulgaria,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Bulgaria,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Bulgaria,Key Accounts,Cigarettes,Core,1,NA,NA
+Bulgaria,Key Accounts,Cigarettes,Premium,2,NA,NA
+Bulgaria,Key Accounts,Cigarettes,Value,3,NA,NA
+Bulgaria,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Bulgaria,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Bulgaria,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Bulgaria,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Bulgaria,Retail,Cigarettes,Value,7,NA,NA
+Bulgaria,Retail,Heated Tobacco,Core,3,NA,NA
+Bulgaria,Retail,Heated Tobacco,Premium,4,NA,NA
+Bulgaria,Retail,Heated Tobacco,Value,1,NA,NA
+Bulgaria,Retail,Oral Nicotine,Core,1,NA,NA
+Bulgaria,Retail,Oral Nicotine,Premium,6,NA,NA
+Bulgaria,Retail,Oral Nicotine,Value,3,NA,NA
+Burundi,Retail,Oral Nicotine,Core,1,NA,NA
+Burundi,Retail,Oral Nicotine,Premium,1,NA,NA
+Cambodia,E-Commerce,Cigarettes,Core,1,NA,NA
+Cambodia,E-Commerce,Cigarettes,Premium,1,NA,NA
+Cambodia,E-Commerce,Cigarettes,Value,1,NA,NA
+Cambodia,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Cambodia,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Cambodia,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Cambodia,Key Accounts,Cigarettes,Core,3,NA,NA
+Cambodia,Key Accounts,Cigarettes,Value,1,NA,NA
+Cambodia,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Cambodia,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Cambodia,Key Accounts,Oral Nicotine,Core,3,NA,NA
+Cambodia,Retail,Cigarettes,Core,5,NA,NA
+Cambodia,Retail,Cigarettes,Premium,4,NA,NA
+Cambodia,Retail,Cigarettes,Value,3,NA,NA
+Cambodia,Retail,Heated Tobacco,Core,2,NA,NA
+Cambodia,Retail,Heated Tobacco,Premium,3,NA,NA
+Cambodia,Retail,Heated Tobacco,Value,2,NA,NA
+Cambodia,Retail,Oral Nicotine,Core,1,NA,NA
+Cambodia,Retail,Oral Nicotine,Premium,3,NA,NA
+Cambodia,Retail,Oral Nicotine,Value,1,NA,NA
+Cameroon,E-Commerce,Cigarettes,Core,3,NA,NA
+Cameroon,E-Commerce,Cigarettes,Premium,5,NA,NA
+Cameroon,E-Commerce,Cigarettes,Value,7,NA,NA
+Cameroon,E-Commerce,Heated Tobacco,Value,3,NA,NA
+Cameroon,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Cameroon,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Cameroon,Key Accounts,Cigarettes,Core,4,NA,NA
+Cameroon,Key Accounts,Cigarettes,Value,8,NA,NA
+Cameroon,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Cameroon,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Cameroon,Key Accounts,Heated Tobacco,Value,3,NA,NA
+Cameroon,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Cameroon,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Cameroon,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Cameroon,Retail,Cigarettes,Core,8,NA,NA
+Cameroon,Retail,Cigarettes,Premium,8,NA,NA
+Cameroon,Retail,Heated Tobacco,Core,4,NA,NA
+Cameroon,Retail,Heated Tobacco,Premium,5,NA,NA
+Cameroon,Retail,Heated Tobacco,Value,2,NA,NA
+Cameroon,Retail,Oral Nicotine,Core,5,NA,NA
+Cameroon,Retail,Oral Nicotine,Premium,2,NA,NA
+Cameroon,Retail,Oral Nicotine,Value,2,NA,NA
+Canada,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Canada,E-Commerce,Heated Tobacco,Premium,5,NA,NA
+Canada,E-Commerce,Heated Tobacco,Value,3,NA,NA
+Canada,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Canada,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Canada,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Canada,Key Accounts,Heated Tobacco,Core,6,NA,NA
+Canada,Key Accounts,Heated Tobacco,Premium,5,NA,NA
+Canada,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Canada,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Canada,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Canada,Key Accounts,Oral Nicotine,Value,7,NA,NA
+Canada,Retail,Heated Tobacco,Premium,9,NA,NA
+Canada,Retail,Heated Tobacco,Value,9,NA,NA
+Canada,Retail,Oral Nicotine,Core,9,NA,NA
+Canada,Retail,Oral Nicotine,Premium,5,NA,NA
+Central African Republic,Key Accounts,Cigarettes,Core,1,NA,NA
+Central African Republic,Key Accounts,Cigarettes,Premium,1,NA,NA
+Central African Republic,Key Accounts,Cigarettes,Value,1,NA,NA
+Central African Republic,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Central African Republic,Retail,Cigarettes,Premium,1,NA,NA
+Central African Republic,Retail,Cigarettes,Value,1,NA,NA
+Central African Republic,Retail,Heated Tobacco,Core,1,NA,NA
+Chad,E-Commerce,Cigarettes,Premium,1,NA,NA
+Chile,E-Commerce,Cigarettes,Core,6,NA,NA
+Chile,E-Commerce,Cigarettes,Premium,5,NA,NA
+Chile,E-Commerce,Cigarettes,Value,2,NA,NA
+Chile,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Chile,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Chile,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Chile,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Chile,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Chile,Key Accounts,Cigarettes,Core,7,NA,NA
+Chile,Key Accounts,Cigarettes,Premium,2,NA,NA
+Chile,Key Accounts,Cigarettes,Value,8,NA,NA
+Chile,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Chile,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Chile,Key Accounts,Heated Tobacco,Value,3,NA,NA
+Chile,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Chile,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Chile,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Chile,Retail,Heated Tobacco,Core,6,NA,NA
+Chile,Retail,Heated Tobacco,Premium,7,NA,NA
+Chile,Retail,Heated Tobacco,Value,4,NA,NA
+Chile,Retail,Oral Nicotine,Core,8,NA,NA
+Chile,Retail,Oral Nicotine,Premium,5,NA,NA
+Chile,Retail,Oral Nicotine,Value,8,NA,NA
+Colombia,E-Commerce,Cigarettes,Premium,8,NA,NA
+Colombia,E-Commerce,Heated Tobacco,Core,7,NA,NA
+Colombia,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Colombia,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Colombia,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Colombia,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Colombia,E-Commerce,Oral Nicotine,Value,5,NA,NA
+Colombia,Key Accounts,Heated Tobacco,Core,6,NA,NA
+Colombia,Key Accounts,Heated Tobacco,Premium,6,NA,NA
+Colombia,Key Accounts,Heated Tobacco,Value,8,NA,NA
+Colombia,Key Accounts,Oral Nicotine,Core,7,NA,NA
+Colombia,Key Accounts,Oral Nicotine,Premium,7,NA,NA
+Colombia,Key Accounts,Oral Nicotine,Value,4,NA,NA
+Cote d'Ivoire,E-Commerce,Cigarettes,Core,5,NA,NA
+Cote d'Ivoire,E-Commerce,Cigarettes,Premium,6,NA,NA
+Cote d'Ivoire,E-Commerce,Cigarettes,Value,2,NA,NA
+Cote d'Ivoire,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Cote d'Ivoire,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Cote d'Ivoire,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Cote d'Ivoire,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Cote d'Ivoire,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Cote d'Ivoire,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Cote d'Ivoire,Key Accounts,Cigarettes,Core,9,NA,NA
+Cote d'Ivoire,Key Accounts,Cigarettes,Premium,6,NA,NA
+Cote d'Ivoire,Key Accounts,Cigarettes,Value,2,NA,NA
+Cote d'Ivoire,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Cote d'Ivoire,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Cote d'Ivoire,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Cote d'Ivoire,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Cote d'Ivoire,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Cote d'Ivoire,Retail,Cigarettes,Core,7,NA,NA
+Cote d'Ivoire,Retail,Cigarettes,Premium,8,NA,NA
+Cote d'Ivoire,Retail,Cigarettes,Value,6,NA,NA
+Cote d'Ivoire,Retail,Heated Tobacco,Core,5,NA,NA
+Cote d'Ivoire,Retail,Heated Tobacco,Premium,2,NA,NA
+Cote d'Ivoire,Retail,Heated Tobacco,Value,5,NA,NA
+Cote d'Ivoire,Retail,Oral Nicotine,Core,3,NA,NA
+Cote d'Ivoire,Retail,Oral Nicotine,Premium,1,NA,NA
+Cote d'Ivoire,Retail,Oral Nicotine,Value,6,NA,NA
+Croatia,E-Commerce,Cigarettes,Core,1,NA,NA
+Croatia,E-Commerce,Cigarettes,Premium,1,NA,NA
+Croatia,E-Commerce,Cigarettes,Value,1,NA,NA
+Croatia,Key Accounts,Cigarettes,Core,2,NA,NA
+Croatia,Key Accounts,Cigarettes,Premium,4,NA,NA
+Croatia,Key Accounts,Cigarettes,Value,3,NA,NA
+Croatia,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Croatia,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Croatia,Retail,Cigarettes,Core,4,NA,NA
+Croatia,Retail,Cigarettes,Premium,4,NA,NA
+Croatia,Retail,Cigarettes,Value,2,NA,NA
+Croatia,Retail,Heated Tobacco,Premium,1,NA,NA
+Croatia,Retail,Heated Tobacco,Value,2,NA,NA
+Croatia,Retail,Oral Nicotine,Core,1,NA,NA
+Croatia,Retail,Oral Nicotine,Value,1,NA,NA
+Cuba,E-Commerce,Heated Tobacco,Core,7,NA,NA
+Cuba,E-Commerce,Heated Tobacco,Premium,6,NA,NA
+Cuba,E-Commerce,Heated Tobacco,Value,7,NA,NA
+Cuba,E-Commerce,Oral Nicotine,Core,8,NA,NA
+Cuba,E-Commerce,Oral Nicotine,Premium,8,NA,NA
+Cuba,E-Commerce,Oral Nicotine,Value,7,NA,NA
+Czech Republic,E-Commerce,Cigarettes,Core,6,NA,NA
+Czech Republic,E-Commerce,Cigarettes,Premium,3,NA,NA
+Czech Republic,E-Commerce,Cigarettes,Value,2,NA,NA
+Czech Republic,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Czech Republic,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Czech Republic,Key Accounts,Cigarettes,Core,3,NA,NA
+Czech Republic,Key Accounts,Cigarettes,Premium,5,NA,NA
+Czech Republic,Key Accounts,Cigarettes,Value,5,NA,NA
+Czech Republic,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Czech Republic,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Czech Republic,Retail,Cigarettes,Core,4,NA,NA
+Czech Republic,Retail,Cigarettes,Premium,6,NA,NA
+Czech Republic,Retail,Cigarettes,Value,7,NA,NA
+Czech Republic,Retail,Heated Tobacco,Core,3,NA,NA
+Czech Republic,Retail,Heated Tobacco,Premium,1,NA,NA
+Czech Republic,Retail,Heated Tobacco,Value,1,NA,NA
+Czech Republic,Retail,Oral Nicotine,Core,2,NA,NA
+Czech Republic,Retail,Oral Nicotine,Premium,2,NA,NA
+Czech Republic,Retail,Oral Nicotine,Value,2,NA,NA
+Democratic Republic of the Congo,E-Commerce,Cigarettes,Premium,9,NA,NA
+Democratic Republic of the Congo,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Democratic Republic of the Congo,E-Commerce,Heated Tobacco,Premium,5,NA,NA
+Democratic Republic of the Congo,E-Commerce,Heated Tobacco,Value,5,NA,NA
+Democratic Republic of the Congo,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Democratic Republic of the Congo,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Democratic Republic of the Congo,E-Commerce,Oral Nicotine,Value,5,NA,NA
+Democratic Republic of the Congo,Key Accounts,Heated Tobacco,Core,6,NA,NA
+Democratic Republic of the Congo,Key Accounts,Heated Tobacco,Value,8,NA,NA
+Democratic Republic of the Congo,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Democratic Republic of the Congo,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Democratic Republic of the Congo,Retail,Heated Tobacco,Core,9,NA,NA
+Democratic Republic of the Congo,Retail,Oral Nicotine,Core,6,NA,NA
+Democratic Republic of the Congo,Retail,Oral Nicotine,Value,8,NA,NA
+Denmark,E-Commerce,Cigarettes,Core,1,NA,NA
+Denmark,E-Commerce,Cigarettes,Value,2,NA,NA
+Denmark,Key Accounts,Cigarettes,Core,1,NA,NA
+Denmark,Key Accounts,Cigarettes,Premium,3,NA,NA
+Denmark,Key Accounts,Cigarettes,Value,3,NA,NA
+Denmark,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Denmark,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Denmark,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Denmark,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Denmark,Retail,Cigarettes,Core,8,NA,NA
+Denmark,Retail,Cigarettes,Premium,4,NA,NA
+Denmark,Retail,Heated Tobacco,Core,3,NA,NA
+Denmark,Retail,Heated Tobacco,Premium,3,NA,NA
+Denmark,Retail,Heated Tobacco,Value,2,NA,NA
+Denmark,Retail,Oral Nicotine,Core,2,NA,NA
+Denmark,Retail,Oral Nicotine,Premium,1,NA,NA
+Denmark,Retail,Oral Nicotine,Value,3,NA,NA
+Djibouti,E-Commerce,Cigarettes,Value,1,NA,NA
+Djibouti,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Djibouti,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Djibouti,Key Accounts,Cigarettes,Core,1,NA,NA
+Djibouti,Key Accounts,Cigarettes,Premium,1,NA,NA
+Djibouti,Key Accounts,Cigarettes,Value,1,NA,NA
+Djibouti,Retail,Cigarettes,Core,1,NA,NA
+Djibouti,Retail,Cigarettes,Premium,2,NA,NA
+Djibouti,Retail,Cigarettes,Value,1,NA,NA
+Dominican Republic,E-Commerce,Heated Tobacco,Core,6,NA,NA
+Dominican Republic,E-Commerce,Heated Tobacco,Premium,8,NA,NA
+Dominican Republic,E-Commerce,Oral Nicotine,Premium,8,NA,NA
+Ecuador,E-Commerce,Cigarettes,Core,1,NA,NA
+Ecuador,E-Commerce,Cigarettes,Premium,1,NA,NA
+Ecuador,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Ecuador,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Ecuador,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Ecuador,Key Accounts,Cigarettes,Core,3,NA,NA
+Ecuador,Key Accounts,Cigarettes,Premium,1,NA,NA
+Ecuador,Key Accounts,Cigarettes,Value,4,NA,NA
+Ecuador,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Ecuador,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Ecuador,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Ecuador,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Ecuador,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Ecuador,Retail,Cigarettes,Core,5,NA,NA
+Ecuador,Retail,Cigarettes,Premium,6,NA,NA
+Ecuador,Retail,Cigarettes,Value,2,NA,NA
+Ecuador,Retail,Heated Tobacco,Premium,3,NA,NA
+Ecuador,Retail,Heated Tobacco,Value,2,NA,NA
+Ecuador,Retail,Oral Nicotine,Core,4,NA,NA
+Ecuador,Retail,Oral Nicotine,Premium,2,NA,NA
+Egypt,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Egypt,E-Commerce,Heated Tobacco,Premium,7,NA,NA
+Egypt,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Egypt,E-Commerce,Oral Nicotine,Core,3,NA,NA
+Egypt,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Egypt,E-Commerce,Oral Nicotine,Value,6,NA,NA
+Egypt,Key Accounts,Heated Tobacco,Core,8,NA,NA
+Egypt,Key Accounts,Heated Tobacco,Premium,8,NA,NA
+Egypt,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Egypt,Key Accounts,Oral Nicotine,Core,7,NA,NA
+Egypt,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Egypt,Key Accounts,Oral Nicotine,Value,4,NA,NA
+El Salvador,E-Commerce,Heated Tobacco,Core,6,NA,NA
+El Salvador,E-Commerce,Heated Tobacco,Premium,4,NA,NA
+El Salvador,E-Commerce,Heated Tobacco,Value,6,NA,NA
+El Salvador,E-Commerce,Oral Nicotine,Core,6,NA,NA
+El Salvador,E-Commerce,Oral Nicotine,Value,8,NA,NA
+Equatorial Guinea,Retail,Cigarettes,Core,1,NA,NA
+Equatorial Guinea,Retail,Cigarettes,Value,1,NA,NA
+Equatorial Guinea,Retail,Heated Tobacco,Value,1,NA,NA
+Eritrea,Key Accounts,Cigarettes,Premium,1,NA,NA
+Eritrea,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Estonia,Key Accounts,Cigarettes,Core,3,NA,NA
+Estonia,Key Accounts,Cigarettes,Premium,1,NA,NA
+Estonia,Key Accounts,Cigarettes,Value,1,NA,NA
+Estonia,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Estonia,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Estonia,Key Accounts,Oral Nicotine,Value,4,NA,NA
+Estonia,Retail,Cigarettes,Premium,1,NA,NA
+Estonia,Retail,Oral Nicotine,Core,1,NA,NA
+Ethiopia,E-Commerce,Cigarettes,Value,1,NA,NA
+Ethiopia,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Ethiopia,Key Accounts,Cigarettes,Core,1,NA,NA
+Ethiopia,Retail,Cigarettes,Core,1,NA,NA
+Ethiopia,Retail,Cigarettes,Premium,1,NA,NA
+Ethiopia,Retail,Cigarettes,Value,1,NA,NA
+Finland,E-Commerce,Cigarettes,Premium,1,NA,NA
+Finland,E-Commerce,Cigarettes,Value,2,NA,NA
+Finland,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Finland,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Finland,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Finland,Key Accounts,Cigarettes,Core,2,NA,NA
+Finland,Key Accounts,Cigarettes,Premium,2,NA,NA
+Finland,Key Accounts,Cigarettes,Value,3,NA,NA
+Finland,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Finland,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Finland,Key Accounts,Oral Nicotine,Value,4,NA,NA
+Finland,Retail,Cigarettes,Core,6,NA,NA
+Finland,Retail,Cigarettes,Premium,6,NA,NA
+Finland,Retail,Cigarettes,Value,6,NA,NA
+Finland,Retail,Heated Tobacco,Core,3,NA,NA
+Finland,Retail,Heated Tobacco,Premium,4,NA,NA
+Finland,Retail,Heated Tobacco,Value,1,NA,NA
+Finland,Retail,Oral Nicotine,Core,2,NA,NA
+Finland,Retail,Oral Nicotine,Premium,4,NA,NA
+Finland,Retail,Oral Nicotine,Value,1,NA,NA
+Gabon,Key Accounts,Cigarettes,Premium,1,NA,NA
+Gabon,Key Accounts,Cigarettes,Value,1,NA,NA
+Gabon,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Gabon,Retail,Cigarettes,Core,1,NA,NA
+Gabon,Retail,Cigarettes,Premium,1,NA,NA
+Gabon,Retail,Cigarettes,Value,2,NA,NA
+Gabon,Retail,Heated Tobacco,Core,1,NA,NA
+Georgia,E-Commerce,Cigarettes,Core,1,NA,NA
+Georgia,E-Commerce,Cigarettes,Premium,2,NA,NA
+Georgia,Key Accounts,Cigarettes,Core,1,NA,NA
+Georgia,Key Accounts,Cigarettes,Premium,4,NA,NA
+Georgia,Key Accounts,Cigarettes,Value,3,NA,NA
+Georgia,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Georgia,Retail,Cigarettes,Core,1,NA,NA
+Georgia,Retail,Cigarettes,Premium,5,NA,NA
+Georgia,Retail,Cigarettes,Value,5,NA,NA
+Georgia,Retail,Heated Tobacco,Premium,1,NA,NA
+Georgia,Retail,Heated Tobacco,Value,3,NA,NA
+Georgia,Retail,Oral Nicotine,Core,1,NA,NA
+Georgia,Retail,Oral Nicotine,Premium,1,NA,NA
+Georgia,Retail,Oral Nicotine,Value,1,NA,NA
+Ghana,E-Commerce,Cigarettes,Core,5,NA,NA
+Ghana,E-Commerce,Cigarettes,Premium,2,NA,NA
+Ghana,E-Commerce,Cigarettes,Value,3,NA,NA
+Ghana,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Ghana,E-Commerce,Heated Tobacco,Value,3,NA,NA
+Ghana,Key Accounts,Cigarettes,Core,6,NA,NA
+Ghana,Key Accounts,Cigarettes,Premium,5,NA,NA
+Ghana,Key Accounts,Cigarettes,Value,2,NA,NA
+Ghana,Key Accounts,Heated Tobacco,Core,3,NA,NA
+Ghana,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Ghana,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Ghana,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Ghana,Retail,Heated Tobacco,Core,5,NA,NA
+Ghana,Retail,Heated Tobacco,Premium,4,NA,NA
+Ghana,Retail,Heated Tobacco,Value,4,NA,NA
+Ghana,Retail,Oral Nicotine,Core,2,NA,NA
+Ghana,Retail,Oral Nicotine,Premium,3,NA,NA
+Guadeloupe,E-Commerce,Cigarettes,Core,1,NA,NA
+Guadeloupe,E-Commerce,Cigarettes,Value,1,NA,NA
+Guadeloupe,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Guadeloupe,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Guadeloupe,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Guadeloupe,Retail,Heated Tobacco,Core,1,NA,NA
+Guadeloupe,Retail,Oral Nicotine,Premium,1,NA,NA
+Guadeloupe,Retail,Oral Nicotine,Value,1,NA,NA
+Guatemala,E-Commerce,Cigarettes,Core,8,NA,NA
+Guatemala,E-Commerce,Heated Tobacco,Core,8,NA,NA
+Guatemala,E-Commerce,Heated Tobacco,Premium,6,NA,NA
+Guatemala,E-Commerce,Oral Nicotine,Core,8,NA,NA
+Guatemala,Key Accounts,Heated Tobacco,Core,9,NA,NA
+Guatemala,Key Accounts,Heated Tobacco,Premium,3,NA,NA
+Guatemala,Key Accounts,Oral Nicotine,Core,8,NA,NA
+Guatemala,Key Accounts,Oral Nicotine,Premium,8,NA,NA
+Guinea,E-Commerce,Cigarettes,Core,1,NA,NA
+Guinea,Key Accounts,Cigarettes,Premium,1,NA,NA
+Guinea,Key Accounts,Cigarettes,Value,2,NA,NA
+Guinea,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Guinea,Retail,Cigarettes,Core,1,NA,NA
+Guinea,Retail,Cigarettes,Premium,3,NA,NA
+Guinea,Retail,Cigarettes,Value,3,NA,NA
+Guinea,Retail,Heated Tobacco,Core,1,NA,NA
+Guinea,Retail,Heated Tobacco,Value,1,NA,NA
+Guinea-Bissau,E-Commerce,Cigarettes,Core,1,NA,NA
+Guinea-Bissau,E-Commerce,Cigarettes,Premium,2,NA,NA
+Guinea-Bissau,E-Commerce,Cigarettes,Value,1,NA,NA
+Guinea-Bissau,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Guinea-Bissau,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Guinea-Bissau,Retail,Cigarettes,Premium,1,NA,NA
+Guinea-Bissau,Retail,Heated Tobacco,Core,1,NA,NA
+Guinea-Bissau,Retail,Heated Tobacco,Value,1,NA,NA
+Haiti,E-Commerce,Cigarettes,Core,3,NA,NA
+Haiti,E-Commerce,Cigarettes,Premium,1,NA,NA
+Haiti,E-Commerce,Cigarettes,Value,1,NA,NA
+Haiti,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Haiti,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Haiti,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Haiti,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Haiti,Key Accounts,Cigarettes,Core,5,NA,NA
+Haiti,Key Accounts,Cigarettes,Premium,6,NA,NA
+Haiti,Key Accounts,Cigarettes,Value,8,NA,NA
+Haiti,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Haiti,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Haiti,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Haiti,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Haiti,Key Accounts,Oral Nicotine,Premium,4,NA,NA
+Haiti,Key Accounts,Oral Nicotine,Value,3,NA,NA
+Haiti,Retail,Cigarettes,Core,8,NA,NA
+Haiti,Retail,Cigarettes,Premium,7,NA,NA
+Haiti,Retail,Cigarettes,Value,4,NA,NA
+Haiti,Retail,Heated Tobacco,Core,5,NA,NA
+Haiti,Retail,Heated Tobacco,Premium,1,NA,NA
+Haiti,Retail,Heated Tobacco,Value,2,NA,NA
+Haiti,Retail,Oral Nicotine,Core,4,NA,NA
+Haiti,Retail,Oral Nicotine,Premium,6,NA,NA
+Haiti,Retail,Oral Nicotine,Value,4,NA,NA
+Honduras,E-Commerce,Heated Tobacco,Core,5,NA,NA
+Honduras,E-Commerce,Heated Tobacco,Value,8,NA,NA
+Honduras,E-Commerce,Oral Nicotine,Core,8,NA,NA
+Honduras,E-Commerce,Oral Nicotine,Value,9,NA,NA
+Hong Kong,E-Commerce,Cigarettes,Core,1,NA,NA
+Hong Kong,E-Commerce,Cigarettes,Premium,2,NA,NA
+Hong Kong,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Hong Kong,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Hong Kong,Retail,Cigarettes,Core,3,NA,NA
+Hong Kong,Retail,Cigarettes,Premium,2,NA,NA
+Hong Kong,Retail,Cigarettes,Value,2,NA,NA
+Hong Kong,Retail,Heated Tobacco,Core,1,NA,NA
+Hong Kong,Retail,Heated Tobacco,Value,1,NA,NA
+Hong Kong,Retail,Oral Nicotine,Premium,1,NA,NA
+Hong Kong,Retail,Oral Nicotine,Value,1,NA,NA
+Hungary,E-Commerce,Cigarettes,Core,3,NA,NA
+Hungary,E-Commerce,Cigarettes,Premium,2,NA,NA
+Hungary,E-Commerce,Cigarettes,Value,2,NA,NA
+Hungary,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Hungary,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Hungary,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Hungary,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Hungary,Key Accounts,Cigarettes,Core,3,NA,NA
+Hungary,Key Accounts,Cigarettes,Premium,3,NA,NA
+Hungary,Key Accounts,Cigarettes,Value,4,NA,NA
+Hungary,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Hungary,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Hungary,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Hungary,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Hungary,Retail,Cigarettes,Core,8,NA,NA
+Hungary,Retail,Cigarettes,Premium,7,NA,NA
+Hungary,Retail,Cigarettes,Value,7,NA,NA
+Hungary,Retail,Heated Tobacco,Core,2,NA,NA
+Hungary,Retail,Heated Tobacco,Premium,1,NA,NA
+Hungary,Retail,Oral Nicotine,Core,1,NA,NA
+Indonesia,E-Commerce,Heated Tobacco,Value,9,NA,NA
+Iran,E-Commerce,Heated Tobacco,Core,7,NA,NA
+Iran,E-Commerce,Heated Tobacco,Premium,6,NA,NA
+Iran,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Iran,E-Commerce,Oral Nicotine,Core,5,NA,NA
+Iran,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Iran,E-Commerce,Oral Nicotine,Value,8,NA,NA
+Iran,Key Accounts,Heated Tobacco,Premium,8,NA,NA
+Iran,Key Accounts,Heated Tobacco,Value,7,NA,NA
+Iran,Key Accounts,Oral Nicotine,Core,8,NA,NA
+Iran,Key Accounts,Oral Nicotine,Premium,8,NA,NA
+Iran,Key Accounts,Oral Nicotine,Value,8,NA,NA
+Iraq,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Iraq,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Iraq,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Iraq,E-Commerce,Oral Nicotine,Core,5,NA,NA
+Iraq,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Iraq,E-Commerce,Oral Nicotine,Value,4,NA,NA
+Iraq,Key Accounts,Heated Tobacco,Core,6,NA,NA
+Iraq,Key Accounts,Heated Tobacco,Premium,6,NA,NA
+Iraq,Key Accounts,Oral Nicotine,Core,6,NA,NA
+Iraq,Key Accounts,Oral Nicotine,Premium,6,NA,NA
+Iraq,Key Accounts,Oral Nicotine,Value,4,NA,NA
+Ireland,E-Commerce,Cigarettes,Core,5,NA,NA
+Ireland,E-Commerce,Cigarettes,Premium,4,NA,NA
+Ireland,E-Commerce,Cigarettes,Value,3,NA,NA
+Ireland,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Ireland,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Ireland,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Ireland,Key Accounts,Cigarettes,Core,4,NA,NA
+Ireland,Key Accounts,Cigarettes,Premium,3,NA,NA
+Ireland,Key Accounts,Cigarettes,Value,5,NA,NA
+Ireland,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Ireland,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Ireland,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Ireland,Retail,Heated Tobacco,Core,5,NA,NA
+Ireland,Retail,Heated Tobacco,Premium,3,NA,NA
+Ireland,Retail,Heated Tobacco,Value,5,NA,NA
+Ireland,Retail,Oral Nicotine,Core,2,NA,NA
+Ireland,Retail,Oral Nicotine,Premium,4,NA,NA
+Israel,E-Commerce,Cigarettes,Core,3,NA,NA
+Israel,E-Commerce,Cigarettes,Premium,1,NA,NA
+Israel,E-Commerce,Cigarettes,Value,4,NA,NA
+Israel,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Israel,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Israel,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Israel,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Israel,Key Accounts,Cigarettes,Core,8,NA,NA
+Israel,Key Accounts,Cigarettes,Premium,5,NA,NA
+Israel,Key Accounts,Cigarettes,Value,7,NA,NA
+Israel,Key Accounts,Heated Tobacco,Core,3,NA,NA
+Israel,Key Accounts,Heated Tobacco,Premium,5,NA,NA
+Israel,Key Accounts,Heated Tobacco,Value,3,NA,NA
+Israel,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Israel,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Israel,Retail,Cigarettes,Value,6,NA,NA
+Israel,Retail,Heated Tobacco,Core,2,NA,NA
+Israel,Retail,Heated Tobacco,Premium,4,NA,NA
+Israel,Retail,Heated Tobacco,Value,3,NA,NA
+Israel,Retail,Oral Nicotine,Premium,4,NA,NA
+Israel,Retail,Oral Nicotine,Value,3,NA,NA
+Italy,E-Commerce,Heated Tobacco,Core,4,NA,NA
+Italy,E-Commerce,Oral Nicotine,Core,8,NA,NA
+Italy,E-Commerce,Oral Nicotine,Value,6,NA,NA
+Jamaica,E-Commerce,Cigarettes,Value,1,NA,NA
+Jamaica,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Jamaica,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Jamaica,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Jamaica,Key Accounts,Cigarettes,Core,2,NA,NA
+Jamaica,Key Accounts,Cigarettes,Premium,2,NA,NA
+Jamaica,Key Accounts,Cigarettes,Value,3,NA,NA
+Jamaica,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Jamaica,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Jamaica,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Jamaica,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Jamaica,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Jamaica,Retail,Cigarettes,Core,3,NA,NA
+Jamaica,Retail,Cigarettes,Premium,1,NA,NA
+Jamaica,Retail,Cigarettes,Value,3,NA,NA
+Jamaica,Retail,Heated Tobacco,Premium,1,NA,NA
+Jamaica,Retail,Oral Nicotine,Core,2,NA,NA
+Jamaica,Retail,Oral Nicotine,Value,1,NA,NA
+Japan,E-Commerce,Cigarettes,Core,6,NA,NA
+Japan,E-Commerce,Cigarettes,Premium,8,NA,NA
+Japan,E-Commerce,Cigarettes,Value,5,NA,NA
+Japan,E-Commerce,Heated Tobacco,Core,6,NA,NA
+Japan,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Japan,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Japan,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Japan,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Japan,E-Commerce,Oral Nicotine,Value,3,NA,NA
+Japan,Key Accounts,Cigarettes,Premium,9,NA,NA
+Japan,Key Accounts,Cigarettes,Value,9,NA,NA
+Japan,Key Accounts,Heated Tobacco,Core,5,NA,NA
+Japan,Key Accounts,Heated Tobacco,Premium,3,NA,NA
+Japan,Key Accounts,Heated Tobacco,Value,9,NA,NA
+Japan,Key Accounts,Oral Nicotine,Core,9,NA,NA
+Japan,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Japan,Key Accounts,Oral Nicotine,Value,7,NA,NA
+Japan,Retail,Heated Tobacco,Core,7,NA,NA
+Japan,Retail,Heated Tobacco,Premium,6,NA,NA
+Japan,Retail,Heated Tobacco,Value,8,NA,NA
+Japan,Retail,Oral Nicotine,Premium,5,NA,NA
+Japan,Retail,Oral Nicotine,Value,9,NA,NA
+Jordan,E-Commerce,Cigarettes,Premium,2,NA,NA
+Jordan,E-Commerce,Cigarettes,Value,1,NA,NA
+Jordan,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Jordan,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Jordan,Key Accounts,Cigarettes,Core,1,NA,NA
+Jordan,Key Accounts,Cigarettes,Premium,1,NA,NA
+Jordan,Key Accounts,Cigarettes,Value,4,NA,NA
+Jordan,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Jordan,Retail,Cigarettes,Core,6,NA,NA
+Jordan,Retail,Cigarettes,Premium,2,NA,NA
+Jordan,Retail,Cigarettes,Value,4,NA,NA
+Jordan,Retail,Heated Tobacco,Core,2,NA,NA
+Jordan,Retail,Heated Tobacco,Premium,1,NA,NA
+Jordan,Retail,Heated Tobacco,Value,1,NA,NA
+Jordan,Retail,Oral Nicotine,Core,2,NA,NA
+Jordan,Retail,Oral Nicotine,Premium,1,NA,NA
+Jordan,Retail,Oral Nicotine,Value,1,NA,NA
+Kazakhstan,E-Commerce,Cigarettes,Premium,1,NA,NA
+Kazakhstan,E-Commerce,Cigarettes,Value,7,NA,NA
+Kazakhstan,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Kazakhstan,E-Commerce,Oral Nicotine,Premium,3,NA,NA
+Kazakhstan,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Kazakhstan,Key Accounts,Cigarettes,Core,4,NA,NA
+Kazakhstan,Key Accounts,Cigarettes,Premium,5,NA,NA
+Kazakhstan,Key Accounts,Cigarettes,Value,4,NA,NA
+Kazakhstan,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Kazakhstan,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Kazakhstan,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Kazakhstan,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Kazakhstan,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Kazakhstan,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Kazakhstan,Retail,Cigarettes,Core,9,NA,NA
+Kazakhstan,Retail,Cigarettes,Value,9,NA,NA
+Kazakhstan,Retail,Heated Tobacco,Core,5,NA,NA
+Kazakhstan,Retail,Heated Tobacco,Premium,4,NA,NA
+Kazakhstan,Retail,Heated Tobacco,Value,2,NA,NA
+Kazakhstan,Retail,Oral Nicotine,Premium,3,NA,NA
+Kenya,E-Commerce,Cigarettes,Core,4,NA,NA
+Kenya,E-Commerce,Cigarettes,Premium,7,NA,NA
+Kenya,E-Commerce,Cigarettes,Value,5,NA,NA
+Kenya,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Kenya,Key Accounts,Cigarettes,Core,7,NA,NA
+Kenya,Key Accounts,Cigarettes,Premium,8,NA,NA
+Kenya,Key Accounts,Cigarettes,Value,4,NA,NA
+Kenya,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Kenya,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Kenya,Retail,Cigarettes,Core,9,NA,NA
+Kenya,Retail,Cigarettes,Premium,6,NA,NA
+Kenya,Retail,Heated Tobacco,Core,6,NA,NA
+Kenya,Retail,Heated Tobacco,Premium,2,NA,NA
+Kenya,Retail,Heated Tobacco,Value,2,NA,NA
+Kenya,Retail,Oral Nicotine,Core,4,NA,NA
+Kenya,Retail,Oral Nicotine,Premium,2,NA,NA
+Kenya,Retail,Oral Nicotine,Value,2,NA,NA
+Kyrgyzstan,E-Commerce,Cigarettes,Core,3,NA,NA
+Kyrgyzstan,E-Commerce,Cigarettes,Premium,2,NA,NA
+Kyrgyzstan,E-Commerce,Cigarettes,Value,2,NA,NA
+Kyrgyzstan,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Kyrgyzstan,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Kyrgyzstan,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Kyrgyzstan,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Kyrgyzstan,Key Accounts,Cigarettes,Premium,2,NA,NA
+Kyrgyzstan,Key Accounts,Cigarettes,Value,1,NA,NA
+Kyrgyzstan,Retail,Cigarettes,Core,5,NA,NA
+Kyrgyzstan,Retail,Cigarettes,Premium,2,NA,NA
+Kyrgyzstan,Retail,Cigarettes,Value,8,NA,NA
+Kyrgyzstan,Retail,Heated Tobacco,Value,1,NA,NA
+Kyrgyzstan,Retail,Oral Nicotine,Value,1,NA,NA
+Lebanon,E-Commerce,Cigarettes,Premium,1,NA,NA
+Lebanon,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Lebanon,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Lebanon,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Lebanon,Retail,Cigarettes,Core,1,NA,NA
+Lebanon,Retail,Cigarettes,Premium,1,NA,NA
+Lebanon,Retail,Cigarettes,Value,1,NA,NA
+Lebanon,Retail,Heated Tobacco,Core,2,NA,NA
+Lebanon,Retail,Oral Nicotine,Core,1,NA,NA
+Lebanon,Retail,Oral Nicotine,Premium,1,NA,NA
+Lesotho,Key Accounts,Cigarettes,Core,1,NA,NA
+Lesotho,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Lesotho,Key Accounts,Heated Tobacco,Value,3,NA,NA
+Liberia,E-Commerce,Cigarettes,Premium,2,NA,NA
+Liberia,E-Commerce,Cigarettes,Value,1,NA,NA
+Liberia,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Liberia,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Liberia,Key Accounts,Cigarettes,Core,2,NA,NA
+Liberia,Key Accounts,Cigarettes,Premium,1,NA,NA
+Liberia,Key Accounts,Cigarettes,Value,1,NA,NA
+Liberia,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Liberia,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Liberia,Retail,Cigarettes,Premium,1,NA,NA
+Liberia,Retail,Heated Tobacco,Core,1,NA,NA
+Libya,E-Commerce,Cigarettes,Core,1,NA,NA
+Libya,E-Commerce,Cigarettes,Premium,1,NA,NA
+Libya,E-Commerce,Cigarettes,Value,2,NA,NA
+Libya,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Libya,Key Accounts,Cigarettes,Core,3,NA,NA
+Libya,Key Accounts,Cigarettes,Value,4,NA,NA
+Libya,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Libya,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Libya,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Libya,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Libya,Retail,Cigarettes,Core,4,NA,NA
+Libya,Retail,Cigarettes,Premium,3,NA,NA
+Libya,Retail,Cigarettes,Value,2,NA,NA
+Libya,Retail,Heated Tobacco,Value,3,NA,NA
+Libya,Retail,Oral Nicotine,Core,2,NA,NA
+Libya,Retail,Oral Nicotine,Premium,1,NA,NA
+Lithuania,E-Commerce,Cigarettes,Core,1,NA,NA
+Lithuania,E-Commerce,Cigarettes,Value,1,NA,NA
+Lithuania,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Lithuania,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Lithuania,Key Accounts,Cigarettes,Core,1,NA,NA
+Lithuania,Key Accounts,Cigarettes,Premium,3,NA,NA
+Lithuania,Key Accounts,Cigarettes,Value,3,NA,NA
+Lithuania,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Lithuania,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Lithuania,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Lithuania,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Lithuania,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Lithuania,Key Accounts,Oral Nicotine,Value,3,NA,NA
+Lithuania,Retail,Cigarettes,Core,2,NA,NA
+Lithuania,Retail,Cigarettes,Premium,7,NA,NA
+Lithuania,Retail,Cigarettes,Value,5,NA,NA
+Lithuania,Retail,Heated Tobacco,Core,2,NA,NA
+Lithuania,Retail,Heated Tobacco,Value,2,NA,NA
+Lithuania,Retail,Oral Nicotine,Core,1,NA,NA
+Lithuania,Retail,Oral Nicotine,Premium,1,NA,NA
+Lithuania,Retail,Oral Nicotine,Value,2,NA,NA
+Macedonia,E-Commerce,Cigarettes,Value,1,NA,NA
+Macedonia,Retail,Cigarettes,Core,2,NA,NA
+Macedonia,Retail,Oral Nicotine,Core,1,NA,NA
+Madagascar,E-Commerce,Cigarettes,Core,2,NA,NA
+Madagascar,E-Commerce,Cigarettes,Premium,2,NA,NA
+Madagascar,E-Commerce,Cigarettes,Value,1,NA,NA
+Madagascar,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Madagascar,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Madagascar,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Madagascar,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Madagascar,Key Accounts,Cigarettes,Core,2,NA,NA
+Madagascar,Key Accounts,Cigarettes,Premium,2,NA,NA
+Madagascar,Key Accounts,Cigarettes,Value,5,NA,NA
+Madagascar,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Madagascar,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Madagascar,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Madagascar,Key Accounts,Oral Nicotine,Value,3,NA,NA
+Madagascar,Retail,Cigarettes,Core,5,NA,NA
+Madagascar,Retail,Cigarettes,Premium,5,NA,NA
+Madagascar,Retail,Cigarettes,Value,5,NA,NA
+Madagascar,Retail,Heated Tobacco,Core,3,NA,NA
+Madagascar,Retail,Oral Nicotine,Core,1,NA,NA
+Madagascar,Retail,Oral Nicotine,Premium,1,NA,NA
+Madagascar,Retail,Oral Nicotine,Value,3,NA,NA
+Malaysia,E-Commerce,Cigarettes,Core,7,NA,NA
+Malaysia,E-Commerce,Cigarettes,Premium,3,NA,NA
+Malaysia,E-Commerce,Cigarettes,Value,6,NA,NA
+Malaysia,E-Commerce,Heated Tobacco,Core,5,NA,NA
+Malaysia,E-Commerce,Heated Tobacco,Premium,5,NA,NA
+Malaysia,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Malaysia,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Malaysia,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Malaysia,Key Accounts,Cigarettes,Core,8,NA,NA
+Malaysia,Key Accounts,Cigarettes,Premium,9,NA,NA
+Malaysia,Key Accounts,Cigarettes,Value,4,NA,NA
+Malaysia,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Malaysia,Key Accounts,Heated Tobacco,Premium,5,NA,NA
+Malaysia,Key Accounts,Heated Tobacco,Value,6,NA,NA
+Malaysia,Key Accounts,Oral Nicotine,Premium,5,NA,NA
+Malaysia,Key Accounts,Oral Nicotine,Value,5,NA,NA
+Malaysia,Retail,Cigarettes,Core,8,NA,NA
+Malaysia,Retail,Heated Tobacco,Core,6,NA,NA
+Malaysia,Retail,Heated Tobacco,Premium,8,NA,NA
+Malaysia,Retail,Heated Tobacco,Value,7,NA,NA
+Malaysia,Retail,Oral Nicotine,Premium,3,NA,NA
+Malaysia,Retail,Oral Nicotine,Value,7,NA,NA
+Mali,E-Commerce,Cigarettes,Core,3,NA,NA
+Mali,E-Commerce,Cigarettes,Premium,1,NA,NA
+Mali,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Mali,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Mali,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Mali,Key Accounts,Cigarettes,Core,3,NA,NA
+Mali,Key Accounts,Cigarettes,Value,1,NA,NA
+Mali,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Mali,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Mali,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Mali,Retail,Cigarettes,Core,5,NA,NA
+Mali,Retail,Cigarettes,Premium,2,NA,NA
+Mali,Retail,Cigarettes,Value,7,NA,NA
+Mali,Retail,Heated Tobacco,Core,1,NA,NA
+Mali,Retail,Heated Tobacco,Premium,3,NA,NA
+Mali,Retail,Heated Tobacco,Value,1,NA,NA
+Mali,Retail,Oral Nicotine,Core,2,NA,NA
+Martinique,E-Commerce,Cigarettes,Core,1,NA,NA
+Martinique,E-Commerce,Cigarettes,Premium,1,NA,NA
+Martinique,Key Accounts,Cigarettes,Core,1,NA,NA
+Martinique,Key Accounts,Cigarettes,Premium,1,NA,NA
+Martinique,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Martinique,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Martinique,Retail,Cigarettes,Core,6,NA,NA
+Martinique,Retail,Cigarettes,Premium,3,NA,NA
+Martinique,Retail,Cigarettes,Value,2,NA,NA
+Martinique,Retail,Heated Tobacco,Premium,1,NA,NA
+Martinique,Retail,Heated Tobacco,Value,1,NA,NA
+Martinique,Retail,Oral Nicotine,Value,1,NA,NA
+Mauritania,E-Commerce,Cigarettes,Core,1,NA,NA
+Mauritania,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Mauritania,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Mauritania,Retail,Cigarettes,Core,1,NA,NA
+Mauritania,Retail,Cigarettes,Premium,1,NA,NA
+Mauritania,Retail,Cigarettes,Value,3,NA,NA
+Mauritania,Retail,Heated Tobacco,Core,1,NA,NA
+Moldova,E-Commerce,Cigarettes,Core,2,NA,NA
+Moldova,E-Commerce,Cigarettes,Premium,3,NA,NA
+Moldova,E-Commerce,Cigarettes,Value,1,NA,NA
+Moldova,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Moldova,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Moldova,Key Accounts,Cigarettes,Core,4,NA,NA
+Moldova,Key Accounts,Cigarettes,Premium,1,NA,NA
+Moldova,Key Accounts,Cigarettes,Value,1,NA,NA
+Moldova,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Moldova,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Moldova,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Moldova,Retail,Cigarettes,Core,3,NA,NA
+Moldova,Retail,Cigarettes,Premium,3,NA,NA
+Moldova,Retail,Cigarettes,Value,3,NA,NA
+Moldova,Retail,Heated Tobacco,Core,2,NA,NA
+Moldova,Retail,Heated Tobacco,Premium,3,NA,NA
+Moldova,Retail,Heated Tobacco,Value,2,NA,NA
+Moldova,Retail,Oral Nicotine,Premium,1,NA,NA
+Mongolia,E-Commerce,Cigarettes,Core,1,NA,NA
+Mongolia,E-Commerce,Cigarettes,Premium,2,NA,NA
+Mongolia,E-Commerce,Cigarettes,Value,1,NA,NA
+Mongolia,Key Accounts,Cigarettes,Core,3,NA,NA
+Mongolia,Key Accounts,Cigarettes,Premium,4,NA,NA
+Mongolia,Key Accounts,Cigarettes,Value,2,NA,NA
+Mongolia,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Mongolia,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Mongolia,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Mongolia,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Mongolia,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Mongolia,Retail,Cigarettes,Core,2,NA,NA
+Mongolia,Retail,Cigarettes,Premium,2,NA,NA
+Mongolia,Retail,Oral Nicotine,Value,1,NA,NA
+Montenegro,Key Accounts,Cigarettes,Core,1,NA,NA
+Montenegro,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Montenegro,Retail,Cigarettes,Value,1,NA,NA
+Morocco,E-Commerce,Heated Tobacco,Core,4,NA,NA
+Morocco,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Morocco,E-Commerce,Heated Tobacco,Value,5,NA,NA
+Morocco,E-Commerce,Oral Nicotine,Core,3,NA,NA
+Morocco,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Morocco,E-Commerce,Oral Nicotine,Value,4,NA,NA
+Morocco,Key Accounts,Heated Tobacco,Premium,6,NA,NA
+Morocco,Key Accounts,Heated Tobacco,Value,6,NA,NA
+Morocco,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Morocco,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Mozambique,E-Commerce,Cigarettes,Core,3,NA,NA
+Mozambique,E-Commerce,Cigarettes,Premium,3,NA,NA
+Mozambique,E-Commerce,Cigarettes,Value,3,NA,NA
+Mozambique,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Mozambique,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Mozambique,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Mozambique,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Mozambique,E-Commerce,Oral Nicotine,Value,3,NA,NA
+Mozambique,Key Accounts,Cigarettes,Core,7,NA,NA
+Mozambique,Key Accounts,Cigarettes,Premium,4,NA,NA
+Mozambique,Key Accounts,Cigarettes,Value,5,NA,NA
+Mozambique,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Mozambique,Key Accounts,Heated Tobacco,Premium,3,NA,NA
+Mozambique,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Mozambique,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Mozambique,Retail,Cigarettes,Core,3,NA,NA
+Mozambique,Retail,Heated Tobacco,Core,1,NA,NA
+Mozambique,Retail,Heated Tobacco,Premium,2,NA,NA
+Mozambique,Retail,Heated Tobacco,Value,3,NA,NA
+Mozambique,Retail,Oral Nicotine,Core,1,NA,NA
+Mozambique,Retail,Oral Nicotine,Premium,5,NA,NA
+Mozambique,Retail,Oral Nicotine,Value,4,NA,NA
+Myanmar (Burma),E-Commerce,Cigarettes,Core,3,NA,NA
+Myanmar (Burma),E-Commerce,Cigarettes,Premium,4,NA,NA
+Myanmar (Burma),E-Commerce,Cigarettes,Value,3,NA,NA
+Myanmar (Burma),E-Commerce,Heated Tobacco,Core,3,NA,NA
+Myanmar (Burma),E-Commerce,Oral Nicotine,Core,1,NA,NA
+Myanmar (Burma),E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Myanmar (Burma),E-Commerce,Oral Nicotine,Value,2,NA,NA
+Myanmar (Burma),Key Accounts,Cigarettes,Core,5,NA,NA
+Myanmar (Burma),Key Accounts,Cigarettes,Premium,8,NA,NA
+Myanmar (Burma),Key Accounts,Cigarettes,Value,4,NA,NA
+Myanmar (Burma),Key Accounts,Heated Tobacco,Core,2,NA,NA
+Myanmar (Burma),Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Myanmar (Burma),Key Accounts,Heated Tobacco,Value,3,NA,NA
+Myanmar (Burma),Key Accounts,Oral Nicotine,Core,3,NA,NA
+Myanmar (Burma),Key Accounts,Oral Nicotine,Premium,6,NA,NA
+Myanmar (Burma),Key Accounts,Oral Nicotine,Value,6,NA,NA
+Myanmar (Burma),Retail,Cigarettes,Core,7,NA,NA
+Myanmar (Burma),Retail,Cigarettes,Premium,8,NA,NA
+Myanmar (Burma),Retail,Heated Tobacco,Core,5,NA,NA
+Myanmar (Burma),Retail,Heated Tobacco,Premium,4,NA,NA
+Myanmar (Burma),Retail,Heated Tobacco,Value,4,NA,NA
+Myanmar (Burma),Retail,Oral Nicotine,Core,4,NA,NA
+Myanmar (Burma),Retail,Oral Nicotine,Premium,6,NA,NA
+Myanmar (Burma),Retail,Oral Nicotine,Value,2,NA,NA
+Namibia,Key Accounts,Cigarettes,Core,1,NA,NA
+Namibia,Key Accounts,Cigarettes,Value,1,NA,NA
+Namibia,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Namibia,Retail,Cigarettes,Core,1,NA,NA
+Namibia,Retail,Cigarettes,Value,2,NA,NA
+Namibia,Retail,Heated Tobacco,Core,1,NA,NA
+Nepal,E-Commerce,Cigarettes,Core,1,NA,NA
+Nepal,Key Accounts,Cigarettes,Core,2,NA,NA
+Nepal,Key Accounts,Cigarettes,Value,1,NA,NA
+Nepal,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Nepal,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Nepal,Retail,Cigarettes,Core,3,NA,NA
+Nepal,Retail,Cigarettes,Premium,2,NA,NA
+Nepal,Retail,Cigarettes,Value,1,NA,NA
+Nepal,Retail,Heated Tobacco,Premium,1,NA,NA
+Nepal,Retail,Oral Nicotine,Core,1,NA,NA
+Nepal,Retail,Oral Nicotine,Value,1,NA,NA
+Netherlands,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Netherlands,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Netherlands,E-Commerce,Heated Tobacco,Value,7,NA,NA
+Netherlands,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Netherlands,E-Commerce,Oral Nicotine,Premium,7,NA,NA
+Netherlands,E-Commerce,Oral Nicotine,Value,5,NA,NA
+Netherlands,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Netherlands,Key Accounts,Heated Tobacco,Premium,7,NA,NA
+Netherlands,Key Accounts,Heated Tobacco,Value,7,NA,NA
+Netherlands,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Netherlands,Key Accounts,Oral Nicotine,Premium,4,NA,NA
+Netherlands,Key Accounts,Oral Nicotine,Value,3,NA,NA
+New Zealand,E-Commerce,Heated Tobacco,Core,6,NA,NA
+New Zealand,E-Commerce,Heated Tobacco,Value,7,NA,NA
+New Zealand,E-Commerce,Oral Nicotine,Core,8,NA,NA
+New Zealand,E-Commerce,Oral Nicotine,Value,6,NA,NA
+New Zealand,Key Accounts,Oral Nicotine,Premium,8,NA,NA
+Nicaragua,E-Commerce,Heated Tobacco,Core,5,NA,NA
+Nicaragua,E-Commerce,Heated Tobacco,Premium,5,NA,NA
+Nicaragua,E-Commerce,Oral Nicotine,Core,9,NA,NA
+Nicaragua,E-Commerce,Oral Nicotine,Premium,8,NA,NA
+Nicaragua,E-Commerce,Oral Nicotine,Value,8,NA,NA
+Nicaragua,Key Accounts,Heated Tobacco,Premium,9,NA,NA
+Nicaragua,Key Accounts,Heated Tobacco,Value,9,NA,NA
+Niger,E-Commerce,Cigarettes,Core,3,NA,NA
+Niger,E-Commerce,Cigarettes,Premium,1,NA,NA
+Niger,E-Commerce,Cigarettes,Value,1,NA,NA
+Niger,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Niger,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Niger,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Niger,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Niger,Key Accounts,Cigarettes,Core,1,NA,NA
+Niger,Key Accounts,Cigarettes,Premium,1,NA,NA
+Niger,Key Accounts,Cigarettes,Value,2,NA,NA
+Niger,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Niger,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Niger,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Niger,Retail,Cigarettes,Core,5,NA,NA
+Niger,Retail,Cigarettes,Premium,4,NA,NA
+Niger,Retail,Cigarettes,Value,3,NA,NA
+Niger,Retail,Heated Tobacco,Value,2,NA,NA
+Niger,Retail,Oral Nicotine,Core,2,NA,NA
+Nigeria,E-Commerce,Heated Tobacco,Premium,8,NA,NA
+Nigeria,E-Commerce,Heated Tobacco,Value,7,NA,NA
+Nigeria,E-Commerce,Oral Nicotine,Core,6,NA,NA
+Nigeria,E-Commerce,Oral Nicotine,Premium,8,NA,NA
+Nigeria,E-Commerce,Oral Nicotine,Value,7,NA,NA
+Nigeria,Key Accounts,Oral Nicotine,Core,7,NA,NA
+Norway,E-Commerce,Cigarettes,Core,2,NA,NA
+Norway,E-Commerce,Cigarettes,Premium,1,NA,NA
+Norway,E-Commerce,Cigarettes,Value,3,NA,NA
+Norway,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Norway,Key Accounts,Cigarettes,Core,5,NA,NA
+Norway,Key Accounts,Cigarettes,Premium,3,NA,NA
+Norway,Key Accounts,Cigarettes,Value,4,NA,NA
+Norway,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Norway,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Norway,Key Accounts,Heated Tobacco,Value,3,NA,NA
+Norway,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Norway,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Norway,Retail,Cigarettes,Core,4,NA,NA
+Norway,Retail,Cigarettes,Premium,8,NA,NA
+Norway,Retail,Cigarettes,Value,6,NA,NA
+Norway,Retail,Heated Tobacco,Core,2,NA,NA
+Norway,Retail,Heated Tobacco,Premium,2,NA,NA
+Norway,Retail,Heated Tobacco,Value,5,NA,NA
+Norway,Retail,Oral Nicotine,Core,3,NA,NA
+Norway,Retail,Oral Nicotine,Value,1,NA,NA
+Pakistan,E-Commerce,Cigarettes,Core,6,NA,NA
+Pakistan,E-Commerce,Cigarettes,Premium,8,NA,NA
+Pakistan,E-Commerce,Cigarettes,Value,7,NA,NA
+Pakistan,E-Commerce,Heated Tobacco,Core,5,NA,NA
+Pakistan,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Pakistan,E-Commerce,Heated Tobacco,Value,5,NA,NA
+Pakistan,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Pakistan,E-Commerce,Oral Nicotine,Value,4,NA,NA
+Pakistan,Key Accounts,Heated Tobacco,Core,5,NA,NA
+Pakistan,Key Accounts,Heated Tobacco,Premium,3,NA,NA
+Pakistan,Key Accounts,Heated Tobacco,Value,8,NA,NA
+Pakistan,Key Accounts,Oral Nicotine,Core,7,NA,NA
+Pakistan,Key Accounts,Oral Nicotine,Premium,6,NA,NA
+Pakistan,Key Accounts,Oral Nicotine,Value,9,NA,NA
+Pakistan,Retail,Heated Tobacco,Premium,4,NA,NA
+Pakistan,Retail,Heated Tobacco,Value,6,NA,NA
+Pakistan,Retail,Oral Nicotine,Premium,8,NA,NA
+Pakistan,Retail,Oral Nicotine,Value,7,NA,NA
+Panama,E-Commerce,Heated Tobacco,Core,4,NA,NA
+Panama,E-Commerce,Heated Tobacco,Premium,4,NA,NA
+Panama,E-Commerce,Heated Tobacco,Value,8,NA,NA
+Panama,E-Commerce,Oral Nicotine,Core,4,NA,NA
+Panama,E-Commerce,Oral Nicotine,Premium,6,NA,NA
+Panama,E-Commerce,Oral Nicotine,Value,4,NA,NA
+Panama,Key Accounts,Heated Tobacco,Core,8,NA,NA
+Panama,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Panama,Key Accounts,Oral Nicotine,Core,7,NA,NA
+Panama,Retail,Heated Tobacco,Premium,6,NA,NA
+Panama,Retail,Oral Nicotine,Premium,6,NA,NA
+Papua New Guinea,E-Commerce,Cigarettes,Core,1,NA,NA
+Papua New Guinea,E-Commerce,Cigarettes,Premium,1,NA,NA
+Papua New Guinea,E-Commerce,Cigarettes,Value,1,NA,NA
+Papua New Guinea,Key Accounts,Cigarettes,Core,3,NA,NA
+Papua New Guinea,Key Accounts,Cigarettes,Premium,1,NA,NA
+Papua New Guinea,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Papua New Guinea,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Papua New Guinea,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Papua New Guinea,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Papua New Guinea,Retail,Cigarettes,Premium,2,NA,NA
+Papua New Guinea,Retail,Cigarettes,Value,2,NA,NA
+Papua New Guinea,Retail,Heated Tobacco,Premium,1,NA,NA
+Papua New Guinea,Retail,Heated Tobacco,Value,2,NA,NA
+Papua New Guinea,Retail,Oral Nicotine,Core,1,NA,NA
+Paraguay,E-Commerce,Cigarettes,Value,1,NA,NA
+Paraguay,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Paraguay,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Paraguay,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Paraguay,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Paraguay,Retail,Cigarettes,Core,1,NA,NA
+Paraguay,Retail,Cigarettes,Premium,1,NA,NA
+Paraguay,Retail,Cigarettes,Value,1,NA,NA
+Paraguay,Retail,Heated Tobacco,Premium,1,NA,NA
+Paraguay,Retail,Heated Tobacco,Value,1,NA,NA
+Paraguay,Retail,Oral Nicotine,Core,1,NA,NA
+Peru,E-Commerce,Cigarettes,Core,3,NA,NA
+Peru,E-Commerce,Cigarettes,Premium,3,NA,NA
+Peru,E-Commerce,Cigarettes,Value,7,NA,NA
+Peru,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Peru,E-Commerce,Oral Nicotine,Core,4,NA,NA
+Peru,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Peru,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Peru,Key Accounts,Cigarettes,Core,4,NA,NA
+Peru,Key Accounts,Cigarettes,Premium,9,NA,NA
+Peru,Key Accounts,Cigarettes,Value,7,NA,NA
+Peru,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Peru,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Peru,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Peru,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Peru,Key Accounts,Oral Nicotine,Premium,4,NA,NA
+Peru,Key Accounts,Oral Nicotine,Value,5,NA,NA
+Peru,Retail,Heated Tobacco,Core,5,NA,NA
+Peru,Retail,Heated Tobacco,Premium,4,NA,NA
+Peru,Retail,Heated Tobacco,Value,5,NA,NA
+Peru,Retail,Oral Nicotine,Core,6,NA,NA
+Peru,Retail,Oral Nicotine,Premium,9,NA,NA
+Peru,Retail,Oral Nicotine,Value,3,NA,NA
+Philippines,E-Commerce,Heated Tobacco,Core,9,NA,NA
+Philippines,E-Commerce,Heated Tobacco,Premium,8,NA,NA
+Philippines,E-Commerce,Heated Tobacco,Value,8,NA,NA
+Philippines,Key Accounts,Heated Tobacco,Core,7,NA,NA
+Philippines,Key Accounts,Heated Tobacco,Premium,9,NA,NA
+Poland,E-Commerce,Cigarettes,Core,9,NA,NA
+Poland,E-Commerce,Cigarettes,Premium,3,NA,NA
+Poland,E-Commerce,Heated Tobacco,Core,5,NA,NA
+Poland,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Poland,E-Commerce,Heated Tobacco,Value,5,NA,NA
+Poland,E-Commerce,Oral Nicotine,Core,4,NA,NA
+Poland,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Poland,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Poland,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Poland,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Poland,Key Accounts,Heated Tobacco,Value,6,NA,NA
+Poland,Key Accounts,Oral Nicotine,Core,3,NA,NA
+Poland,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Poland,Key Accounts,Oral Nicotine,Value,5,NA,NA
+Poland,Retail,Heated Tobacco,Core,6,NA,NA
+Poland,Retail,Heated Tobacco,Premium,9,NA,NA
+Poland,Retail,Heated Tobacco,Value,7,NA,NA
+Poland,Retail,Oral Nicotine,Core,7,NA,NA
+Poland,Retail,Oral Nicotine,Premium,8,NA,NA
+Poland,Retail,Oral Nicotine,Value,5,NA,NA
+Portugal,E-Commerce,Cigarettes,Premium,1,NA,NA
+Portugal,Key Accounts,Cigarettes,Core,2,NA,NA
+Portugal,Key Accounts,Cigarettes,Premium,3,NA,NA
+Portugal,Key Accounts,Cigarettes,Value,6,NA,NA
+Portugal,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Portugal,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Portugal,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Portugal,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Portugal,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Portugal,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Portugal,Retail,Cigarettes,Core,7,NA,NA
+Portugal,Retail,Cigarettes,Premium,7,NA,NA
+Portugal,Retail,Cigarettes,Value,8,NA,NA
+Portugal,Retail,Heated Tobacco,Core,5,NA,NA
+Portugal,Retail,Heated Tobacco,Premium,2,NA,NA
+Portugal,Retail,Heated Tobacco,Value,1,NA,NA
+Portugal,Retail,Oral Nicotine,Premium,2,NA,NA
+Portugal,Retail,Oral Nicotine,Value,2,NA,NA
+Qatar,E-Commerce,Cigarettes,Core,1,NA,NA
+Qatar,E-Commerce,Cigarettes,Value,1,NA,NA
+Qatar,Key Accounts,Cigarettes,Core,1,NA,NA
+Qatar,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Qatar,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Qatar,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Qatar,Retail,Cigarettes,Core,1,NA,NA
+Qatar,Retail,Cigarettes,Premium,2,NA,NA
+Qatar,Retail,Cigarettes,Value,3,NA,NA
+Qatar,Retail,Heated Tobacco,Core,1,NA,NA
+Qatar,Retail,Heated Tobacco,Value,1,NA,NA
+Republic of the Congo,Key Accounts,Cigarettes,Value,1,NA,NA
+Republic of the Congo,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Republic of the Congo,Retail,Cigarettes,Premium,1,NA,NA
+Republic of the Congo,Retail,Oral Nicotine,Core,1,NA,NA
+Republic of the Congo,Retail,Oral Nicotine,Value,1,NA,NA
+Romania,E-Commerce,Cigarettes,Core,5,NA,NA
+Romania,E-Commerce,Cigarettes,Premium,7,NA,NA
+Romania,E-Commerce,Cigarettes,Value,5,NA,NA
+Romania,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Romania,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Romania,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Romania,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Romania,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Romania,Key Accounts,Cigarettes,Premium,8,NA,NA
+Romania,Key Accounts,Heated Tobacco,Core,3,NA,NA
+Romania,Key Accounts,Heated Tobacco,Premium,3,NA,NA
+Romania,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Romania,Key Accounts,Oral Nicotine,Core,3,NA,NA
+Romania,Key Accounts,Oral Nicotine,Premium,5,NA,NA
+Romania,Key Accounts,Oral Nicotine,Value,3,NA,NA
+Romania,Retail,Heated Tobacco,Core,4,NA,NA
+Romania,Retail,Heated Tobacco,Value,5,NA,NA
+Romania,Retail,Oral Nicotine,Premium,4,NA,NA
+Romania,Retail,Oral Nicotine,Value,8,NA,NA
+Russia,E-Commerce,Heated Tobacco,Core,6,NA,NA
+Russia,E-Commerce,Heated Tobacco,Premium,3,NA,NA
+Russia,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Russia,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Russia,E-Commerce,Oral Nicotine,Premium,3,NA,NA
+Russia,E-Commerce,Oral Nicotine,Value,4,NA,NA
+Russia,Key Accounts,Heated Tobacco,Premium,9,NA,NA
+Russia,Key Accounts,Heated Tobacco,Value,3,NA,NA
+Russia,Key Accounts,Oral Nicotine,Premium,7,NA,NA
+Russia,Key Accounts,Oral Nicotine,Value,7,NA,NA
+Russia,Retail,Heated Tobacco,Value,9,NA,NA
+Russia,Retail,Oral Nicotine,Core,6,NA,NA
+Russia,Retail,Oral Nicotine,Premium,6,NA,NA
+Russia,Retail,Oral Nicotine,Value,8,NA,NA
+Rwanda,E-Commerce,Cigarettes,Core,1,NA,NA
+Rwanda,E-Commerce,Cigarettes,Premium,1,NA,NA
+Rwanda,Key Accounts,Cigarettes,Core,4,NA,NA
+Rwanda,Key Accounts,Cigarettes,Premium,3,NA,NA
+Rwanda,Key Accounts,Heated Tobacco,Core,2,NA,NA
+Rwanda,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Rwanda,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Rwanda,Retail,Cigarettes,Core,3,NA,NA
+Rwanda,Retail,Cigarettes,Premium,1,NA,NA
+Rwanda,Retail,Cigarettes,Value,4,NA,NA
+Rwanda,Retail,Heated Tobacco,Core,1,NA,NA
+Rwanda,Retail,Heated Tobacco,Premium,3,NA,NA
+Rwanda,Retail,Heated Tobacco,Value,1,NA,NA
+Rwanda,Retail,Oral Nicotine,Core,1,NA,NA
+Rwanda,Retail,Oral Nicotine,Premium,1,NA,NA
+Rwanda,Retail,Oral Nicotine,Value,1,NA,NA
+Saudi Arabia,E-Commerce,Cigarettes,Value,9,NA,NA
+Saudi Arabia,E-Commerce,Heated Tobacco,Core,4,NA,NA
+Saudi Arabia,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Saudi Arabia,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Saudi Arabia,E-Commerce,Oral Nicotine,Core,4,NA,NA
+Saudi Arabia,E-Commerce,Oral Nicotine,Premium,3,NA,NA
+Saudi Arabia,E-Commerce,Oral Nicotine,Value,7,NA,NA
+Saudi Arabia,Key Accounts,Heated Tobacco,Core,9,NA,NA
+Saudi Arabia,Key Accounts,Heated Tobacco,Premium,9,NA,NA
+Saudi Arabia,Key Accounts,Heated Tobacco,Value,4,NA,NA
+Saudi Arabia,Key Accounts,Oral Nicotine,Core,6,NA,NA
+Saudi Arabia,Key Accounts,Oral Nicotine,Premium,5,NA,NA
+Saudi Arabia,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Saudi Arabia,Retail,Heated Tobacco,Core,8,NA,NA
+Saudi Arabia,Retail,Oral Nicotine,Core,9,NA,NA
+Saudi Arabia,Retail,Oral Nicotine,Premium,6,NA,NA
+Saudi Arabia,Retail,Oral Nicotine,Value,8,NA,NA
+Senegal,E-Commerce,Cigarettes,Core,2,NA,NA
+Senegal,E-Commerce,Cigarettes,Premium,2,NA,NA
+Senegal,E-Commerce,Cigarettes,Value,4,NA,NA
+Senegal,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Senegal,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Senegal,Key Accounts,Cigarettes,Core,6,NA,NA
+Senegal,Key Accounts,Cigarettes,Premium,5,NA,NA
+Senegal,Key Accounts,Cigarettes,Value,3,NA,NA
+Senegal,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Senegal,Key Accounts,Heated Tobacco,Premium,3,NA,NA
+Senegal,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Senegal,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Senegal,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Senegal,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Senegal,Retail,Cigarettes,Core,9,NA,NA
+Senegal,Retail,Heated Tobacco,Core,5,NA,NA
+Senegal,Retail,Heated Tobacco,Premium,5,NA,NA
+Senegal,Retail,Heated Tobacco,Value,9,NA,NA
+Senegal,Retail,Oral Nicotine,Core,2,NA,NA
+Senegal,Retail,Oral Nicotine,Premium,4,NA,NA
+Senegal,Retail,Oral Nicotine,Value,3,NA,NA
+Sierra Leone,E-Commerce,Cigarettes,Core,1,NA,NA
+Sierra Leone,E-Commerce,Cigarettes,Premium,1,NA,NA
+Sierra Leone,E-Commerce,Cigarettes,Value,1,NA,NA
+Sierra Leone,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Sierra Leone,Key Accounts,Cigarettes,Premium,1,NA,NA
+Sierra Leone,Key Accounts,Cigarettes,Value,1,NA,NA
+Sierra Leone,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Sierra Leone,Retail,Cigarettes,Core,1,NA,NA
+Sierra Leone,Retail,Cigarettes,Premium,1,NA,NA
+Sierra Leone,Retail,Heated Tobacco,Core,1,NA,NA
+Sierra Leone,Retail,Heated Tobacco,Premium,1,NA,NA
+Sierra Leone,Retail,Oral Nicotine,Premium,1,NA,NA
+Singapore,E-Commerce,Cigarettes,Core,4,NA,NA
+Singapore,E-Commerce,Cigarettes,Premium,5,NA,NA
+Singapore,E-Commerce,Cigarettes,Value,5,NA,NA
+Singapore,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Singapore,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Singapore,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Singapore,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Singapore,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Singapore,Key Accounts,Cigarettes,Core,5,NA,NA
+Singapore,Key Accounts,Cigarettes,Premium,6,NA,NA
+Singapore,Key Accounts,Cigarettes,Value,7,NA,NA
+Singapore,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Singapore,Key Accounts,Oral Nicotine,Core,3,NA,NA
+Singapore,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Singapore,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Singapore,Retail,Heated Tobacco,Core,7,NA,NA
+Singapore,Retail,Heated Tobacco,Premium,9,NA,NA
+Singapore,Retail,Heated Tobacco,Value,6,NA,NA
+Singapore,Retail,Oral Nicotine,Core,7,NA,NA
+Singapore,Retail,Oral Nicotine,Premium,2,NA,NA
+Singapore,Retail,Oral Nicotine,Value,3,NA,NA
+Slovakia,Key Accounts,Cigarettes,Core,1,NA,NA
+Slovakia,Key Accounts,Cigarettes,Premium,1,NA,NA
+Slovakia,Retail,Cigarettes,Core,2,NA,NA
+Slovakia,Retail,Cigarettes,Value,2,NA,NA
+Slovakia,Retail,Oral Nicotine,Core,1,NA,NA
+Slovenia,Key Accounts,Cigarettes,Value,1,NA,NA
+Slovenia,Retail,Cigarettes,Value,1,NA,NA
+Slovenia,Retail,Oral Nicotine,Premium,1,NA,NA
+Somalia,E-Commerce,Cigarettes,Core,5,NA,NA
+Somalia,E-Commerce,Cigarettes,Premium,3,NA,NA
+Somalia,E-Commerce,Cigarettes,Value,3,NA,NA
+Somalia,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Somalia,Key Accounts,Cigarettes,Core,2,NA,NA
+Somalia,Key Accounts,Cigarettes,Premium,2,NA,NA
+Somalia,Key Accounts,Cigarettes,Value,3,NA,NA
+Somalia,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Somalia,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Somalia,Retail,Cigarettes,Core,6,NA,NA
+Somalia,Retail,Cigarettes,Premium,4,NA,NA
+Somalia,Retail,Cigarettes,Value,4,NA,NA
+Somalia,Retail,Heated Tobacco,Core,1,NA,NA
+Somalia,Retail,Heated Tobacco,Premium,1,NA,NA
+Somalia,Retail,Heated Tobacco,Value,2,NA,NA
+Somalia,Retail,Oral Nicotine,Core,3,NA,NA
+Somalia,Retail,Oral Nicotine,Premium,2,NA,NA
+Somalia,Retail,Oral Nicotine,Value,2,NA,NA
+South Africa,E-Commerce,Heated Tobacco,Core,8,NA,NA
+South Africa,E-Commerce,Heated Tobacco,Premium,8,NA,NA
+South Africa,E-Commerce,Heated Tobacco,Value,4,NA,NA
+South Africa,E-Commerce,Oral Nicotine,Core,6,NA,NA
+South Africa,E-Commerce,Oral Nicotine,Premium,5,NA,NA
+South Africa,E-Commerce,Oral Nicotine,Value,3,NA,NA
+South Africa,Key Accounts,Heated Tobacco,Premium,9,NA,NA
+South Africa,Key Accounts,Oral Nicotine,Premium,7,NA,NA
+South Africa,Key Accounts,Oral Nicotine,Value,7,NA,NA
+South Africa,Retail,Oral Nicotine,Premium,8,NA,NA
+South Korea,E-Commerce,Cigarettes,Core,7,NA,NA
+South Korea,E-Commerce,Cigarettes,Premium,6,NA,NA
+South Korea,E-Commerce,Cigarettes,Value,7,NA,NA
+South Korea,E-Commerce,Heated Tobacco,Core,1,NA,NA
+South Korea,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+South Korea,E-Commerce,Heated Tobacco,Value,7,NA,NA
+South Korea,E-Commerce,Oral Nicotine,Core,4,NA,NA
+South Korea,E-Commerce,Oral Nicotine,Premium,5,NA,NA
+South Korea,E-Commerce,Oral Nicotine,Value,3,NA,NA
+South Korea,Key Accounts,Cigarettes,Core,6,NA,NA
+South Korea,Key Accounts,Cigarettes,Premium,7,NA,NA
+South Korea,Key Accounts,Cigarettes,Value,5,NA,NA
+South Korea,Key Accounts,Heated Tobacco,Core,2,NA,NA
+South Korea,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+South Korea,Key Accounts,Heated Tobacco,Value,3,NA,NA
+South Korea,Key Accounts,Oral Nicotine,Core,1,NA,NA
+South Korea,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+South Korea,Key Accounts,Oral Nicotine,Value,2,NA,NA
+South Korea,Retail,Heated Tobacco,Core,4,NA,NA
+South Korea,Retail,Heated Tobacco,Premium,6,NA,NA
+South Korea,Retail,Heated Tobacco,Value,4,NA,NA
+South Korea,Retail,Oral Nicotine,Core,9,NA,NA
+South Korea,Retail,Oral Nicotine,Premium,4,NA,NA
+South Korea,Retail,Oral Nicotine,Value,4,NA,NA
+South Sudan,E-Commerce,Heated Tobacco,Core,1,NA,NA
+South Sudan,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Spain,E-Commerce,Heated Tobacco,Core,7,NA,NA
+Spain,E-Commerce,Heated Tobacco,Premium,9,NA,NA
+Spain,E-Commerce,Heated Tobacco,Value,4,NA,NA
+Spain,E-Commerce,Oral Nicotine,Core,4,NA,NA
+Spain,E-Commerce,Oral Nicotine,Value,6,NA,NA
+Spain,Key Accounts,Heated Tobacco,Core,8,NA,NA
+Sri Lanka,E-Commerce,Cigarettes,Premium,2,NA,NA
+Sri Lanka,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Sri Lanka,Key Accounts,Cigarettes,Core,1,NA,NA
+Sri Lanka,Key Accounts,Cigarettes,Value,1,NA,NA
+Sri Lanka,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Sudan,E-Commerce,Cigarettes,Core,2,NA,NA
+Sudan,E-Commerce,Cigarettes,Premium,2,NA,NA
+Sudan,E-Commerce,Cigarettes,Value,4,NA,NA
+Sudan,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Sudan,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Sudan,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Sudan,Key Accounts,Cigarettes,Core,7,NA,NA
+Sudan,Key Accounts,Cigarettes,Premium,2,NA,NA
+Sudan,Key Accounts,Cigarettes,Value,2,NA,NA
+Sudan,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Sudan,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Sudan,Key Accounts,Oral Nicotine,Premium,3,NA,NA
+Sudan,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Sudan,Retail,Cigarettes,Core,6,NA,NA
+Sudan,Retail,Cigarettes,Premium,7,NA,NA
+Sudan,Retail,Heated Tobacco,Core,4,NA,NA
+Sudan,Retail,Heated Tobacco,Premium,2,NA,NA
+Sudan,Retail,Heated Tobacco,Value,4,NA,NA
+Sudan,Retail,Oral Nicotine,Core,2,NA,NA
+Sudan,Retail,Oral Nicotine,Premium,4,NA,NA
+Sudan,Retail,Oral Nicotine,Value,3,NA,NA
+Swaziland,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Swaziland,Retail,Cigarettes,Premium,1,NA,NA
+Sweden,E-Commerce,Cigarettes,Core,6,NA,NA
+Sweden,E-Commerce,Cigarettes,Premium,4,NA,NA
+Sweden,E-Commerce,Cigarettes,Value,8,NA,NA
+Sweden,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Sweden,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Sweden,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Sweden,Key Accounts,Cigarettes,Premium,9,NA,NA
+Sweden,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Sweden,Key Accounts,Heated Tobacco,Premium,5,NA,NA
+Sweden,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Sweden,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Sweden,Key Accounts,Oral Nicotine,Premium,6,NA,NA
+Sweden,Key Accounts,Oral Nicotine,Value,6,NA,NA
+Sweden,Retail,Heated Tobacco,Core,6,NA,NA
+Sweden,Retail,Heated Tobacco,Premium,7,NA,NA
+Sweden,Retail,Heated Tobacco,Value,5,NA,NA
+Sweden,Retail,Oral Nicotine,Core,5,NA,NA
+Sweden,Retail,Oral Nicotine,Premium,4,NA,NA
+Sweden,Retail,Oral Nicotine,Value,4,NA,NA
+Switzerland,E-Commerce,Cigarettes,Core,2,NA,NA
+Switzerland,E-Commerce,Cigarettes,Premium,1,NA,NA
+Switzerland,E-Commerce,Cigarettes,Value,2,NA,NA
+Switzerland,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Switzerland,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Switzerland,Key Accounts,Cigarettes,Core,4,NA,NA
+Switzerland,Key Accounts,Cigarettes,Premium,2,NA,NA
+Switzerland,Key Accounts,Cigarettes,Value,4,NA,NA
+Switzerland,Key Accounts,Heated Tobacco,Core,3,NA,NA
+Switzerland,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Switzerland,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Switzerland,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Switzerland,Retail,Cigarettes,Core,8,NA,NA
+Switzerland,Retail,Cigarettes,Premium,9,NA,NA
+Switzerland,Retail,Cigarettes,Value,9,NA,NA
+Switzerland,Retail,Heated Tobacco,Core,3,NA,NA
+Switzerland,Retail,Heated Tobacco,Premium,3,NA,NA
+Switzerland,Retail,Heated Tobacco,Value,2,NA,NA
+Switzerland,Retail,Oral Nicotine,Core,3,NA,NA
+Switzerland,Retail,Oral Nicotine,Premium,3,NA,NA
+Switzerland,Retail,Oral Nicotine,Value,1,NA,NA
+Syria,E-Commerce,Cigarettes,Core,2,NA,NA
+Syria,E-Commerce,Cigarettes,Premium,2,NA,NA
+Syria,E-Commerce,Cigarettes,Value,1,NA,NA
+Syria,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Syria,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Syria,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Syria,Key Accounts,Cigarettes,Core,1,NA,NA
+Syria,Key Accounts,Cigarettes,Premium,1,NA,NA
+Syria,Key Accounts,Cigarettes,Value,2,NA,NA
+Syria,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Syria,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Syria,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Syria,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Syria,Retail,Cigarettes,Core,2,NA,NA
+Syria,Retail,Cigarettes,Premium,2,NA,NA
+Syria,Retail,Cigarettes,Value,4,NA,NA
+Syria,Retail,Heated Tobacco,Core,1,NA,NA
+Syria,Retail,Heated Tobacco,Value,2,NA,NA
+Taiwan,Key Accounts,Cigarettes,Core,1,NA,NA
+Taiwan,Key Accounts,Cigarettes,Premium,1,NA,NA
+Taiwan,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Taiwan,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Taiwan,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Taiwan,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Taiwan,Retail,Cigarettes,Premium,1,NA,NA
+Taiwan,Retail,Cigarettes,Value,2,NA,NA
+Taiwan,Retail,Oral Nicotine,Core,1,NA,NA
+Taiwan,Retail,Oral Nicotine,Premium,1,NA,NA
+Taiwan,Retail,Oral Nicotine,Value,1,NA,NA
+Tajikistan,Retail,Cigarettes,Core,1,NA,NA
+Tajikistan,Retail,Cigarettes,Value,1,NA,NA
+Tajikistan,Retail,Heated Tobacco,Core,1,NA,NA
+Tanzania,E-Commerce,Cigarettes,Core,6,NA,NA
+Tanzania,E-Commerce,Cigarettes,Premium,3,NA,NA
+Tanzania,E-Commerce,Cigarettes,Value,8,NA,NA
+Tanzania,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Tanzania,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Tanzania,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Tanzania,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Tanzania,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Tanzania,Key Accounts,Heated Tobacco,Core,3,NA,NA
+Tanzania,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Tanzania,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Tanzania,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Tanzania,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Tanzania,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Tanzania,Retail,Cigarettes,Core,9,NA,NA
+Tanzania,Retail,Heated Tobacco,Core,3,NA,NA
+Tanzania,Retail,Heated Tobacco,Premium,5,NA,NA
+Tanzania,Retail,Heated Tobacco,Value,7,NA,NA
+Tanzania,Retail,Oral Nicotine,Core,1,NA,NA
+Tanzania,Retail,Oral Nicotine,Premium,2,NA,NA
+Tanzania,Retail,Oral Nicotine,Value,1,NA,NA
+Thailand,E-Commerce,Cigarettes,Premium,9,NA,NA
+Thailand,E-Commerce,Heated Tobacco,Core,4,NA,NA
+Thailand,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Thailand,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Thailand,E-Commerce,Oral Nicotine,Core,5,NA,NA
+Thailand,E-Commerce,Oral Nicotine,Premium,5,NA,NA
+Thailand,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Thailand,Key Accounts,Heated Tobacco,Core,3,NA,NA
+Thailand,Key Accounts,Heated Tobacco,Premium,5,NA,NA
+Thailand,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Thailand,Key Accounts,Oral Nicotine,Core,3,NA,NA
+Thailand,Key Accounts,Oral Nicotine,Premium,4,NA,NA
+Thailand,Key Accounts,Oral Nicotine,Value,5,NA,NA
+Thailand,Retail,Heated Tobacco,Premium,9,NA,NA
+Thailand,Retail,Oral Nicotine,Premium,8,NA,NA
+Togo,E-Commerce,Cigarettes,Core,1,NA,NA
+Togo,E-Commerce,Cigarettes,Premium,1,NA,NA
+Togo,E-Commerce,Cigarettes,Value,1,NA,NA
+Togo,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Togo,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Togo,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Togo,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Togo,Key Accounts,Cigarettes,Core,4,NA,NA
+Togo,Key Accounts,Cigarettes,Premium,3,NA,NA
+Togo,Key Accounts,Cigarettes,Value,5,NA,NA
+Togo,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Togo,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Togo,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Togo,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Togo,Retail,Cigarettes,Core,1,NA,NA
+Togo,Retail,Cigarettes,Premium,3,NA,NA
+Togo,Retail,Cigarettes,Value,1,NA,NA
+Togo,Retail,Heated Tobacco,Value,2,NA,NA
+Togo,Retail,Oral Nicotine,Premium,1,NA,NA
+Togo,Retail,Oral Nicotine,Value,2,NA,NA
+Trinidad and Tobago,E-Commerce,Cigarettes,Core,2,NA,NA
+Trinidad and Tobago,E-Commerce,Cigarettes,Premium,2,NA,NA
+Trinidad and Tobago,E-Commerce,Cigarettes,Value,1,NA,NA
+Trinidad and Tobago,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Trinidad and Tobago,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Trinidad and Tobago,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Trinidad and Tobago,Key Accounts,Cigarettes,Core,2,NA,NA
+Trinidad and Tobago,Key Accounts,Cigarettes,Premium,1,NA,NA
+Trinidad and Tobago,Key Accounts,Cigarettes,Value,4,NA,NA
+Trinidad and Tobago,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Trinidad and Tobago,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Trinidad and Tobago,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Trinidad and Tobago,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Trinidad and Tobago,Retail,Cigarettes,Core,1,NA,NA
+Trinidad and Tobago,Retail,Cigarettes,Premium,2,NA,NA
+Trinidad and Tobago,Retail,Cigarettes,Value,1,NA,NA
+Trinidad and Tobago,Retail,Heated Tobacco,Premium,1,NA,NA
+Trinidad and Tobago,Retail,Heated Tobacco,Value,2,NA,NA
+Trinidad and Tobago,Retail,Oral Nicotine,Value,1,NA,NA
+Tunisia,E-Commerce,Cigarettes,Core,1,NA,NA
+Tunisia,Key Accounts,Cigarettes,Premium,1,NA,NA
+Tunisia,Key Accounts,Cigarettes,Value,1,NA,NA
+Tunisia,Retail,Cigarettes,Core,3,NA,NA
+Tunisia,Retail,Cigarettes,Premium,1,NA,NA
+Tunisia,Retail,Cigarettes,Value,4,NA,NA
+Tunisia,Retail,Heated Tobacco,Core,1,NA,NA
+Tunisia,Retail,Oral Nicotine,Core,1,NA,NA
+Turkey,E-Commerce,Oral Nicotine,Value,7,NA,NA
+Turkmenistan,E-Commerce,Cigarettes,Core,1,NA,NA
+Turkmenistan,E-Commerce,Cigarettes,Premium,1,NA,NA
+Turkmenistan,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Turkmenistan,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Turkmenistan,Key Accounts,Cigarettes,Core,1,NA,NA
+Turkmenistan,Key Accounts,Cigarettes,Premium,1,NA,NA
+Turkmenistan,Key Accounts,Cigarettes,Value,1,NA,NA
+Turkmenistan,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Turkmenistan,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Turkmenistan,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Turkmenistan,Retail,Cigarettes,Core,2,NA,NA
+Turkmenistan,Retail,Cigarettes,Premium,4,NA,NA
+Turkmenistan,Retail,Cigarettes,Value,4,NA,NA
+Turkmenistan,Retail,Heated Tobacco,Core,2,NA,NA
+Turkmenistan,Retail,Heated Tobacco,Premium,1,NA,NA
+Turkmenistan,Retail,Heated Tobacco,Value,1,NA,NA
+Turkmenistan,Retail,Oral Nicotine,Value,1,NA,NA
+Uganda,E-Commerce,Cigarettes,Core,1,NA,NA
+Uganda,E-Commerce,Cigarettes,Premium,2,NA,NA
+Uganda,E-Commerce,Cigarettes,Value,1,NA,NA
+Uganda,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Uganda,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Uganda,E-Commerce,Oral Nicotine,Value,1,NA,NA
+Uganda,Key Accounts,Cigarettes,Core,1,NA,NA
+Uganda,Key Accounts,Cigarettes,Value,1,NA,NA
+Uganda,Key Accounts,Heated Tobacco,Premium,1,NA,NA
+Uganda,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Uganda,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Uganda,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Uganda,Retail,Cigarettes,Core,3,NA,NA
+Uganda,Retail,Cigarettes,Premium,2,NA,NA
+Uganda,Retail,Cigarettes,Value,6,NA,NA
+Uganda,Retail,Heated Tobacco,Core,1,NA,NA
+Uganda,Retail,Heated Tobacco,Premium,1,NA,NA
+Uganda,Retail,Heated Tobacco,Value,1,NA,NA
+Uganda,Retail,Oral Nicotine,Value,1,NA,NA
+Ukraine,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Ukraine,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Ukraine,E-Commerce,Heated Tobacco,Value,4,NA,NA
+Ukraine,E-Commerce,Oral Nicotine,Core,3,NA,NA
+Ukraine,E-Commerce,Oral Nicotine,Premium,3,NA,NA
+Ukraine,E-Commerce,Oral Nicotine,Value,3,NA,NA
+Ukraine,Key Accounts,Heated Tobacco,Core,4,NA,NA
+Ukraine,Key Accounts,Heated Tobacco,Premium,8,NA,NA
+Ukraine,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Ukraine,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Ukraine,Key Accounts,Oral Nicotine,Premium,8,NA,NA
+Ukraine,Key Accounts,Oral Nicotine,Value,5,NA,NA
+Ukraine,Retail,Oral Nicotine,Core,6,NA,NA
+United Arab Emirates,Key Accounts,Cigarettes,Core,1,NA,NA
+United Arab Emirates,Key Accounts,Cigarettes,Value,1,NA,NA
+United Arab Emirates,Retail,Cigarettes,Core,4,NA,NA
+United Arab Emirates,Retail,Cigarettes,Premium,1,NA,NA
+United Arab Emirates,Retail,Cigarettes,Value,2,NA,NA
+United Arab Emirates,Retail,Heated Tobacco,Core,1,NA,NA
+United Arab Emirates,Retail,Heated Tobacco,Premium,1,NA,NA
+United Arab Emirates,Retail,Oral Nicotine,Premium,1,NA,NA
+United Kingdom,E-Commerce,Oral Nicotine,Core,8,NA,NA
+Uruguay,E-Commerce,Cigarettes,Premium,1,NA,NA
+Uruguay,E-Commerce,Cigarettes,Value,1,NA,NA
+Uruguay,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Uruguay,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Uruguay,Key Accounts,Cigarettes,Value,1,NA,NA
+Uruguay,Key Accounts,Oral Nicotine,Core,1,NA,NA
+Uruguay,Retail,Cigarettes,Core,4,NA,NA
+Uruguay,Retail,Cigarettes,Premium,2,NA,NA
+Uruguay,Retail,Cigarettes,Value,3,NA,NA
+Uruguay,Retail,Heated Tobacco,Premium,1,NA,NA
+Uruguay,Retail,Heated Tobacco,Value,1,NA,NA
+Uruguay,Retail,Oral Nicotine,Premium,2,NA,NA
+Uruguay,Retail,Oral Nicotine,Value,2,NA,NA
+Uzbekistan,E-Commerce,Cigarettes,Premium,2,NA,NA
+Uzbekistan,E-Commerce,Cigarettes,Value,1,NA,NA
+Uzbekistan,E-Commerce,Heated Tobacco,Core,2,NA,NA
+Uzbekistan,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Uzbekistan,Key Accounts,Cigarettes,Core,2,NA,NA
+Uzbekistan,Key Accounts,Cigarettes,Value,3,NA,NA
+Uzbekistan,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Uzbekistan,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Uzbekistan,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Uzbekistan,Retail,Cigarettes,Core,6,NA,NA
+Uzbekistan,Retail,Cigarettes,Premium,4,NA,NA
+Uzbekistan,Retail,Cigarettes,Value,5,NA,NA
+Uzbekistan,Retail,Heated Tobacco,Core,4,NA,NA
+Uzbekistan,Retail,Heated Tobacco,Premium,2,NA,NA
+Uzbekistan,Retail,Heated Tobacco,Value,1,NA,NA
+Uzbekistan,Retail,Oral Nicotine,Core,1,NA,NA
+Uzbekistan,Retail,Oral Nicotine,Premium,1,NA,NA
+Venezuela,E-Commerce,Cigarettes,Core,6,NA,NA
+Venezuela,E-Commerce,Cigarettes,Premium,6,NA,NA
+Venezuela,E-Commerce,Cigarettes,Value,5,NA,NA
+Venezuela,E-Commerce,Heated Tobacco,Core,4,NA,NA
+Venezuela,E-Commerce,Heated Tobacco,Value,2,NA,NA
+Venezuela,E-Commerce,Oral Nicotine,Core,2,NA,NA
+Venezuela,E-Commerce,Oral Nicotine,Premium,2,NA,NA
+Venezuela,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Venezuela,Key Accounts,Cigarettes,Core,7,NA,NA
+Venezuela,Key Accounts,Cigarettes,Premium,8,NA,NA
+Venezuela,Key Accounts,Cigarettes,Value,9,NA,NA
+Venezuela,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Venezuela,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Venezuela,Key Accounts,Heated Tobacco,Value,2,NA,NA
+Venezuela,Key Accounts,Oral Nicotine,Core,4,NA,NA
+Venezuela,Key Accounts,Oral Nicotine,Premium,2,NA,NA
+Venezuela,Key Accounts,Oral Nicotine,Value,4,NA,NA
+Venezuela,Retail,Heated Tobacco,Core,6,NA,NA
+Venezuela,Retail,Heated Tobacco,Value,5,NA,NA
+Venezuela,Retail,Oral Nicotine,Core,6,NA,NA
+Venezuela,Retail,Oral Nicotine,Premium,3,NA,NA
+Venezuela,Retail,Oral Nicotine,Value,6,NA,NA
+Vietnam,E-Commerce,Cigarettes,Value,5,NA,NA
+Vietnam,E-Commerce,Heated Tobacco,Core,3,NA,NA
+Vietnam,E-Commerce,Heated Tobacco,Premium,5,NA,NA
+Vietnam,E-Commerce,Heated Tobacco,Value,3,NA,NA
+Vietnam,E-Commerce,Oral Nicotine,Core,8,NA,NA
+Vietnam,E-Commerce,Oral Nicotine,Premium,4,NA,NA
+Vietnam,E-Commerce,Oral Nicotine,Value,3,NA,NA
+Vietnam,Key Accounts,Cigarettes,Premium,9,NA,NA
+Vietnam,Key Accounts,Cigarettes,Value,9,NA,NA
+Vietnam,Key Accounts,Heated Tobacco,Core,5,NA,NA
+Vietnam,Key Accounts,Heated Tobacco,Premium,5,NA,NA
+Vietnam,Key Accounts,Heated Tobacco,Value,5,NA,NA
+Vietnam,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Vietnam,Key Accounts,Oral Nicotine,Premium,4,NA,NA
+Vietnam,Key Accounts,Oral Nicotine,Value,6,NA,NA
+Vietnam,Retail,Heated Tobacco,Premium,6,NA,NA
+Vietnam,Retail,Oral Nicotine,Premium,9,NA,NA
+Yemen,E-Commerce,Cigarettes,Premium,1,NA,NA
+Yemen,Key Accounts,Cigarettes,Core,1,NA,NA
+Yemen,Key Accounts,Cigarettes,Premium,1,NA,NA
+Yemen,Key Accounts,Cigarettes,Value,2,NA,NA
+Yemen,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Yemen,Retail,Cigarettes,Core,4,NA,NA
+Yemen,Retail,Cigarettes,Premium,4,NA,NA
+Yemen,Retail,Cigarettes,Value,3,NA,NA
+Yemen,Retail,Heated Tobacco,Core,1,NA,NA
+Yemen,Retail,Heated Tobacco,Premium,3,NA,NA
+Yemen,Retail,Heated Tobacco,Value,1,NA,NA
+Yemen,Retail,Oral Nicotine,Core,2,NA,NA
+Yemen,Retail,Oral Nicotine,Premium,2,NA,NA
+Yemen,Retail,Oral Nicotine,Value,1,NA,NA
+Zambia,E-Commerce,Cigarettes,Core,7,NA,NA
+Zambia,E-Commerce,Cigarettes,Premium,4,NA,NA
+Zambia,E-Commerce,Cigarettes,Value,2,NA,NA
+Zambia,E-Commerce,Heated Tobacco,Core,1,NA,NA
+Zambia,E-Commerce,Heated Tobacco,Premium,2,NA,NA
+Zambia,E-Commerce,Heated Tobacco,Value,3,NA,NA
+Zambia,E-Commerce,Oral Nicotine,Core,3,NA,NA
+Zambia,E-Commerce,Oral Nicotine,Premium,1,NA,NA
+Zambia,E-Commerce,Oral Nicotine,Value,2,NA,NA
+Zambia,Key Accounts,Cigarettes,Core,2,NA,NA
+Zambia,Key Accounts,Cigarettes,Premium,4,NA,NA
+Zambia,Key Accounts,Cigarettes,Value,6,NA,NA
+Zambia,Key Accounts,Heated Tobacco,Core,1,NA,NA
+Zambia,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Zambia,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Zambia,Key Accounts,Oral Nicotine,Value,2,NA,NA
+Zambia,Retail,Cigarettes,Premium,8,NA,NA
+Zambia,Retail,Cigarettes,Value,7,NA,NA
+Zambia,Retail,Heated Tobacco,Core,2,NA,NA
+Zambia,Retail,Heated Tobacco,Premium,5,NA,NA
+Zambia,Retail,Heated Tobacco,Value,2,NA,NA
+Zambia,Retail,Oral Nicotine,Core,3,NA,NA
+Zambia,Retail,Oral Nicotine,Premium,3,NA,NA
+Zambia,Retail,Oral Nicotine,Value,5,NA,NA
+Zimbabwe,E-Commerce,Cigarettes,Core,3,NA,NA
+Zimbabwe,E-Commerce,Cigarettes,Premium,6,NA,NA
+Zimbabwe,E-Commerce,Cigarettes,Value,8,NA,NA
+Zimbabwe,E-Commerce,Heated Tobacco,Premium,1,NA,NA
+Zimbabwe,E-Commerce,Heated Tobacco,Value,1,NA,NA
+Zimbabwe,E-Commerce,Oral Nicotine,Core,1,NA,NA
+Zimbabwe,Key Accounts,Cigarettes,Core,7,NA,NA
+Zimbabwe,Key Accounts,Cigarettes,Premium,6,NA,NA
+Zimbabwe,Key Accounts,Cigarettes,Value,5,NA,NA
+Zimbabwe,Key Accounts,Heated Tobacco,Premium,2,NA,NA
+Zimbabwe,Key Accounts,Heated Tobacco,Value,1,NA,NA
+Zimbabwe,Key Accounts,Oral Nicotine,Core,2,NA,NA
+Zimbabwe,Key Accounts,Oral Nicotine,Premium,1,NA,NA
+Zimbabwe,Key Accounts,Oral Nicotine,Value,1,NA,NA
+Zimbabwe,Retail,Cigarettes,Core,7,NA,NA
+Zimbabwe,Retail,Cigarettes,Premium,4,NA,NA
+Zimbabwe,Retail,Cigarettes,Value,6,NA,NA
+Zimbabwe,Retail,Heated Tobacco,Core,2,NA,NA
+Zimbabwe,Retail,Heated Tobacco,Value,2,NA,NA
+Zimbabwe,Retail,Oral Nicotine,Core,1,NA,NA
+Zimbabwe,Retail,Oral Nicotine,Premium,1,NA,NA
